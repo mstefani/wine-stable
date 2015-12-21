@@ -1,0 +1,2 @@
+Fixes: [41111] CPU-Z driver needs hal.dll.WRITE_PORT_UCHAR
+	https://bugs.winehq.org/show_bug.cgi?id=41111

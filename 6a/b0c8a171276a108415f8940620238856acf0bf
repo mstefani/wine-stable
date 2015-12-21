@@ -1,0 +1,2 @@
+Fixes: [36625] can't set text background color in richedit
+	https://bugs.winehq.org/show_bug.cgi?id=36625

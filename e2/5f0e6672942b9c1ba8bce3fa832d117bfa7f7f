@@ -1,0 +1,2 @@
+Fixes: [41103] Fails to parse Extended Properties since it has quotes around its value.
+	https://bugs.winehq.org/show_bug.cgi?id=41103

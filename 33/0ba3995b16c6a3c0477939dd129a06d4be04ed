@@ -1,0 +1,2 @@
+Fixes: [39950] Cabal II can't be opened, needs msvcp100.dll.?lowest@?$numeric_limits@M@std@@SAMXZ
+	https://bugs.winehq.org/show_bug.cgi?id=39950

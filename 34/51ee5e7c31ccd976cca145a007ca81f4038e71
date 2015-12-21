@@ -1,0 +1,2 @@
+Fixes: [24645] PDF Factory 3.x/4.x installer fails to install printer drivers (winspool.SetPrinterW lacks support for level 8, global default printer settings)
+	https://bugs.winehq.org/show_bug.cgi?id=24645

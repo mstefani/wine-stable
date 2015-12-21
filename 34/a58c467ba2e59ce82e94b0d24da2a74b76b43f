@@ -1,0 +1,2 @@
+Fixes: [41010] TVS_TRACKSELECT uses wrong hittest region
+	https://bugs.winehq.org/show_bug.cgi?id=41010
