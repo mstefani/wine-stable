@@ -1,2 +1,3 @@
 Fixes: [39611] Any Video Converter (AVC) crashes after converting a video, needs msvcr100.dll._wtmpnam_s
 	https://bugs.winehq.org/show_bug.cgi?id=39611
+Depends on: 4893ce6a3b35d58fc90f26c163ed8abf12961b13
