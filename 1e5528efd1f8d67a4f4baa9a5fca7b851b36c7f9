@@ -1,0 +1,2 @@
+Fixes: [39953] StarCraft II: 64bit client crashing regularly due to access violation (0xC0000005)
+	https://bugs.winehq.org/show_bug.cgi?id=39953
