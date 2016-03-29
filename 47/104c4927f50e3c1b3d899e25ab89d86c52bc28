@@ -1,0 +1,2 @@
+Fixes: [13683] Ultima IX: Mouse pointer missing when reading books, under inventory
+	https://bugs.winehq.org/show_bug.cgi?id=13683
