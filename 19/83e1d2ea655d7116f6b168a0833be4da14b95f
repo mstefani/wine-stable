@@ -1,0 +1,2 @@
+Fixes: [37115] Calling ReadFile from WINBASEAPI (WinBase.h) with zero read length causes hang
+	https://bugs.winehq.org/show_bug.cgi?id=37115
