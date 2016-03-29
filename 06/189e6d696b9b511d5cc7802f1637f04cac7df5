@@ -1,0 +1,2 @@
+Fixes: [14617] Multiple Visual Basic 5/6 applications using ActiveX components depend on Standard OLE Types Typelib which is missing from 'olepro32.dll'
+	https://bugs.winehq.org/show_bug.cgi?id=14617
