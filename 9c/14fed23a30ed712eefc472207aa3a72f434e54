@@ -1,0 +1,2 @@
+Fixes: [38314] Mouse Wheel doesn't work for Jagged Alliance 2 version 1.13 (it uses MOUSEHOOKSTRUCTEX)
+	https://bugs.winehq.org/show_bug.cgi?id=38314
