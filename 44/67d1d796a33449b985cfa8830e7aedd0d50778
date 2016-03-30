@@ -1,0 +1,2 @@
+Fixes: [25086] Multiple games and applications need kernel32.GetLogicalProcessorInformationEx implementation (CPU-Z 1.72, Splinter Cell: Blacklist, Adobe CC 2015, Kontakt 5)
+	https://bugs.winehq.org/show_bug.cgi?id=25086
