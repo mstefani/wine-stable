@@ -1,0 +1,3 @@
+Fixes: [35187] Jade Empire Special Edition configuration tool always resetting video settings
+	https://bugs.winehq.org/show_bug.cgi?id=35187
+Fixes regression: 85ced167bd68e882900085ea50f25897e8457172
