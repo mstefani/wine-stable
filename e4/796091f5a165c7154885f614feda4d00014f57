@@ -1,0 +1,2 @@
+Fixes: [37288] Not implemented feature System.Drawing.Pen.ResetTransform()
+	https://bugs.winehq.org/show_bug.cgi?id=37288
