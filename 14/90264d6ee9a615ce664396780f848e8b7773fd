@@ -1,2 +1,4 @@
 Fixes: [40083] Heroes of the Storm Freezes/Crashes after its recent updates
 	https://bugs.winehq.org/show_bug.cgi?id=40083
+Depends on: e65c89f1c52c8aa4bbc375751138d0aec6bd237a
+Depends on: 218bc84e03eaa807caca58027334e9b173dcfa7e
