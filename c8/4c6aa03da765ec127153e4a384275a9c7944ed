@@ -1,2 +1,4 @@
 Fixes: [37556] CompareStringW should abort on the first nonmatching character to avoid invalid memory access.
 	https://bugs.winehq.org/show_bug.cgi?id=37556
+
+Acked-by: Sebastian Lackner <sebastian@fds-team.de>
