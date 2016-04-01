@@ -1,2 +1,4 @@
 Fixes: [34174] MinGW installer 0.5-beta-20120426-1 fails to process log files (sharing violation on temp file used for piped output)
 	https://bugs.winehq.org/show_bug.cgi?id=34174
+
+Acked-by: Sebastian Lackner <sebastian@fds-team.de>
