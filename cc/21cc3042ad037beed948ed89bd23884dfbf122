@@ -1,0 +1,2 @@
+Fixes: [34318] Multiple games and applications need ntdll.dll.EtwRegisterTraceGuidsW (Process Hacker 2.x, Far Cry 4)
+	https://bugs.winehq.org/show_bug.cgi?id=34318

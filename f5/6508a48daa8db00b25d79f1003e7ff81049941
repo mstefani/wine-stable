@@ -1,0 +1,2 @@
+Fixes: [37536] Native MSVCP120.dll override requires implementation of msvcr120.dll._W_Gettnames (Desura client)
+	https://bugs.winehq.org/show_bug.cgi?id=37536

@@ -1,0 +1,2 @@
+Fixes: [39838] Wreckfest Server: Crashes at startup, unimplemented function KERNEL32.dll.GetConsoleScreenBufferInfoEx & SetConsoleScreenBufferInfoEx
+	https://bugs.winehq.org/show_bug.cgi?id=39838

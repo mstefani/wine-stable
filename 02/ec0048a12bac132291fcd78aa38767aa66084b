@@ -1,0 +1,3 @@
+Fixes: [36013] bleem! 1.4 (PlayStation emulator) fails on startup, complaining with 'Not enough memory to load program!'
+	https://bugs.winehq.org/show_bug.cgi?id=36013
+Acked-by: Sebastian Lackner <sebastian@fds-team.de>

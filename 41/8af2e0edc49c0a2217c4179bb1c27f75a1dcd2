@@ -1,0 +1,6 @@
+Fixes: [37288] Not implemented feature System.Drawing.Pen.ResetTransform()
+	https://bugs.winehq.org/show_bug.cgi?id=37288
+Depends on: 0a7cd7c153606f665365f3abbe627745513f75cf
+Depends on: a4d95074b9b4b2f30060b9a534cf79e72fe8fef9
+Depends on: b8449062eb13ed27612ac3df8e05c67587bce12f
+Depends on: 36c068193dbc81792621dd0a5240fad43afa2979

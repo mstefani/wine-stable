@@ -1,0 +1,3 @@
+Fixes: [40204] Steam client fails to start with UmePlus font installed, when running in dwrite mode
+	https://bugs.winehq.org/show_bug.cgi?id=40204
+Fixes regression:

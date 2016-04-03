@@ -1,0 +1,3 @@
+Fixes: [30687] Powerpoint 2003/2007: embedded video play/pause on click no longer works
+	https://bugs.winehq.org/show_bug.cgi?id=30687
+Fixes regression: 821ead201d38ebca8f3e92e71bf7b6c8641b5ace

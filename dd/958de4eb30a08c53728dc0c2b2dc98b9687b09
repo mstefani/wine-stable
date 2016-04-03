@@ -1,0 +1,2 @@
+Fixes: [32827] Legrand XlPro 3 (MFC app) crashes on startup (failure to load registry-free COM servers via app hook, 'OleCreate' must ignore HRESULT of 'IOleObject::GetMiscStatus')
+	https://bugs.winehq.org/show_bug.cgi?id=32827

@@ -1,0 +1,3 @@
+Fixes: [40201] EccoPro only works on Wine 1.6.2
+	https://bugs.winehq.org/show_bug.cgi?id=40201
+Fixes regression: 817d903cb97a1c088eecd0574745d8274726e912

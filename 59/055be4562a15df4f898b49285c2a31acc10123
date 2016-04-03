@@ -1,0 +1,4 @@
+Fixes: [15473] Adobe After Effects 4 crashes on startup
+	https://bugs.winehq.org/show_bug.cgi?id=15473
+
+Acked-by: Sebastian Lackner <sebastian@fds-team.de>

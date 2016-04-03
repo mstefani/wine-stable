@@ -1,0 +1,2 @@
+Fixes: [33787] IE8 crashes on new tab
+	https://bugs.winehq.org/show_bug.cgi?id=33787

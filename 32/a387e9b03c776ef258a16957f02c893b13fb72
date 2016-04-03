@@ -1,0 +1,2 @@
+Fixes: [39875] Starcraft can't see Direct Cable Connection games hosted on another computer
+	https://bugs.winehq.org/show_bug.cgi?id=39875

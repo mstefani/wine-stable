@@ -1,0 +1,3 @@
+Fixes: [39878] Diablo II does not start on 64bit system with more than 2GB VRAM cards
+	https://bugs.winehq.org/show_bug.cgi?id=39878
+Fixes regression: 7cdaece711e696447b10ea9c0ab00b7ced799165

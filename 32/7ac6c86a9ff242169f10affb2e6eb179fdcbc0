@@ -1,0 +1,4 @@
+Fixes: [40147] Assertion 'm->state == STATE_PASSIVE' failed at pulse/mainloop.c:827 on starting Skype 7.18.0.112
+	https://bugs.winehq.org/show_bug.cgi?id=40147
+
+Acked-by: Sebastian Lackner <sebastian@fds-team.de>
