@@ -1,3 +1,8 @@
 Fixes: [39092] Regression introduced with xaudio2_8
 	https://bugs.winehq.org/show_bug.cgi?id=39092
 Fixes regression: 929ab3e527b25bcfea375e4373230748868d8714
+Depends on: 35eebeef0fe0b3f03f44731f805c447b2342acfd
+Depends on: 4ad4c61100c06cbd9eb6587c543ceac94b932621
+Depends on: 5f15d5b37cbc4ac95b01393337eafe1e88e4d6ec
+Depends on: fb9f616b2ba1b4bccda39f7e933612aba4cd562b
+Depends on: 3934253513c277e0a0163a923af7c4d92f911881
