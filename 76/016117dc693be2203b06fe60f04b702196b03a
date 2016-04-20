@@ -1,0 +1,3 @@
+Fixes: [39092] Regression introduced with xaudio2_8
+	https://bugs.winehq.org/show_bug.cgi?id=39092
+Fixes regression: 929ab3e527b25bcfea375e4373230748868d8714
