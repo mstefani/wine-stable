@@ -1,0 +1,2 @@
+Fixes: [40286] Geforce 980 maxwell card is not properly detected
+	https://bugs.winehq.org/show_bug.cgi?id=40286
