@@ -1,0 +1,2 @@
+Fixes: [35054] Dragon Age 2 system diagnostics tool fails to recognize GeForce GT 425M
+	https://bugs.winehq.org/show_bug.cgi?id=35054
