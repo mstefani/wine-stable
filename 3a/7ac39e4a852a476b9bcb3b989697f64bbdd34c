@@ -1,0 +1,2 @@
+Fixes: [39759] Add support for detect  Nvidia TITAN Black in wine3d/device list
+	https://bugs.winehq.org/show_bug.cgi?id=39759
