@@ -1,0 +1,2 @@
+Fixes: [39215] Nvidia GeForce GTX960M detected as GTX470
+	https://bugs.winehq.org/show_bug.cgi?id=39215
