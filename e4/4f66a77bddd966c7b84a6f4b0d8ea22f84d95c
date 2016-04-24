@@ -1,0 +1,2 @@
+Fixes: [36031] GeForce 9700M incorrectly detected as 9400
+	https://bugs.winehq.org/show_bug.cgi?id=36031
