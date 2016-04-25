@@ -1,0 +1,2 @@
+Fixes: [35711] Winelib: compile error in wincon.h if NOGDI is defined before #include <windows.h>
+	https://bugs.winehq.org/show_bug.cgi?id=35711
