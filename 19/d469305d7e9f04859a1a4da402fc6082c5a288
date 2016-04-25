@@ -1,0 +1,2 @@
+Fixes: [29979] ElsterFormular crashes when trying to print already sent income tax return
+	https://bugs.winehq.org/show_bug.cgi?id=29979
