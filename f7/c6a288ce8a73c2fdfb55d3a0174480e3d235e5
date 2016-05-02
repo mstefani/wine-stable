@@ -1,0 +1,2 @@
+Fixes: [24421] MJ's Help Diagnostics crashes on startup (app provided MonitorEnumProc callback relies on ECX = lprcMonitor)
+	https://bugs.winehq.org/show_bug.cgi?id=24421
