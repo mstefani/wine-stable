@@ -1,0 +1,3 @@
+Fixes: [31662] Office 2010 font embedding when exporting to PDF
+	https://bugs.winehq.org/show_bug.cgi?id=31662
+Depends on: 847da79cf80b565a79933d92e0218b230b933a4f
