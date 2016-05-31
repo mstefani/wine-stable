@@ -1,0 +1,2 @@
+Fixes: [39786] GoodSync crashes, needs oleaut32.OleLoadPictureFile
+	https://bugs.winehq.org/show_bug.cgi?id=39786
