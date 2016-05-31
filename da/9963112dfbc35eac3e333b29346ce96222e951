@@ -1,0 +1,3 @@
+Fixes: [35092] Multiple 64-bit applications need __CxxFrameHandler implementation (Ableton Live 9.1, Adobe Cloud apps)
+	https://bugs.winehq.org/show_bug.cgi?id=35092
+Depends on: 3350364d8b7f44e328c9e8f564a836ad23b4104f
