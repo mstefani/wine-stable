@@ -1,0 +1,2 @@
+Fixes: [10063] wineconsole run fail on korean locale.
+	https://bugs.winehq.org/show_bug.cgi?id=10063
