@@ -1,0 +1,2 @@
+Fixes: [40244] PostThreadMessage with WM_NOTIFY message should succeed
+	https://bugs.winehq.org/show_bug.cgi?id=40244
