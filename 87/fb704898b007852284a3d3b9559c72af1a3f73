@@ -1,0 +1,2 @@
+Fixes: [23768] winhelp: Some images not shown in certain 16-bit Help files
+	https://bugs.winehq.org/show_bug.cgi?id=23768
