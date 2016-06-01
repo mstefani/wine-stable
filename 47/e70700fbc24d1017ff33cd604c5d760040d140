@@ -1,0 +1,2 @@
+Fixes: [40525] schannel:main does not recognize package version 0x400000
+	https://bugs.winehq.org/show_bug.cgi?id=40525
