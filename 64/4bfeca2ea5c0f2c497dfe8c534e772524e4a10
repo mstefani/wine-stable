@@ -1,0 +1,2 @@
+Fixes: [17257] TeX2Word will not install
+	https://bugs.winehq.org/show_bug.cgi?id=17257
