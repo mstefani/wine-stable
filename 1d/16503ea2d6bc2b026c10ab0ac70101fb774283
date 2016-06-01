@@ -1,2 +1,5 @@
 Fixes: [39730] FillRect() confuses 16bit brush handles with color constants
 	https://bugs.winehq.org/show_bug.cgi?id=39730
+
+Fixes: [39940] Stars! tooltips have wrong background color
+	https://bugs.winehq.org/show_bug.cgi?id=39940
