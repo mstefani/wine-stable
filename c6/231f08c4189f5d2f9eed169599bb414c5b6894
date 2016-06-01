@@ -1,0 +1,3 @@
+Fixes: [39796] SCP Containment Breach page fault
+	https://bugs.winehq.org/show_bug.cgi?id=39796
+Fixes regression: 80055e1fcd0140d610d54bf7d48f3843245c7059
