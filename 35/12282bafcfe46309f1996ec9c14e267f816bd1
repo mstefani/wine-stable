@@ -1,3 +1,4 @@
 Fixes: [25790] WM_SETTEXT handler for the user32 buttons generates WM_CTLCOLOR* inconsistent with Windows user32
 	https://bugs.winehq.org/show_bug.cgi?id=25790
+Depends on: 35ab5f4499185f8df0504b95a99613fa4e30440a
 Depends on: 2c180741e154a73a502c3aff1a15f9e990c2aac4
