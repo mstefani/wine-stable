@@ -1,0 +1,2 @@
+Fixes: [32451] Multiple GOG.com installer bundles show a broken/unresponsive dialog window during installation (installer process running out of wndproc slots)
+	https://bugs.winehq.org/show_bug.cgi?id=32451
