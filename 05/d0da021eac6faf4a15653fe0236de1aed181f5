@@ -1,0 +1,3 @@
+Fixes: [39918] Mail.Ru GameCenter installer does not work
+	https://bugs.winehq.org/show_bug.cgi?id=39918
+Depends on: c63d417222fd9093c3162469ca64feb6c41b6cb1
