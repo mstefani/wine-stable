@@ -1,0 +1,3 @@
+Fixes: [34851] Multiple applications need kernel32 GetFinalPathNameByHandleA/W (64-bit Autodesk Fusion 360, Microsoft OneDrive)
+	https://bugs.winehq.org/show_bug.cgi?id=34851
+Depends on: 30686975a9ba7dee86bdeb18740d706909a3d509
