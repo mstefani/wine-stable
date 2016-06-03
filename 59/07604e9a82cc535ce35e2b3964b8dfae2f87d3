@@ -1,0 +1,2 @@
+Fixes: [40456] NFS MW + NFS Carbon: Car is flying above/under the track (D3DXVec3Transform needs arguments aliasing)
+	https://bugs.winehq.org/show_bug.cgi?id=40456
