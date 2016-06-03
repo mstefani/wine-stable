@@ -1,0 +1,2 @@
+Fixes: [40493] Prison Tycoon 4 crashes on start up needing msvcp71.dll.??$?5DU?$char_traits@D@std@@@std@@YAAAV?$basic_istream@DU?$char_traits@D@std@@@0@AAV10@AAC@Z
+	https://bugs.winehq.org/show_bug.cgi?id=40493
