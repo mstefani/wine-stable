@@ -1,0 +1,2 @@
+Fixes: [40487] 3dmark Vantage Benchmark: unimplemented functions hal.dll.READ and WRITE PORT
+	https://bugs.winehq.org/show_bug.cgi?id=40487
