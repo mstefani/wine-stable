@@ -1,0 +1,2 @@
+Fixes: [39657] Tencent QQ 7.6  crashes on unimplemented function ntoskrnl.exe.PsRemoveLoadImageNotifyRoutine
+	https://bugs.winehq.org/show_bug.cgi?id=39657
