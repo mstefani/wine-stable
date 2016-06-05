@@ -1,0 +1,2 @@
+Fixes: [40396] Windows SDK DirectWrite sample crashes on uninitialized parameter
+	https://bugs.winehq.org/show_bug.cgi?id=40396
