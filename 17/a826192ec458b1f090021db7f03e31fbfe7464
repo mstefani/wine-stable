@@ -1,0 +1,2 @@
+Fixes: [40851] macOS 10.12 Build Failure in winspool.drv with cupsGetPPD
+	https://bugs.winehq.org/show_bug.cgi?id=40851
