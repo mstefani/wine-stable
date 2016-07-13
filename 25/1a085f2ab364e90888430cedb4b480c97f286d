@@ -1,0 +1,2 @@
+Fixes: [40659] Window with CS_OWNDC style cause DC leak when GetDC/ReleaseDC is used.
+	https://bugs.winehq.org/show_bug.cgi?id=40659
