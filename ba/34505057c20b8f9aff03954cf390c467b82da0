@@ -1,0 +1,2 @@
+Fixes: [40557] KSP Trajectory Optimization Tool (MATLAB Runtime (MCR)) crashes at launch
+	https://bugs.winehq.org/show_bug.cgi?id=40557
