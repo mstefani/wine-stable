@@ -1,0 +1,2 @@
+Fixes: [40614] Cisco Jabber 11.6 crashes due to missing dbghelp.dll.EnumerateLoadedModulesExW
+	https://bugs.winehq.org/show_bug.cgi?id=40614
