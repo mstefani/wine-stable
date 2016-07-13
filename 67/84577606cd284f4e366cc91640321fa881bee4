@@ -1,0 +1,2 @@
+Fixes: [36556] valgrind shows a definite leak in comctl32/tests/syslink.c
+	https://bugs.winehq.org/show_bug.cgi?id=36556
