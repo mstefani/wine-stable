@@ -1,0 +1,3 @@
+Fixes: [40511] Application that copies files from one place to another stoped working in wine versions greater then 1.6.2
+	https://bugs.winehq.org/show_bug.cgi?id=40511
+Fixes regression: e57a4e94909eede1d7e84bb092d5cc93fc8b9b22
