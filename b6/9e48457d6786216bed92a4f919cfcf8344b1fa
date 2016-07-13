@@ -1,0 +1,2 @@
+Fixes: [26268] Multiple applications need ntdll.ZwSetLdtEntries stub (kwiksupport.me, Ragnarok Online patcher)
+	https://bugs.winehq.org/show_bug.cgi?id=26268
