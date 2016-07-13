@@ -1,0 +1,2 @@
+Fixes: [37063] NTLM EncryptMessage/DecryptMessage failure
+	https://bugs.winehq.org/show_bug.cgi?id=37063
