@@ -1,0 +1,2 @@
+Fixes: [36838] TOCA Touring Car Championship: installer copies one file from CD and then shows an error
+	https://bugs.winehq.org/show_bug.cgi?id=36838
