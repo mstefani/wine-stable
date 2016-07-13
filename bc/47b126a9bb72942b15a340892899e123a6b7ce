@@ -1,0 +1,3 @@
+Fixes: [38137] WBaduk: "Could not obtain OLE control window handle" regression
+	https://bugs.winehq.org/show_bug.cgi?id=38137
+Fixes regression: 1cf571eb5faa8960635cc34c86460bfeaa6171f1
