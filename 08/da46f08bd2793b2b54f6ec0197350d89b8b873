@@ -1,0 +1,2 @@
+Fixes: [40618] Autodesk 123D Design needs msvcr100.dll.mbsrtowcs_s
+	https://bugs.winehq.org/show_bug.cgi?id=40618
