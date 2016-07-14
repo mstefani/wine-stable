@@ -1,0 +1,2 @@
+Fixes: [40745] Python 3.5.1 interpreter crashes, needs _set_thread_local_invalid_parameter_handler
+	https://bugs.winehq.org/show_bug.cgi?id=40745
