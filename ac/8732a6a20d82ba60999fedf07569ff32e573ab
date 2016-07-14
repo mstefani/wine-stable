@@ -1,0 +1,2 @@
+Fixes: [40691] DVDFab 9.2.4.4 pre-check FabCheck.exe executable fails, needs setupapi.dll.CM_Get_DevNode_Status
+	https://bugs.winehq.org/show_bug.cgi?id=40691
