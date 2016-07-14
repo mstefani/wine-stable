@@ -1,0 +1,2 @@
+Fixes: [40497] "Trainz: A New Era" needs msvcr120.dll.?__ExceptionPtrToBool@@YA_NPEBX@Z
+	https://bugs.winehq.org/show_bug.cgi?id=40497
