@@ -1,0 +1,2 @@
+Fixes: [22819] Some applications like Heroes of Might and Magic 2 display loopback.
+	https://bugs.winehq.org/show_bug.cgi?id=22819
