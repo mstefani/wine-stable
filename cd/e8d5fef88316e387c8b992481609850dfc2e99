@@ -1,0 +1,2 @@
+Fixes: [40747] Microsoft Expression Web 4 crashes on startup, needs gdiplus.dll.GdipGetImageAttributesAdjustedPalette
+	https://bugs.winehq.org/show_bug.cgi?id=40747
