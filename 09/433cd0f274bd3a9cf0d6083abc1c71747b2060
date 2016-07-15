@@ -1,0 +1,2 @@
+Fixes: [40754] GOG Galaxy crashes with unimplemented function api-ms-win-crt-locale-l1-1-0.dll._lock_locales
+	https://bugs.winehq.org/show_bug.cgi?id=40754
