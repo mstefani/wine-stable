@@ -1,0 +1,2 @@
+Fixes: [40380] Wine should take dosbox's configuration instead of creating a new one
+	https://bugs.winehq.org/show_bug.cgi?id=40380
