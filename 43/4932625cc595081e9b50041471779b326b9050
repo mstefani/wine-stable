@@ -1,0 +1,2 @@
+Fixes: [38962] expr.c:234 and 235 attempted computation of 1 << 31 should be 1u << 31
+	https://bugs.winehq.org/show_bug.cgi?id=38962
