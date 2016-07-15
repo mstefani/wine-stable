@@ -1,0 +1,3 @@
+Fixes: [40796] Python 3.5.1 interpreter crashes when importing pyqtSlot
+	https://bugs.winehq.org/show_bug.cgi?id=40796
+Depends on: 5325b8c95112be75f4fa0e2e2e45bcc88434fb5d
