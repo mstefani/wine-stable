@@ -1,2 +1,7 @@
 Fixes: [20977] Bad hlp table rendering
 	https://bugs.winehq.org/show_bug.cgi?id=20977
+Depends on: 58f16273c307a240d7c149adbd2f9f7ced0e5d70
+Depends on: ae56f3d093c84b47248be6a66cebd58c0bb59668
+Depends on: d55cb801bcbef7b61b25906e12d056f0b40a52ba
+Depends on: 5200dc9b05c5919c9d03b34f75f63c544ba0d372
+Depends on: a01c003007f6b2a7e53f6d726384d584710f1966
