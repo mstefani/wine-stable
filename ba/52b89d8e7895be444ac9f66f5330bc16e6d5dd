@@ -1,0 +1,2 @@
+Fixes: [18745] 64-bit Mortal Kombat X crashes on unimplemented function KERNEL32.dll.GetLargePageMinimum
+	https://bugs.winehq.org/show_bug.cgi?id=18745
