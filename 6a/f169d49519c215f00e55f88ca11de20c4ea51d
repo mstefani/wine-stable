@@ -1,0 +1,3 @@
+Fixes: [40581] Regression: dsound input recording from microphone lags with 2 seconds delay
+	https://bugs.winehq.org/show_bug.cgi?id=40581
+Fixes regression: d301254e72f018c3e04272115e20ffc70ffcbc12
