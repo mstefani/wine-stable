@@ -1,0 +1,3 @@
+Fixes: [38811] Java JRE 8 installer 'jre-8uXX-windows-i586.exe' crashes on startup (GetThreadPreferredUILanguages is a stub)
+	https://bugs.winehq.org/show_bug.cgi?id=38811
+Depends on: 9cd67d2a5e7a7ad441287e803c166523814e2bcb
