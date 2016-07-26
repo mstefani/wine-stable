@@ -1,0 +1,3 @@
+Fixes: [37090] Multiple applications crash with built-in amstream (Shogun: Total War, Medieval: Total War)
+	https://bugs.winehq.org/show_bug.cgi?id=37090
+Depends on: 04c3a9bad2585c4b93d23e856dad3d8ab0557885
