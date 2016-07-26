@@ -1,0 +1,2 @@
+Fixes: [40532] Microsoft Word Viewer 11.8 does not show text on file properties dialog until the text is selected
+	https://bugs.winehq.org/show_bug.cgi?id=40532
