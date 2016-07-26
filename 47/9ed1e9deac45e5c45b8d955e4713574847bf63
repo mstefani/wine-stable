@@ -1,0 +1,2 @@
+Fixes: [40562] AkelPad: [ToolBar plugin] tooltips for toolbar buttons have some extra text
+	https://bugs.winehq.org/show_bug.cgi?id=40562
