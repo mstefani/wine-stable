@@ -1,0 +1,2 @@
+Fixes: [40830] Conflict between kVK_RightCommand and macOS 10.12 Sierra in carbon framework
+	https://bugs.winehq.org/show_bug.cgi?id=40830
