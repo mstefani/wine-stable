@@ -1,0 +1,2 @@
+Fixes: [39933] iNode 3.6 client needs ndis.sys.NdisAllocateSpinLock
+	https://bugs.winehq.org/show_bug.cgi?id=39933
