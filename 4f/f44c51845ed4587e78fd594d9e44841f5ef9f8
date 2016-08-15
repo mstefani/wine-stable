@@ -1,3 +1,4 @@
 Fixes: [41132] Specific font files can cause Steam to crash unexpectedly
 	https://bugs.winehq.org/show_bug.cgi?id=41132
 Depends on: ff57b1febba846fe30f420519b4aec2a1f23dc35
+Acked-by: Nikolay Sivov <nsivov@codeweavers.com>
