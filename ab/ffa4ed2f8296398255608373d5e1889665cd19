@@ -1,2 +1,3 @@
 Fixes: [39842] Skype for windows doesn't work (needs ndis.sys.NdisSystemProcessorCount)
 	https://bugs.winehq.org/show_bug.cgi?id=39842
+Acked-by: André Hentschel <nerv@dawncrow.de>
