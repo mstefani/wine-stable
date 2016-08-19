@@ -1,0 +1,2 @@
+Fixes: [41040] VariantChangeTypeEx lead to error when casting IUnknown(nil) -> IDispatch
+	https://bugs.winehq.org/show_bug.cgi?id=41040
