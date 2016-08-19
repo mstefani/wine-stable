@@ -1,7 +1,5 @@
 Fixes: [40758] GOG Galaxy crashes with unimplemented function api-ms-win-crt-runtime-l1-1-0.dll._get_wide_winmain_command_line
 	https://bugs.winehq.org/show_bug.cgi?id=40758
-Depends on: 2ea84373cfd9854293bab8cb6e9bde284977d3bb
-
 Fixes: [40905] Multiple applications need api-ms-win-crt-runtime-l1-1-0.dll._get_narrow_winmain_command_line (PCSX2 1.4.0, Battle.Net Launcher)
 	https://bugs.winehq.org/show_bug.cgi?id=40905
 Depends on: 2ea84373cfd9854293bab8cb6e9bde284977d3bb
