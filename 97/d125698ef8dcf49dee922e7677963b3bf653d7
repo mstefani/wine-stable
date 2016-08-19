@@ -1,0 +1,2 @@
+Fixes: [41079] Hauppauge Capture crashes on unimplemented function cfgmgr32.dll.CM_Get_Version
+	https://bugs.winehq.org/show_bug.cgi?id=41079
