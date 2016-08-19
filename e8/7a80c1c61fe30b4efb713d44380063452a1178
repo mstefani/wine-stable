@@ -1,0 +1,2 @@
+Fixes: [39181] "When Monster Strikes", "The Vanishing of Ethan Carter Redux" require msvcr120.dll._set_FMA3_enable
+	https://bugs.winehq.org/show_bug.cgi?id=39181
