@@ -1,0 +1,3 @@
+Fixes: [34281] PlotSoft PDFill 10 fails on startup, reports 'No Fonts found under: C:\\windows\\Fonts' (at least one font name in registry must contain 'truetype' token)
+	https://bugs.winehq.org/show_bug.cgi?id=34281
+Fixes regression: abc8f2c6c270a8f6bce8c5c1f0fc5b5773dad4a9
