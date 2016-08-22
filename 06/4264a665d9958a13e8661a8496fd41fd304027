@@ -1,0 +1,2 @@
+Fixes: [40999] Epic Games Launcher needs ws2_32.InetNtopW
+	https://bugs.winehq.org/show_bug.cgi?id=40999

@@ -1,0 +1,2 @@
+Fixes: [33457] An integer overflow @line 268 of dsa.c ?
+	https://bugs.winehq.org/show_bug.cgi?id=33457

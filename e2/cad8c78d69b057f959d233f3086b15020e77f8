@@ -1,0 +1,2 @@
+Fixes: [40815] comctl32: Leftmost position of trackbar not selectable with mouse, slider initial position wrong
+	https://bugs.winehq.org/show_bug.cgi?id=40815

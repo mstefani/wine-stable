@@ -1,0 +1,2 @@
+Fixes: [40035] VMware shared folders network provider fails loading in MPR
+	https://bugs.winehq.org/show_bug.cgi?id=40035
