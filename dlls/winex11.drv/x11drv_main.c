@@ -600,9 +600,9 @@ static BOOL process_attach(void)
 
 
 /***********************************************************************
- *           X11DRV thread termination routine
+ *           ThreadDetach (X11DRV.@)
  */
-static void thread_detach(void)
+void CDECL X11DRV_ThreadDetach(void)
 {
     struct x11drv_thread_data *data = TlsGetValue( thread_data_tls_index );
 
@@ -693,11 +693,9 @@ BOOL WINAPI DllMain( HINSTANCE hinst, DWORD reason, LPVOID reserved )
     switch(reason)
     {
     case DLL_PROCESS_ATTACH:
+        DisableThreadLibraryCalls( hinst );
         x11drv_module = hinst;
         ret = process_attach();
-        break;
-    case DLL_THREAD_DETACH:
-        thread_detach();
         break;
     }
     return ret;
