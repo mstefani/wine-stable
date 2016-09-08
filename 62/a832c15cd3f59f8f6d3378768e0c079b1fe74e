@@ -1,0 +1,2 @@
+Fixes: [39195] msvcr120.dll.nextafter is needed by Sonkwo
+	https://bugs.winehq.org/show_bug.cgi?id=39195
