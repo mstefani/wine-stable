@@ -1,0 +1,2 @@
+Fixes: [23298] Windows utility 'relog.exe' crashes on unimplemented function 'pdh.dll.PdhGetLogFileTypeW'
+	https://bugs.winehq.org/show_bug.cgi?id=23298
