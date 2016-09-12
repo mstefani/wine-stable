@@ -1,0 +1,2 @@
+Fixes: [32936] SmartMusic 2012/2014 crashes on startup (Core Audio adapter 'PKEY_DeviceInterface_FriendlyName' property not supported)
+	https://bugs.winehq.org/show_bug.cgi?id=32936
