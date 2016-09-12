@@ -1,0 +1,2 @@
+Fixes: [35824] UltraISO 'ISODrive.sys' crashes in entry point (SCM doesn't start SERVICE_FILE_SYSTEM_DRIVER type services with winedevice hosting process)
+	https://bugs.winehq.org/show_bug.cgi?id=35824
