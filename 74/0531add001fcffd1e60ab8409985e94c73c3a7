@@ -1,0 +1,2 @@
+Fixes: [41165] MiTeC System Information X needs unimplemented function wlanapi.dll.WlanCloseHandle
+	https://bugs.winehq.org/show_bug.cgi?id=41165
