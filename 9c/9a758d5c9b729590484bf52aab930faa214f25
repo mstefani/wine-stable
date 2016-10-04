@@ -1,0 +1,2 @@
+Fixes: [39792] Saturn PCB Design Toolkit 6.86 fails to load, reporting missing 'SHCore.dll' dependency (import descriptors with empty thunk list must be ignored)
+	https://bugs.winehq.org/show_bug.cgi?id=39792

@@ -1,0 +1,2 @@
+Fixes: [39475] PhysX 9.15.0428 installer does not run ('advapi32.RegOpenCurrentUser' must return a real handle instead of 'HKEY_CURRENT_USER' for user root key)
+	https://bugs.winehq.org/show_bug.cgi?id=39475

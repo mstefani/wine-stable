@@ -1,0 +1,2 @@
+Fixes: [40411] Regedit.exe /e only exports HKLM
+	https://bugs.winehq.org/show_bug.cgi?id=40411

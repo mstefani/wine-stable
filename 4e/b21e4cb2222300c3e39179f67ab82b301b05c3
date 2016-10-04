@@ -1,0 +1,2 @@
+Fixes: [40034] Linksys usb wireless adapter installer needs wlanapi.dll.WlanEnumInterfaces
+	https://bugs.winehq.org/show_bug.cgi?id=40034

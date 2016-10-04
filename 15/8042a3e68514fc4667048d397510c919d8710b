@@ -1,0 +1,2 @@
+Fixes: [41182] Don't export QT_QPA_PLATFORM
+	https://bugs.winehq.org/show_bug.cgi?id=41182

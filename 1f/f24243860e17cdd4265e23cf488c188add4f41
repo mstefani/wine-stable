@@ -1,0 +1,5 @@
+Fixes: [34870] Multiple games and applications crash on unimplemented function msvcr100.dll _crt_debugger_hook (ArchiCAD 16, Far Cry 4)
+	https://bugs.winehq.org/show_bug.cgi?id=34870
+
+Fixes: [35286] Borderlands (Steam) crashes on unimplemented function msvcr90.dll._crt_debugger_hook
+	https://bugs.winehq.org/show_bug.cgi?id=35286

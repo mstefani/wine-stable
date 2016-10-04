@@ -1,0 +1,3 @@
+Fixes: [39892] UFile crashes with runtime error when rendering certain pages
+	https://bugs.winehq.org/show_bug.cgi?id=39892
+Fixes regression: 1454e302a80c218343420a7402da4d6e2dec4c76

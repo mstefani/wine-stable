@@ -1,0 +1,2 @@
+Fixes: [39852] 3DMark03: Mother Nature test: waterfall has no transparency if AllwaysOffScreen=disabled
+	https://bugs.winehq.org/show_bug.cgi?id=39852

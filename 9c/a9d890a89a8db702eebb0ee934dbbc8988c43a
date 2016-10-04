@@ -1,0 +1,2 @@
+Fixes: [39823] "fixme:nls:CompareStringEx semi-stub behavor for flag(s) 0x10000000" appears thousands of times in terminal when running the Lego Mindstorms EV3 software
+	https://bugs.winehq.org/show_bug.cgi?id=39823

@@ -1,0 +1,3 @@
+Fixes: [41094] comctl32/treeview: TVS_FULLROWSELECT style does not work
+	https://bugs.winehq.org/show_bug.cgi?id=41094
+Depends on: 0220d47c0293545a60dea87af7383edee2fc0000

@@ -1,0 +1,2 @@
+Fixes: [39074] IXMLDOMDocument::cloneNode crash
+	https://bugs.winehq.org/show_bug.cgi?id=39074

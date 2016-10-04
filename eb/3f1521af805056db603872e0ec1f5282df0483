@@ -1,0 +1,2 @@
+Fixes: [35892] sdb2xml (.NET 2.0 app) crashes on unimplemented function apphelp.dll.SdbGetAppPatchDir
+	https://bugs.winehq.org/show_bug.cgi?id=35892

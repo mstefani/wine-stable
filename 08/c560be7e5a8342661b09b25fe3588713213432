@@ -1,0 +1,2 @@
+Fixes: [39861] Windows utility 'relog.exe' crashes on unimplemented function 'pdh.dll.PdhBindInputDataSourceW'
+	https://bugs.winehq.org/show_bug.cgi?id=39861
