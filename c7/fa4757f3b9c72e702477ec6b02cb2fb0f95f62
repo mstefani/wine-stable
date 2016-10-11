@@ -1,0 +1,2 @@
+Fixes: [40746] Microsoft Expression Web 4 crashes when opening site, needs rpcrt4.dll.NdrAsyncServerCall
+	https://bugs.winehq.org/show_bug.cgi?id=40746
