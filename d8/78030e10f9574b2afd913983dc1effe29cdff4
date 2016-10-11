@@ -1,0 +1,2 @@
+Fixes: [30368] AMD Radeon 6480g detected as ATI Radeon 3200
+	https://bugs.winehq.org/show_bug.cgi?id=30368
