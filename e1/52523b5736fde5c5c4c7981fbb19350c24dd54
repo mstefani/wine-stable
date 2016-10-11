@@ -1,0 +1,2 @@
+Fixes: [29661] wineboot unable to create win32 prefix if the directory already exists
+	https://bugs.winehq.org/show_bug.cgi?id=29661
