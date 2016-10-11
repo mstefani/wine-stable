@@ -1,0 +1,3 @@
+Fixes: [41224] WineD3D8 crashes on Windows with GTAVC and i915-class video
+	https://bugs.winehq.org/show_bug.cgi?id=41224
+Fixes regression: b53256b8b752855576252cc2290dfbc9cb0f1280
