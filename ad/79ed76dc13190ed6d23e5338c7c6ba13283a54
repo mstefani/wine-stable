@@ -1,0 +1,2 @@
+Fixes: [32694] NVIDIA GTX 690 not in the list of recognized cards.
+	https://bugs.winehq.org/show_bug.cgi?id=32694
