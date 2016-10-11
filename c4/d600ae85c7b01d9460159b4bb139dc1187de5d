@@ -1,0 +1,2 @@
+Fixes: [27671] ComboFix fails to install
+	https://bugs.winehq.org/show_bug.cgi?id=27671
