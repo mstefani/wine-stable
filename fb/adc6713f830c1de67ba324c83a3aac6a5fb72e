@@ -1,0 +1,3 @@
+Fixes: [41627] MS Word 2010 crash when exiting on Wine stable 1.8.5.
+Fixes regression: 18eda5e82a5b92a5f22ccfcfd446ed288341fc1b
+Acked-by: Jactry Zeng <jzeng@codeweavers.com>
