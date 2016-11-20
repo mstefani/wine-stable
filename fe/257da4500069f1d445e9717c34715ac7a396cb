@@ -1,0 +1,2 @@
+Fixes: [35025] Max Payne 2 Demo: checkboxes in options dialog have missing window styles
+	https://bugs.winehq.org/show_bug.cgi?id=35025
