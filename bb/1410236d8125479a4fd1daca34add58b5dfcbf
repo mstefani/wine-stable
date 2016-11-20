@@ -1,0 +1,2 @@
+Fixes: [36101] Wow Hangs at login screen when coming from battle.net launcher (only with gxapi Opengl)
+	https://bugs.winehq.org/show_bug.cgi?id=36101
