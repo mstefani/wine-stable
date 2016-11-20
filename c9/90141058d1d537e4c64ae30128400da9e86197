@@ -1,0 +1,2 @@
+Fixes: [41651] WScript object name on wine is case sensitive which should not be the case (vbscript)
+	https://bugs.winehq.org/show_bug.cgi?id=41651
