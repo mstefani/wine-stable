@@ -1,0 +1,2 @@
+Fixes: [40861] Kingsoft Office 2012 needs ntoskrnl.exe.IoAttachDevice
+	https://bugs.winehq.org/show_bug.cgi?id=40861
