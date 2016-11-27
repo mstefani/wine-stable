@@ -1,0 +1,3 @@
+Fixes: [41021] Zombie Army trilogy needs msvcr100.dll._fpieee_flt
+	https://bugs.winehq.org/show_bug.cgi?id=41021
+Depends on: dc0e3d0a9c3ffa085d1cbcc53940d1876005af1a
