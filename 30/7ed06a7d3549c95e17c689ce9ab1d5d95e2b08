@@ -1,0 +1,2 @@
+Fixes: [41090] Multiple games (Starcraft 2, UE4 games) require vcruntime140.dll.__intrinsic_setjmp
+	https://bugs.winehq.org/show_bug.cgi?id=41090
