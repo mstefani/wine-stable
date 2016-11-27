@@ -1,0 +1,2 @@
+Fixes: [41705] Build fails in dpnet: redefinition of typedef 'SOCKADDR'
+	https://bugs.winehq.org/show_bug.cgi?id=41705
