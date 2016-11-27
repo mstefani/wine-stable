@@ -1,0 +1,2 @@
+Fixes: [35658] Anthem Room Correction 2 v1.0.1 reports 'Unknown COM error 0x80004001' (needs IAudioEndpointVolume::GetVolumeRange method implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=35658
