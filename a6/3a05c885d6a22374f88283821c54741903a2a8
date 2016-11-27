@@ -1,0 +1,2 @@
+Fixes: [33636] wine cmd: invalid behaviour of '&' operator
+	https://bugs.winehq.org/show_bug.cgi?id=33636
