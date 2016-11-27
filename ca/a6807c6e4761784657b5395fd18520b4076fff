@@ -1,0 +1,2 @@
+Fixes: [41308] iconfig.exe needs msvcr120.??0_Condition_variable@details@Concurrency@@QAE@XZ
+	https://bugs.winehq.org/show_bug.cgi?id=41308
