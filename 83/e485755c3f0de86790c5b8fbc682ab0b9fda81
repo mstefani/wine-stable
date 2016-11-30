@@ -1,0 +1,2 @@
+Fixes: [29916] ElsterFormular cannot make use of default PDF viewer (e. g. Okular)
+	https://bugs.winehq.org/show_bug.cgi?id=29916

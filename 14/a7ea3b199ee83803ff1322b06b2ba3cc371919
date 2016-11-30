@@ -1,0 +1,2 @@
+Fixes: [41570] Xenia emulator needs unimplemented function api-ms-win-core-rtlsupport-l1-1.RtlLookupFunctionEntry called in 64-bit code
+	https://bugs.winehq.org/show_bug.cgi?id=41570

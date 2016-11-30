@@ -1,0 +1,2 @@
+Fixes: [39734] ProtectDisc Driver 11: acedrv11.sys crashes
+	https://bugs.winehq.org/show_bug.cgi?id=39734

@@ -1,0 +1,2 @@
+Fixes: [30673] Smart Cutter 1.9.4 crashes when the button OPEN is pressed
+	https://bugs.winehq.org/show_bug.cgi?id=30673

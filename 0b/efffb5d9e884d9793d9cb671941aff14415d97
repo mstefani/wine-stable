@@ -1,0 +1,2 @@
+Fixes: [41142] gcc6: server build warnings
+	https://bugs.winehq.org/show_bug.cgi?id=41142

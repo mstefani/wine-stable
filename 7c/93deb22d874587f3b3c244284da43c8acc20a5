@@ -1,0 +1,5 @@
+Fixes: [41050] Age of Mythology: Extended Edition needs api-ms-win-crt-stdio-l1-1-0.dll.__stdio_common_vswscanf
+	https://bugs.winehq.org/show_bug.cgi?id=41050
+Depends on: 48340bd1fea772d0c3539edc693135ce800d4aaa
+Depends on: 0ca1093335dbe072e4ad52e3e39129b1213e0ff8
+Depends on: 2f783c6828938d09a7ef86cdd9bc394f7c441136

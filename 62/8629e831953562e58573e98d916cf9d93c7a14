@@ -1,0 +1,1 @@
+Fixes: [41642] S3CC921 programmer app needs ntoskrnl.exe.KeSetTimerEx

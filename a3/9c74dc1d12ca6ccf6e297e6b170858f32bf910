@@ -1,0 +1,2 @@
+Fixes: [39447] Unimplemented function hid.dll.HidP_TranslateUsagesToI8042ScanCodes
+	https://bugs.winehq.org/show_bug.cgi?id=39447

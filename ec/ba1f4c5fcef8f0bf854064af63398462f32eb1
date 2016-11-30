@@ -1,0 +1,2 @@
+Fixes: [41428] The Forest: Terminal gets spammed with errors if Steam is running
+	https://bugs.winehq.org/show_bug.cgi?id=41428

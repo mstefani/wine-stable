@@ -1,0 +1,3 @@
+Fixes: [41640] add rx 480 into directx.c
+	https://bugs.winehq.org/show_bug.cgi?id=41640
+Depends on: 4315caeff699325cd681b9beb7d22908b098411b

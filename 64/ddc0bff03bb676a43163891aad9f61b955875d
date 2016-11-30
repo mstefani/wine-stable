@@ -1,0 +1,3 @@
+Fixes: [40540] ReadIntervalTimeout is ignored if there is data in the buffer when ReadFile is called and no data arrives after that
+	https://bugs.winehq.org/show_bug.cgi?id=40540
+Depends on: 7a8ebc828e763284fdda027dcdf135cc01a58dff

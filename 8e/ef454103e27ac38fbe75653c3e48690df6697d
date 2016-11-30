@@ -1,0 +1,2 @@
+Fixes: [41405] Hornbill Supportworks Client 7.6.0: crashes with ExtFloodFill when open 'Incident Details' pane
+	https://bugs.winehq.org/show_bug.cgi?id=41405

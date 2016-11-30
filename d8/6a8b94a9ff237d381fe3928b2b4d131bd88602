@@ -1,0 +1,2 @@
+Fixes: [41343] Ellisys Visual USB needs unimplemented function newdev.dll.DiInstallDriverA
+	https://bugs.winehq.org/show_bug.cgi?id=41343

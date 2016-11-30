@@ -1,0 +1,2 @@
+Fixes: [41389] ComboFix fails to install: complains about missing HKLM\System\CurrentControlSet\Control\hivelist
+	https://bugs.winehq.org/show_bug.cgi?id=41389
