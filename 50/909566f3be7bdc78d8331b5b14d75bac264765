@@ -1,0 +1,3 @@
+Fixes: [40978] Wrong colors on i915 and similar GPUs in GTA Vice City
+Fixes regression: 4189d297760166951641baf6172a1ef708863855
+Depends on: 75c8eba5250a96eb585a852c5381e5289a782290
