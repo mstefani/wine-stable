@@ -1,0 +1,2 @@
+Fixes: [41898] ToCA Race Driver 3 needs ntoskrnl.exe.RtlCopyMemory
+	https://bugs.winehq.org/show_bug.cgi?id=41898
