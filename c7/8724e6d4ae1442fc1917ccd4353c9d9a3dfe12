@@ -1,0 +1,3 @@
+Fixes: [41055] "Texture ... does not have a drawable" on i915 with D3D8
+	https://bugs.winehq.org/show_bug.cgi?id=41055
+Fixes regression: 10d46bc042696bb9e5c45ac88af332c957bbff03
