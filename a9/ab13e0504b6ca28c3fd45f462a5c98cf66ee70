@@ -1,0 +1,2 @@
+Fixes: [35495] sharing violation and prompt for copy /B file1+file2 file1
+	https://bugs.winehq.org/show_bug.cgi?id=35495
