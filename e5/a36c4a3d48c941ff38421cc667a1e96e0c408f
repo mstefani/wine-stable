@@ -1,0 +1,2 @@
+Fixes: [30385] Multiple applications need support for shell32.SHGetKnownFolderPath KF_FLAG_DEFAULT_PATH option (Windows Live Essentials 2011 web installer, MediaMonkey 4.1.x in Vista+ mode)
+	https://bugs.winehq.org/show_bug.cgi?id=30385
