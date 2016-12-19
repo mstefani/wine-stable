@@ -1,0 +1,2 @@
+Fixes: [40247] Wine returns the loopback IP as first item in GetIpAddrTable causing some licensed programs to fail due to invalid MAC address
+	https://bugs.winehq.org/show_bug.cgi?id=40247
