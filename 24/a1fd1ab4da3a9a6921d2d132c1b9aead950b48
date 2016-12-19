@@ -1,0 +1,3 @@
+Fixes: [41508] Menu infinitely loops, the application hangs.
+	https://bugs.winehq.org/show_bug.cgi?id=41508
+Fixes regression: d75b0cdc986f464f3067767cd53aca6b85feb366
