@@ -1,0 +1,2 @@
+Fixes: [17196] Text Editor Cursor can be scrolled outside editor
+	https://bugs.winehq.org/show_bug.cgi?id=17196
