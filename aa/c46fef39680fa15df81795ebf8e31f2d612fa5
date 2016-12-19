@@ -1,0 +1,2 @@
+Fixes: [41252] Helldivers gives this error when trying to run on MacOS
+	https://bugs.winehq.org/show_bug.cgi?id=41252
