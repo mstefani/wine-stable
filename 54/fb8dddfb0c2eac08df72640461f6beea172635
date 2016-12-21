@@ -1,0 +1,3 @@
+Fixes: [41476] Cannot paste in WinAuth 3.5.1 (32-bit)
+	https://bugs.winehq.org/show_bug.cgi?id=41476
+Fixes regression: c69b4995c5bed5189a0742ed795a7af778b56a1f
