@@ -1,0 +1,2 @@
+Fixes: [41733] wineconsole: crashes in emacs mode when pasting (Ctrl+Y) empty buffer
+	https://bugs.winehq.org/show_bug.cgi?id=41733
