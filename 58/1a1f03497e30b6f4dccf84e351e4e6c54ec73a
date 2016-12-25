@@ -1,0 +1,3 @@
+Fixes: [41909] Calling TBM_SETPOS after TBM_SETRANGEMIN/TBM_SETRANGEMAX does not draw slider control properly
+	https://bugs.winehq.org/show_bug.cgi?id=41909
+Depends on: 458ddd59b247a52fc4463a1a8b90d4744f154142
