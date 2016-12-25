@@ -1,0 +1,2 @@
+Fixes: [38207] Unreal Tournament 3 uninstaller fails when invoking from 'wine uninstaller' (removes wrong entries)
+	https://bugs.winehq.org/show_bug.cgi?id=38207
