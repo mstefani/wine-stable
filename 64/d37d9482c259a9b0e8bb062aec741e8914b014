@@ -1,0 +1,2 @@
+Fixes: [40845] Uninstaller does not remove missing applications from the list
+	https://bugs.winehq.org/show_bug.cgi?id=40845
