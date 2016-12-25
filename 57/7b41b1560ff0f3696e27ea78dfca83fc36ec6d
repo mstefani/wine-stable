@@ -1,0 +1,2 @@
+Fixes: [41732] wineconsole: changing to emacs mode requires restart
+	https://bugs.winehq.org/show_bug.cgi?id=41732
