@@ -1,0 +1,2 @@
+Fixes: [32682] Multiple .NET 4.0 applications fail to load the pen cursor (IDC_PEN, 32631, 0x7F77 missing)
+	https://bugs.winehq.org/show_bug.cgi?id=32682
