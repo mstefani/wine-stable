@@ -1,0 +1,3 @@
+Fixes: [40112] kernel32:time regression
+	https://bugs.winehq.org/show_bug.cgi?id=40112
+Fixes regression: 2e3ce3a37d08c022ddfbfb751432c2ed37354429
