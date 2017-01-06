@@ -1,0 +1,4 @@
+Fixes: [39714] Halo some sounds in cut scenes don't play
+	https://bugs.winehq.org/show_bug.cgi?id=39714
+Fixes regression: a83e8e88ea05822e21aace9e0b82060bfa1dc02f
+Depends on: f461610e6c93f74e7eb07567f0740c8f357eb951
