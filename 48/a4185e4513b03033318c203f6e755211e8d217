@@ -1,0 +1,3 @@
+Fixes: [42110] regression: commit "xinput1_3 prefer builtin dll" aliens versus predator classic 2000 (steam) fails to launch
+	https://bugs.winehq.org/show_bug.cgi?id=42110
+Fixes regression: 4b09e848b8867683007f4c90ac589b43dfdc5707
