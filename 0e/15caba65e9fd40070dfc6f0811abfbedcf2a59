@@ -1,0 +1,2 @@
+Fixes: [27415] The Geometer's Sketchpad 5.03 does not display pictures. "fixme:gdiplus:GdipGetMetafileHeaderFromMetafile not implemented"
+	https://bugs.winehq.org/show_bug.cgi?id=27415
