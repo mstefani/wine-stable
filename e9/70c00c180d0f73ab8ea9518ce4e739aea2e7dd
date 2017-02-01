@@ -1,0 +1,2 @@
+Fixes: [40325] Captvty v3 (.Net4.5) crashes at start
+	https://bugs.winehq.org/show_bug.cgi?id=40325
