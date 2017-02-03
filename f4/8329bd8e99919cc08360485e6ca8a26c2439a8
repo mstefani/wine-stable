@@ -1,0 +1,3 @@
+Fixes: [19862] CodeCreatures crashes.
+	https://bugs.winehq.org/show_bug.cgi?id=19862
+Depends on: 16df0ea08afeb3970729d82176b51c0795559f48
