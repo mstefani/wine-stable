@@ -1,0 +1,2 @@
+Fixes: [11808] winefile: broken horizontal scrolling
+	https://bugs.winehq.org/show_bug.cgi?id=11808

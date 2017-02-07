@@ -1,0 +1,2 @@
+Fixes: [33859] Visual Web Developer Express 2008 crashes when clicking "Browse" (bug in PropertySheet common control)
+	https://bugs.winehq.org/show_bug.cgi?id=33859

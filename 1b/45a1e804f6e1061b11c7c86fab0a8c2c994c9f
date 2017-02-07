@@ -1,0 +1,2 @@
+Fixes: [41599] Battle.net and Hearthstone play loud static when receiving messages
+	https://bugs.winehq.org/show_bug.cgi?id=41599

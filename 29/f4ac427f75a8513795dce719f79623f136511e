@@ -1,0 +1,2 @@
+Fixes: [30355] DVDSubEdit 1.52 crashes on startup, broken TBM_SETRANGEMAX handling
+	https://bugs.winehq.org/show_bug.cgi?id=30355

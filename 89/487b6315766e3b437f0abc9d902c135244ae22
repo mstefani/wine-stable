@@ -1,0 +1,2 @@
+Fixes: [41001] 64-bit Core Temp 1.x kernel driver 'ALSysIO.sys' crashes on unimplemented function ntoskrnl.exe.RtlUnwindEx
+	https://bugs.winehq.org/show_bug.cgi?id=41001

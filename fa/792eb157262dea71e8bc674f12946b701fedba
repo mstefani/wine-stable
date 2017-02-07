@@ -1,0 +1,2 @@
+Fixes: [34465] process hacker 2.31 crashes in toolbar code
+	https://bugs.winehq.org/show_bug.cgi?id=34465

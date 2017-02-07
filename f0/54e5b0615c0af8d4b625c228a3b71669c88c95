@@ -1,0 +1,2 @@
+Fixes: [40243] Korg Nano editor USB MIDI driver won't install, requires Administrator Privileges
+	https://bugs.winehq.org/show_bug.cgi?id=40243
