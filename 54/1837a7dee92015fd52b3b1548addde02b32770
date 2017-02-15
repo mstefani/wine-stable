@@ -1,0 +1,3 @@
+Fixes: [40477] Motocross Madness and 3DMark2000 do not start (VRAM, video memory size)
+	https://bugs.winehq.org/show_bug.cgi?id=40477
+Fixes regression: 565a5715468fa990cf9e7cbfe38ac59ddcde1e76
