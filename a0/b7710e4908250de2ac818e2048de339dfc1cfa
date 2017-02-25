@@ -1,4 +1,0 @@
-Fixes: [37087] Gothic 2 english demo fails with 'Conflict: a hook process was found. Please deactivate all Antivirus and Anti-Trojan programs and debuggers.'
-	https://bugs.winehq.org/show_bug.cgi?id=37087
-Depends on: a0b6bf86f74438c574f7165ab220060681bb66cd
-Depends on: 748103663c6ec160c302f220c16fd53532689020

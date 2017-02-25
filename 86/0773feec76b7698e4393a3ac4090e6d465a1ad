@@ -1,4 +1,0 @@
-Fixes: [28177] Adventure games from Kheops Studio hang after the logo screen (Safecracker, Destination: Treasure Island, Nostradamus: Lost Prophecy, Dracula 3, Return to Mysterious Island 2)
-	https://bugs.winehq.org/show_bug.cgi?id=28177
-Fixes: [28825] Mystic Diary - Haunted Island: Multiple sprite-related bugs in hidden object scenes
-	https://bugs.winehq.org/show_bug.cgi?id=28825

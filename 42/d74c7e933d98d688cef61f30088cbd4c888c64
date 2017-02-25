@@ -1,2 +1,0 @@
-Fixes: [41015] comctl32/treeview: Alt-Up/Down keyboard shortcuts don't work
-	https://bugs.winehq.org/show_bug.cgi?id=41015

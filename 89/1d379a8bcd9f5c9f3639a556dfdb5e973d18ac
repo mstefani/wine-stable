@@ -1,2 +1,0 @@
-Fixes: [38818] Umax Astra 4100 USB scanner driver installer needs setupx.dll16.DiBuildDriverIndex in Win9X mode
-	https://bugs.winehq.org/show_bug.cgi?id=38818

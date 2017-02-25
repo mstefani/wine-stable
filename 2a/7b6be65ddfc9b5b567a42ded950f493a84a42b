@@ -1,2 +1,0 @@
-Fixes: [12652] Tom Clancy's Rainbow Six: Vegas 2 fails to launch (number of quality levels for D3DMULTISAMPLE_NONMASKABLE multiple-sample type must not exceed 8)
-	https://bugs.winehq.org/show_bug.cgi?id=12652

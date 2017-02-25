@@ -1,2 +1,0 @@
-Fixes: [39904] Spurious "You must use msvcrt" error even when __MSVCRT__ is defined (-mno-cygwin)
-	https://bugs.winehq.org/show_bug.cgi?id=39904

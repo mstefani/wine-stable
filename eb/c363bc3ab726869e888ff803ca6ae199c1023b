@@ -1,2 +1,0 @@
-Fixes: [26978] tokenadmin.exe crash : Unimplemented function winscard.dll.SCardListReadersA
-	https://bugs.winehq.org/show_bug.cgi?id=26978

@@ -1,2 +1,0 @@
-Fixes: [20896] Use-after-free in DdeClientTransaction in user32 dde tests
-	https://bugs.winehq.org/show_bug.cgi?id=20896

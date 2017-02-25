@@ -1,3 +1,0 @@
-Fixes: [40052] Opening an RTF file with "A Wine application" fails with "File not found"
-	https://bugs.winehq.org/show_bug.cgi?id=40052
-Fixes regression: 616495b6a47b1a77b5294ff9ebf2d22442e10daf

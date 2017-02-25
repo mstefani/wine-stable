@@ -1,2 +1,0 @@
-Fixes: [40048] Camtasia Studio 8 : crashes on unimplemented function dwmapi.dll.DwmSetPresentParameters
-	https://bugs.winehq.org/show_bug.cgi?id=40048

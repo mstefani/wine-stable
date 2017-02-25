@@ -1,3 +1,0 @@
-Fixes: [39811] GetLongPathName not working on case insensitive filesystems when short path is passed
-	https://bugs.winehq.org/show_bug.cgi?id=39811
-Fixes regression: 2f0febe60a9f0b29840fc8d60679a8585b788ad5

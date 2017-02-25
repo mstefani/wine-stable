@@ -1,2 +1,0 @@
-Fixes: [34286] dinput doesn't report DIDOI_ASPECT* for joystick axes
-	https://bugs.winehq.org/show_bug.cgi?id=34286

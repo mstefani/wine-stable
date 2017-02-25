@@ -1,3 +1,0 @@
-Fixes: [41109] 8-bit Armies launches with a very small window
-	https://bugs.winehq.org/show_bug.cgi?id=41109
-Depends on: 412b8dcafb53616b61796511951740c792f37b78

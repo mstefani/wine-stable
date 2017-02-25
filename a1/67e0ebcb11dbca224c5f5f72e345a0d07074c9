@@ -1,2 +1,0 @@
-Fixes: [40757] GOG Galaxy crashes with unimplemented function api-ms-win-crt-stdio-l1-1-0.dll.__stdio_common_vsnwprintf_s
-	https://bugs.winehq.org/show_bug.cgi?id=40757

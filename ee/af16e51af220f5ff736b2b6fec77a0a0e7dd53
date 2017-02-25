@@ -1,2 +1,0 @@
-Fixes: [40389] cmd.exe (native): Unimplemented function KERNEL32.dll.GetConsoleAliasExesLengthW
-	https://bugs.winehq.org/show_bug.cgi?id=40389

@@ -1,4 +1,0 @@
-Fixes: [39660] some *-config scripts in configure.ac are not crosscompiling friendly
-	https://bugs.winehq.org/show_bug.cgi?id=39660
-
-Acked-by: André Hentschel <nerv@dawncrow.de>

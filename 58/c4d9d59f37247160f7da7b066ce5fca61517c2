@@ -1,2 +1,0 @@
-Fixes: [38310] Trackbar control (msctls_trackbar32) does not send WM_CTLCOLORSTATIC as it does in Windows
-	https://bugs.winehq.org/show_bug.cgi?id=38310

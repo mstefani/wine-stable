@@ -1,3 +1,0 @@
-Fixes: [39805] GTAIV rendering is broken
-	https://bugs.winehq.org/show_bug.cgi?id=39805
-Fixes regression: 1ca9dfc8ee25f4ae188fdacd4d3d56046cef8003

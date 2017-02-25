@@ -1,2 +1,0 @@
-Fixes: [40466] Midnight Commander needs KERNEL32.dll.GetConsoleFontInfo
-	https://bugs.winehq.org/show_bug.cgi?id=40466

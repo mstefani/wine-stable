@@ -1,3 +1,0 @@
-Fixes: [39874] Alien Shooter crashes often with access violation
-	https://bugs.winehq.org/show_bug.cgi?id=39874
-Fixes regression: 77448f588b888ecc724c7ead9f28629f3f661d27

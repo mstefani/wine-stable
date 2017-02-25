@@ -1,2 +1,0 @@
-Fixes: [39543] Multiple games and applications crash on unimplemented function KERNEL32.dll.FreeUserPhysicalPages (Microsoft Office 2007 diagnosis service, Eden Eternal)
-	https://bugs.winehq.org/show_bug.cgi?id=39543

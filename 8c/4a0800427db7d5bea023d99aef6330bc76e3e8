@@ -1,2 +1,0 @@
-Fixes: [40473] wine fails to compile with >=glibc-2.23
-	https://bugs.winehq.org/show_bug.cgi?id=40473

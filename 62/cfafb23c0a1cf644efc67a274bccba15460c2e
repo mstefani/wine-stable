@@ -1,3 +1,0 @@
-Fixes: [40517] Office 2007 shows error message "Unexpected error during export" when trying to export document as PDF file
-	https://bugs.winehq.org/show_bug.cgi?id=40517
-Fixes regression: 12fbfe838c2e6f41ead7445decc447b41921474a

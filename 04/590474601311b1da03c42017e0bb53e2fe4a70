@@ -1,2 +1,0 @@
-Fixes: [11023] Lack of ole2disp.dll.SAFEARRAYDESTROYDESCRIPTOR causes Nota Bene to refuse to launch
-	https://bugs.winehq.org/show_bug.cgi?id=11023

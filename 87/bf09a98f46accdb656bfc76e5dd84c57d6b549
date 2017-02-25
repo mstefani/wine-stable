@@ -1,2 +1,0 @@
-Fixes: [34504] __unDName doesn't support function pointer with type "P8"
-	https://bugs.winehq.org/show_bug.cgi?id=34504

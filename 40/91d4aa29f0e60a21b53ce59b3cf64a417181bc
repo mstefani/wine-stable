@@ -1,2 +1,0 @@
-Fixes: [22581] Internet Explorer 3.01 crashes on some web pages (unimplemented function ole2disp.dll16.VARIANTINIT)
-	https://bugs.winehq.org/show_bug.cgi?id=22581

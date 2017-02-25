@@ -1,2 +1,0 @@
-Fixes: [38102] Process Hacker 2.x needs winsta.dll.WinStationEnumerateW
-	https://bugs.winehq.org/show_bug.cgi?id=38102

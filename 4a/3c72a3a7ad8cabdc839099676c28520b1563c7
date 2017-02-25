@@ -1,2 +1,0 @@
-Fixes: [41066] Unhandled page fault in RtlWow64EnableFsRedirectionEx when passed bad *old_value pointer
-	https://bugs.winehq.org/show_bug.cgi?id=41066

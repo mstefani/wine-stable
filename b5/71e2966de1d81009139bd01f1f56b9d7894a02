@@ -1,2 +1,0 @@
-Fixes: [38276] IsDialogMessage(NULL,...) must always return FALSE
-	https://bugs.winehq.org/show_bug.cgi?id=38276

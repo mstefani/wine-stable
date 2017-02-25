@@ -1,3 +1,0 @@
-Fixes: [39952] trackbar thumb always at zero on dialog load.
-	https://bugs.winehq.org/show_bug.cgi?id=39952
-Depends on: 1fce80024bab34a0828cb8f04c69819d3452ade9

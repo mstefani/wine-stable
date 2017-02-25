@@ -1,2 +1,0 @@
-Fixes: [32491] dbghelp doesn't support DW_FORM_flag_present
-	https://bugs.winehq.org/show_bug.cgi?id=32491

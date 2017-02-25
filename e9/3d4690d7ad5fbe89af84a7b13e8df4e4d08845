@@ -1,3 +1,0 @@
-Fixes: [40108] kernel32:process regression
-	https://bugs.winehq.org/show_bug.cgi?id=40108
-Fixes regression: a0b6bf86f74438c574f7165ab220060681bb66cd

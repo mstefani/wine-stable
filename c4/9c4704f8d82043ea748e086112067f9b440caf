@@ -1,2 +1,0 @@
-Fixes: [27680] Multiple 64-bit applications crash on startup (violation of the Windows 64-bit ABI, stack pointer (RSP) must be 16-byte aligned when making a call to Win64 API)
-	https://bugs.winehq.org/show_bug.cgi?id=27680

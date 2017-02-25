@@ -1,2 +1,0 @@
-Fixes: [39681] Unimplemented function crypt32.dll.CryptMsgVerifyCountersignatureEncoded
-	https://bugs.winehq.org/show_bug.cgi?id=39681

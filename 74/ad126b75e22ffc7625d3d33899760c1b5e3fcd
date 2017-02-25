@@ -1,2 +1,0 @@
-Fixes: [39744] No sound with winepulse.drv in multiple applications when PulseAudio fails to allocate full buffer
-	https://bugs.winehq.org/show_bug.cgi?id=39744

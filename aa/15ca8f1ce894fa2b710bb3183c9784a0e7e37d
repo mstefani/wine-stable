@@ -1,4 +1,0 @@
-Fixes: [39454] 64-bit StarCraft II v3.0 client crashes immediately on startup (SetThreadContext on self with only DRx registers/CONTEXT_DEBUG_REGISTERS provided)
-	https://bugs.winehq.org/show_bug.cgi?id=39454
-
-Depends on: 897ac569c84d9be42e0b4bbd718a3eb05663e4d9

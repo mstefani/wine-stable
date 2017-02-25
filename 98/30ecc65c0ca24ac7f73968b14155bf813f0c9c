@@ -1,3 +1,0 @@
-Fixes: [39943] Worms Armageddon opens wine explorer instead of running
-	https://bugs.winehq.org/show_bug.cgi?id=39943
-Fixes regression: 9db3444e4070025162a87cce49ca7fe9ef44ce56

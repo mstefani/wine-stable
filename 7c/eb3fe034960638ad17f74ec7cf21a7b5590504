@@ -1,2 +1,0 @@
-Fixes: [38076] GameRanger: unimplemented function dnsapi.dll.DnsFlushResolverCacheEntry_A
-	https://bugs.winehq.org/show_bug.cgi?id=38076

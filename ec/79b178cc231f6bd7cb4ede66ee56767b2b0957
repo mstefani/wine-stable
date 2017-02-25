@@ -1,2 +1,0 @@
-Fixes: [28113] winverbs doesn't work, needs ole2disp.dll16.SAFEARRAYALLOCDESCRIPTOR
-	https://bugs.winehq.org/show_bug.cgi?id=28113

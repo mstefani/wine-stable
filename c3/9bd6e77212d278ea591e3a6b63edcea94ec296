@@ -1,2 +1,0 @@
-Fixes: [33140] Photos opened in Nikon Capture NX 2.4 have inverted red and blue channel for displaying.
-	https://bugs.winehq.org/show_bug.cgi?id=33140

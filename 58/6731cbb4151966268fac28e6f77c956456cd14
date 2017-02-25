@@ -1,3 +1,0 @@
-Fixes: [39739] Cobra 11 - Burning Wheels demo: crashes when starting the tutorial
-	https://bugs.winehq.org/show_bug.cgi?id=39739
-Fixes regression: ffc9f535eb7817ea4cd0d0657471e61a9813debd

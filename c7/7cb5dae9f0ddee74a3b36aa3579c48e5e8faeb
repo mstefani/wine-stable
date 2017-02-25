@@ -1,3 +1,0 @@
-Fixes: [24658] Unimplemented function ole2.dll16.READCLASSSTM
-	https://bugs.winehq.org/show_bug.cgi?id=24658
-Depends on: 995fe92652650a708fb56c58392ed4c7679c5ae1

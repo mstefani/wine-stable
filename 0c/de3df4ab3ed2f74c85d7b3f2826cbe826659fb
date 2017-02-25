@@ -1,4 +1,0 @@
-Fixes: [32852] BioEdit: changing the install directory doesn't show the change in the GUI
-	https://bugs.winehq.org/show_bug.cgi?id=32852
-
-Depends on: e90b34e131446c356ae5c5f49fc376eb294f1ac1

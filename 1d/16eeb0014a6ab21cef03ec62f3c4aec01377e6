@@ -1,2 +1,0 @@
-Fixes: [34507] __unDName doesn't support data type "$$B"
-	https://bugs.winehq.org/show_bug.cgi?id=34507

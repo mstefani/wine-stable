@@ -1,2 +1,0 @@
-Fixes: [31913] EasyPal version August 6 2012 crashes on unimplemented function msvcp60.dll.??Dstd@@YA?AV?$complex@N@0@ABNABV10@@Z
-	https://bugs.winehq.org/show_bug.cgi?id=31913
