@@ -1,0 +1,2 @@
+Fixes: [39268] x11drv: Can't store handle for display fd
+	https://bugs.winehq.org/show_bug.cgi?id=39268
