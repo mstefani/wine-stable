@@ -1,0 +1,2 @@
+Fixes: [42245] QQ 2013 needs ntoskrnl.exe.KeClearEvent
+	https://bugs.winehq.org/show_bug.cgi?id=42245
