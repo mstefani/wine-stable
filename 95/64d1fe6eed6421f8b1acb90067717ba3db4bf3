@@ -1,0 +1,2 @@
+Fixes: [42023] The Magic School Bus Explores The Solar System crashes on launch; appears to be missing some files
+	https://bugs.winehq.org/show_bug.cgi?id=42023
