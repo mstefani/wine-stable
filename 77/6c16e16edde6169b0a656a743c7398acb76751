@@ -1,0 +1,2 @@
+Fixes: [42022] The Magic School Bus Explores The Solar System needs msvideo.dll16.DRAWDIBPROFILEDISPLAY
+	https://bugs.winehq.org/show_bug.cgi?id=42022

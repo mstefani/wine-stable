@@ -1,0 +1,2 @@
+Fixes: [41623] Odallus The Dark Call crashes while starting if a force feedback enabled controller is plugged in
+	https://bugs.winehq.org/show_bug.cgi?id=41623

@@ -1,0 +1,2 @@
+Fixes: [42096] Steam -> RPGMaker 2003 needs unimplemented function KERNEL32.dll.BaseFlushAppcompatCache
+	https://bugs.winehq.org/show_bug.cgi?id=42096
