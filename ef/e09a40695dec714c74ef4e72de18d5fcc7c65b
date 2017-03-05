@@ -1,3 +1,4 @@
 Fixes: [40938] UE4 games (Ether One Redux, Into the Stars) crash while loading with "BackBuffer->GetResource() has 3 refs, expected 1" error
 	https://bugs.winehq.org/show_bug.cgi?id=40938
 Depends on: 0ce7d71c4657d7537b9e571d89eb1122d953448d
+Acked-by: Józef Kucia <jkucia@codeweavers.com>
