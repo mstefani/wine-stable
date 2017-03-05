@@ -1,2 +1,6 @@
 Fixes: [42206] Gauntlet character screen background is corrupted.
 	https://bugs.winehq.org/show_bug.cgi?id=42206
+Depends on: 83057194569d014f01f79a6f7f93604c1ab52f76
+Depends on: e800093706e7b56ae1df73182ec52f906295a975
+Depends on: 81878178303ed52a18330fdb668c7d1dc1c02ade
+Depends on: 65089c395dbb44eb4f2bf8a7722092254d277549
