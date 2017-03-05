@@ -1,0 +1,2 @@
+Fixes: [42218] mshtml/tests/dom crashes in xul while running test_doc_elem
+	https://bugs.winehq.org/show_bug.cgi?id=42218
