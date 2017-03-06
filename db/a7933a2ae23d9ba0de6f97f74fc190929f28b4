@@ -1,0 +1,2 @@
+Fixes: [14897] DirectDraw games (Jojo's Fashion Show 2: Las Cruces demo, The Chosen: Well of Souls) try to lock surface with invalid dwSize
+	https://bugs.winehq.org/show_bug.cgi?id=14897
