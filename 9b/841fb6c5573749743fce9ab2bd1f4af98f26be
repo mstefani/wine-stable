@@ -1,0 +1,3 @@
+Fixes: [39920] Nanocad 5.: file open/import dialog does not open
+	https://bugs.winehq.org/show_bug.cgi?id=39920
+Fixes regression: bbf2cce16041e90d621a1f5889ea1bd760e21a0e
