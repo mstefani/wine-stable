@@ -2,3 +2,4 @@ Fixes: [12714] SimCity 2000: crashes when saving or opening a file.
 	https://bugs.winehq.org/show_bug.cgi?id=12714
 Fixes regression: f65e04770dc5748521a0de73814cea0b085bf3f8
 Depends on: 5dda6495eb9cc6f0d9f35a3720f78d6f963d7070
+Deferred: 2.0.3+
