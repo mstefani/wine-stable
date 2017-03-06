@@ -1,0 +1,2 @@
+Fixes: [39048] MIDI Clock Messages are Corrupted Between Wine and ALSA
+	https://bugs.winehq.org/show_bug.cgi?id=39048
