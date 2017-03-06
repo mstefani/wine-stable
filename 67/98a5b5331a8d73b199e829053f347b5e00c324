@@ -1,0 +1,3 @@
+Fixes: [19888] Venom Codename: Outbreak - initial menu screen is black (no menu items)
+	https://bugs.winehq.org/show_bug.cgi?id=19888
+Depends on: 31fcbb6bf2fc65ec5e6b1ac735c6a043b85b5a7a
