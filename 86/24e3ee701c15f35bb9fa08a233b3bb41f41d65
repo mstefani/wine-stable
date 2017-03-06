@@ -1,0 +1,3 @@
+Fixes: [41926] Zafehouse demo crashes with Call from 0x7b43c14c to unimplemented function ddraw.dll.GetSurfaceFromDC, aborting
+	https://bugs.winehq.org/show_bug.cgi?id=41926
+Depends on: e28a5fa393b57a87427b82df2a6c9fec494c1640
