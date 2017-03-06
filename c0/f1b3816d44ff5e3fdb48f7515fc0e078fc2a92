@@ -1,0 +1,3 @@
+Fixes: [41648] AmiBroker 6.00 fails, when run, with raise_exception Unhandled exception
+	https://bugs.winehq.org/show_bug.cgi?id=41648
+Depends on: 06c5a9ab55751b1c66ea0847aea4d4a45d8d343c
