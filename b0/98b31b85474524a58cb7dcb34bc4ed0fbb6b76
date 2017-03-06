@@ -1,0 +1,2 @@
+Fixes: [40952] improper escaping of quotes in command line
+	https://bugs.winehq.org/show_bug.cgi?id=40952
