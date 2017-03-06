@@ -1,0 +1,2 @@
+Fixes: [40392] ComicRack 0.9.x (.NET 4.5 app) hangs/crashes on startup when executing WMI query
+	https://bugs.winehq.org/show_bug.cgi?id=40392
