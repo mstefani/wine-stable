@@ -1,0 +1,2 @@
+Fixes: [41830] Updating group box text causes garbage
+	https://bugs.winehq.org/show_bug.cgi?id=41830
