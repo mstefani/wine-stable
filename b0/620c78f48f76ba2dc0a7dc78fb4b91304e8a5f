@@ -1,0 +1,2 @@
+Fixes: [42361] DX Library: PlaySoundFile() doesn't play MP3 files with specific extra headers
+	https://bugs.winehq.org/show_bug.cgi?id=42361
