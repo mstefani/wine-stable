@@ -1,0 +1,2 @@
+Fixes: [27580] Wine Notepad command line parser eats the first 2 letters when the path starts with / (it should only do this for valid command line options)
+	https://bugs.winehq.org/show_bug.cgi?id=27580
