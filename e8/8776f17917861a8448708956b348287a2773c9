@@ -1,0 +1,2 @@
+Fixes: [42094] winamp needs unimplemented function ntoskrnl.exe.IoStopTimer
+	https://bugs.winehq.org/show_bug.cgi?id=42094
