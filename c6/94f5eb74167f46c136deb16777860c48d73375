@@ -1,3 +1,4 @@
 Fixes: [42367] KiriKiri Z based games: main screen doesn't update.
 	https://bugs.winehq.org/show_bug.cgi?id=42367
+Depends on: 87fe9779ec91937211dc26c3a30c8ac93b8a0720
 Depends on: 49f9e545fbb523d0f61ce9676a23513318d3e6e7
