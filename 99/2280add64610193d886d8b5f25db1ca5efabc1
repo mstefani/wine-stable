@@ -1,0 +1,3 @@
+Fixes: [30308] Property sheet fails to display Page Title
+	https://bugs.winehq.org/show_bug.cgi?id=30308
+Depends on: 6eafebedb88ccd00aac6b838fd9d882c94ae61b2
