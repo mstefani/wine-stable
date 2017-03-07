@@ -1,0 +1,2 @@
+Fixes: [42567] Acid Pro Trial 7.0e  fails to install
+	https://bugs.winehq.org/show_bug.cgi?id=42567
