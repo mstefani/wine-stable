@@ -1,0 +1,2 @@
+Fixes: [14939] Black & White: DXTC to ARGB converter not implemented
+	https://bugs.winehq.org/show_bug.cgi?id=14939
