@@ -1,0 +1,3 @@
+Fixes: [38485] New Marvel Heroes 2015 Launcher crashes on unimplemented function dhcpcsvc.dll.DhcpRequestParams
+	https://bugs.winehq.org/show_bug.cgi?id=38485
+Depends on: c84e6fb3e50946fa235d69e0275ea6ace77a013b
