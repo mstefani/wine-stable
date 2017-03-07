@@ -1,0 +1,2 @@
+Fixes: [26603] iMesh 10 crashes at startup (needs wmvcore.dll.WMCreateReaderPriv)
+	https://bugs.winehq.org/show_bug.cgi?id=26603
