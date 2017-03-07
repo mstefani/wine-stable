@@ -1,0 +1,2 @@
+Fixes: [17495] Open dialog crashes if the desktop folder is at a Unicode path that cannot be represented in the current locale
+	https://bugs.winehq.org/show_bug.cgi?id=17495
