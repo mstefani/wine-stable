@@ -1,0 +1,2 @@
+Fixes: [25700] MessageBox does not display last word if string contains '&' (ampersand)
+	https://bugs.winehq.org/show_bug.cgi?id=25700
