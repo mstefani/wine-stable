@@ -1,0 +1,3 @@
+Fixes: [38354] Multiple games and applications need msvcr120.dll._except1 (Audacity 2.1.0, Tera Online)
+	https://bugs.winehq.org/show_bug.cgi?id=38354
+Depends on: 09e4fc834dce082b4a69792b55a4b2418e2ac8d3
