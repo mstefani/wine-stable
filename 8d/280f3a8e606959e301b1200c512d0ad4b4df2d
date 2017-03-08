@@ -1,11 +1,7 @@
 Fixes: [38354] Multiple games and applications need msvcr120.dll._except1 (Audacity 2.1.0, Tera Online)
 	https://bugs.winehq.org/show_bug.cgi?id=38354
-Depends on: 09e4fc834dce082b4a69792b55a4b2418e2ac8d3
-
 Fixes: [41725] Unimplemented function api-ms-win-crt-math-l1-1-0.dll._except1 (Starcraft 2 main menu, Firefox)
 	https://bugs.winehq.org/show_bug.cgi?id=41725
-Depends on: 09e4fc834dce082b4a69792b55a4b2418e2ac8d3
-
 Fixes: [42001] SC2 unimplemented function ucrtbase.dll._except1
 	https://bugs.winehq.org/show_bug.cgi?id=42001
 Depends on: 09e4fc834dce082b4a69792b55a4b2418e2ac8d3
