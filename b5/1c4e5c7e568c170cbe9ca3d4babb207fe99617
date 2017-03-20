@@ -1,0 +1,2 @@
+Fixes: [42557] NVIDIA GeForce GT 525M detected as GeForce GTX 470
+	https://bugs.winehq.org/show_bug.cgi?id=42557
