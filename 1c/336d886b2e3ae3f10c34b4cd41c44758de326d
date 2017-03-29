@@ -1,0 +1,2 @@
+Fixes: [25625] Implement PROPSHEET_InsertPage
+	https://bugs.winehq.org/show_bug.cgi?id=25625

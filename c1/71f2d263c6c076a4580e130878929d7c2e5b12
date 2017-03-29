@@ -1,0 +1,2 @@
+Fixes: [42490] Assertion failure when clicking boxes in altWinDirStat
+	https://bugs.winehq.org/show_bug.cgi?id=42490
