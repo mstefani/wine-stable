@@ -1,0 +1,2 @@
+Fixes: [40910] The Next BIG Thing can't save the game (needs native xmllite)
+	https://bugs.winehq.org/show_bug.cgi?id=40910
