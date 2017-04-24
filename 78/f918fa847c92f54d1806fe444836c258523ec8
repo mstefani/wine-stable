@@ -1,0 +1,2 @@
+Fixes: [41951] Unimplemented function bcrypt.dll.BCryptDuplicateHash prevents DOOM from running
+	https://bugs.winehq.org/show_bug.cgi?id=41951
