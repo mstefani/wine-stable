@@ -1,0 +1,3 @@
+Fixes: [41753] Steep (Ubisoft) needs iphlpapi.dll.GetUnicastIpAddressEntry
+	https://bugs.winehq.org/show_bug.cgi?id=41753
+Depends on: f3eaa681652ce8f7c8e4b5f085aa3bf5d68ff825
