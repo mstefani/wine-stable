@@ -1,7 +1,8 @@
 Fixes: [2624] In dialogs, an incorrect extra WM_ERASEBKGND is sent after WM_PAINT
 	https://bugs.winehq.org/show_bug.cgi?id=2624
-Depends on: eba9294d9e4806882ffda21c4a3ca526153649be
-
 Fixes: [33987] Secret Files 3 demo shows only some parts of background in ConfigTool
 	https://bugs.winehq.org/show_bug.cgi?id=33987
 Depends on: eba9294d9e4806882ffda21c4a3ca526153649be
+Depends on: 372e3e223a2954673df1e6f3b1b3bcad51fc3adf
+Depends on: ea6dbfcd075656220066443703b772bab37b3c63
+Depends on: 46b344fc2f8cbf57ceedfcfd074a972527450562
