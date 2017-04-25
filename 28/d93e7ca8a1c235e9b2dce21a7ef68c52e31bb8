@@ -1,0 +1,3 @@
+Fixes: [2624] In dialogs, an incorrect extra WM_ERASEBKGND is sent after WM_PAINT
+	https://bugs.winehq.org/show_bug.cgi?id=2624
+Depends on: eba9294d9e4806882ffda21c4a3ca526153649be
