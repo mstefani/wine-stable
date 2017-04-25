@@ -1,0 +1,4 @@
+Fixes: [33318] 3DMark2001 SE: upgrading to Wine 1.5.27 reduces performance score by 20%
+	https://bugs.winehq.org/show_bug.cgi?id=33318
+Fixes regression: 29893d81621b50e3acca1f2c34767867a9256ecb
+Depends on: 6a70c55615731a99e1a834f6fcc62766a9d228d3
