@@ -1,3 +1,7 @@
 Fixes: [37976] Poedit 1.7.4 crashes on unimplemented function msvcr120.dll.??0_ReentrantBlockingLock@details@Concurrency@@QAE@XZ
 	https://bugs.winehq.org/show_bug.cgi?id=37976
 Depends on: 245426c77e3ca31dc3eca00a79c734b71a6bd754
+
+Fixes: [42138] bug when running reaktor 6: "Unhandled exception: unimplemented function concrt140.dll.??0_ReentrantBlockingLock@details@Concurrency@@QAE@XZ called in 32-bit code (0x7b43bf1c)."
+	https://bugs.winehq.org/show_bug.cgi?id=42138
+Depends on: 245426c77e3ca31dc3eca00a79c734b71a6bd754
