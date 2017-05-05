@@ -1,0 +1,2 @@
+Fixes: [42655] Aliens vs. Predator (2010) needs d3dx11_42.dll.D3DX11FilterTexture
+	https://bugs.winehq.org/show_bug.cgi?id=42655
