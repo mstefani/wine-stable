@@ -1,0 +1,2 @@
+Fixes: [42798] MsiGetPatchInfoEx returns incorrect values for UNINSTALLABLE, PATCHSTATE properties
+	https://bugs.winehq.org/show_bug.cgi?id=42798
