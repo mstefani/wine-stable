@@ -1,0 +1,2 @@
+Fixes: [41928] Mortal Kombat X needs msvcr110.dll._get_dstbias
+	https://bugs.winehq.org/show_bug.cgi?id=41928
