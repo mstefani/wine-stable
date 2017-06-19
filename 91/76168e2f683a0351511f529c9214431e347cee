@@ -1,0 +1,2 @@
+Fixes: [40629] Noto Nastaliq Urdu font crashes notepad during shaping
+	https://bugs.winehq.org/show_bug.cgi?id=40629
