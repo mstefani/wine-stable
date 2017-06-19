@@ -1,0 +1,2 @@
+Fixes: [40948] Multiple apps need api-ms-win-crt-locale-l1-1-0.dll.__initialize_lconv_for_unsigned_char
+	https://bugs.winehq.org/show_bug.cgi?id=40948
