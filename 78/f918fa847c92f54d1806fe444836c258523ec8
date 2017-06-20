@@ -1,2 +1,3 @@
 Fixes: [41951] Unimplemented function bcrypt.dll.BCryptDuplicateHash prevents DOOM from running
 	https://bugs.winehq.org/show_bug.cgi?id=41951
+Comment: <slackner> puk: btw, you might want to drop https://github.com/mstefani/wine-stable/commit/78f918fa847c92f54d1806fe444836c258523ec8 (or alternatively, also pick the rest of the series). this patch alone doesn't make much sense
