@@ -1,3 +1,5 @@
 Fixes: [42803] Large data received on a 401 error causes authentication to fail
 	https://bugs.winehq.org/show_bug.cgi?id=42803
+Regresses: [43122] Retro Achievements Snes9x emulator crashes on start
+	https://bugs.winehq.org/show_bug.cgi?id=43122
 Depends on: ae4ad49c75633633f3711a415badc8c68e1ea8f0
