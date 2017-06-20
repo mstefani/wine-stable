@@ -1,0 +1,2 @@
+Fixes: [39895] MalwareBytes Anti-malware software needs msvcr100.dll.lldiv implementation
+	https://bugs.winehq.org/show_bug.cgi?id=39895
