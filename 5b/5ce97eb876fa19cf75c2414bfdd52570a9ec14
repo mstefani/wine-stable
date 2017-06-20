@@ -1,0 +1,4 @@
+Fixes: [39685] Multiple applications crash on startup, need unimplemented function msvcr120.dll.??0event@Concurrency@@QAE@XZ (Rollcage Redux v1.3.8, ARC client, Playstation Now)
+	https://bugs.winehq.org/show_bug.cgi?id=39685
+Fixes: [40798] ACDSee Pro 9 (64-bit) needs msvcr120.dll.??0event@Concurrency@@QEAA@XZ
+	https://bugs.winehq.org/show_bug.cgi?id=40798

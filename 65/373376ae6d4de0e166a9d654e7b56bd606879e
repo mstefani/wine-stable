@@ -1,0 +1,7 @@
+Fixes: [30764] regedit: a key created from right-click context menu is in incorrect position
+	https://bugs.winehq.org/show_bug.cgi?id=30764
+Depends on: 4dc5a764c781fa50530fcec7baf6a1e53256368c
+
+Fixes: [37404] A right click on a registry key does not select it
+	https://bugs.winehq.org/show_bug.cgi?id=37404
+Depends on: 4dc5a764c781fa50530fcec7baf6a1e53256368c

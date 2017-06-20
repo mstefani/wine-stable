@@ -1,0 +1,2 @@
+Fixes: [39856] Regedit: Default registry key is not the same as on Windows
+	https://bugs.winehq.org/show_bug.cgi?id=39856

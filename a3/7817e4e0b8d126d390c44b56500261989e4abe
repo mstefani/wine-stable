@@ -1,0 +1,2 @@
+Fixes: [41472] kolotibablo needs ntoskrnl.exe.KeAcquireInStackQueuedSpinLock
+	https://bugs.winehq.org/show_bug.cgi?id=41472
