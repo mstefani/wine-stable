@@ -1,0 +1,2 @@
+Fixes: [42992] wine can't be compiled by gcc-2.95.4 (dwrite/opentype.c)
+	https://bugs.winehq.org/show_bug.cgi?id=42992
