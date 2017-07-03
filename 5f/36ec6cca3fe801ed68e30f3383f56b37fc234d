@@ -1,0 +1,2 @@
+Fixes: [42993] wine can't be compiled by gcc-2.95.4 (gdiplus/metafile.c)
+	https://bugs.winehq.org/show_bug.cgi?id=42993
