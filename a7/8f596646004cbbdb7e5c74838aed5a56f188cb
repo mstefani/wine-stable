@@ -1,0 +1,2 @@
+Comment: This patch fixes a crash in "Fair Strike", which allows it to startup.
+Acked-by: Alistair Leslie-Hughes <leslie_alistair@hotmail.com>
