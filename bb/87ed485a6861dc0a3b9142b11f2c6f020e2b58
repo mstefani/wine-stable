@@ -1,0 +1,2 @@
+Fixes: [43039] Rise of the Tomb Raider needs unimplemented function USER32.dll.PhysicalToLogicalPoint
+	https://bugs.winehq.org/show_bug.cgi?id=43039
