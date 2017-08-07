@@ -1,0 +1,2 @@
+Fixes: [42940] WAtomic: White labels that show name of elements hidden by GL components
+	https://bugs.winehq.org/show_bug.cgi?id=42940
