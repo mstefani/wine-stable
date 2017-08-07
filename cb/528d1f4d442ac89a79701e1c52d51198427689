@@ -1,0 +1,2 @@
+Fixes: [43005] secur32/tests/ntlm.ok crashes in DeleteSecurityContext
+	https://bugs.winehq.org/show_bug.cgi?id=43005
