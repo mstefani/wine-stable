@@ -1,0 +1,2 @@
+Fixes: [43026] SP+ maker won't run.
+	https://bugs.winehq.org/show_bug.cgi?id=43026
