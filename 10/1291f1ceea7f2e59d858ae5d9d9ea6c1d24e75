@@ -1,2 +1,5 @@
 Fixes: [35529] Uninstaller: application list doesn't fit
 	https://bugs.winehq.org/show_bug.cgi?id=35529
+
+Fixes: [42080] Listview does not draw correctly in some conditions.
+	https://bugs.winehq.org/show_bug.cgi?id=42080
