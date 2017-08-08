@@ -1,0 +1,2 @@
+Fixes: [26388] Sound Recorder crashes on encoding PCM Sample
+	https://bugs.winehq.org/show_bug.cgi?id=26388
