@@ -1,0 +1,2 @@
+Fixes: [38980] World of Warships/Planes/Tanks client in torrent download mode crashes spuriously on high bandwidth load (i/o completion ports)
+	https://bugs.winehq.org/show_bug.cgi?id=38980
