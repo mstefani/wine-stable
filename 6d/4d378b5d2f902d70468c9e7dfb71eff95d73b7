@@ -1,0 +1,2 @@
+Fixes: [43216] winhttp fails to redirect from http to https on 301 error.
+	https://bugs.winehq.org/show_bug.cgi?id=43216
