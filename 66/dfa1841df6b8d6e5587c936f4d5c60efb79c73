@@ -1,0 +1,2 @@
+Fixes: [33740] Sound Recorder displays error when seeking MP3 stream to the end
+	https://bugs.winehq.org/show_bug.cgi?id=33740
