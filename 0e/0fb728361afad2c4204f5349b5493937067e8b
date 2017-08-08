@@ -1,0 +1,2 @@
+Fixes: [43098] WarBR: game (WarS v5.5 p4) crashes on unimplemented function wmvcore.dll.WMCheckURLScheme when using native wmp.dll (WMP9)
+	https://bugs.winehq.org/show_bug.cgi?id=43098
