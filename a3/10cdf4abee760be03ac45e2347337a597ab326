@@ -1,2 +1,5 @@
 Fixes: [16948] tmpfile() fails when run from Unix path
 	https://bugs.winehq.org/show_bug.cgi?id=16948
+
+Fixes: [42754] Seed of Andromeda Pre-Alpha 0.2 crashes
+	https://bugs.winehq.org/show_bug.cgi?id=42754
