@@ -1,0 +1,2 @@
+Fixes: [43157] Adobe Premiere needs ntoskrnl.exe.KeAcquireSpinLockRaiseToDpc
+	https://bugs.winehq.org/show_bug.cgi?id=43157
