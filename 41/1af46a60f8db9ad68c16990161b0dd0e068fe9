@@ -1,0 +1,2 @@
+Fixes: [11433] unimplemented function ole32.dll.OleGetIconOfFile
+	https://bugs.winehq.org/show_bug.cgi?id=11433
