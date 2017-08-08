@@ -1,0 +1,2 @@
+Fixes: [43097] WarBR: game (WarS v5.5 p4) crashes on start, needs WMP IOleObject::GetExtent method implementation
+	https://bugs.winehq.org/show_bug.cgi?id=43097
