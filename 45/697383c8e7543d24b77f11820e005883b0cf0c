@@ -1,0 +1,2 @@
+Fixes: [43295] BitLord crashes on unimplemented function IPHLPAPI.DLL.if_nametoindex
+	https://bugs.winehq.org/show_bug.cgi?id=43295
