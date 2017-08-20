@@ -1,0 +1,2 @@
+Fixes: [43334] winealsa.drv: Warning while building (GCC 7.1.1)
+	https://bugs.winehq.org/show_bug.cgi?id=43334
