@@ -1,0 +1,2 @@
+Fixes: [43283] Crazyracing KartRider: Crashes on startup on unimplemented function ntoskrnl.exe.IoCreateNotificationEvent
+	https://bugs.winehq.org/show_bug.cgi?id=43283
