@@ -1,0 +1,3 @@
+Fixes: [40919] Worms Armageddon Gameplay only shows top-left corner of screen
+	https://bugs.winehq.org/show_bug.cgi?id=40919
+Fixes regression: d1048914332e118c2ae107177f24910807471367
