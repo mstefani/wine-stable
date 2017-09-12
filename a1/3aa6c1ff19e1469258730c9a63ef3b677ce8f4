@@ -1,0 +1,3 @@
+Fixes: [42656] ACDSee Pro 10 needs msvcp140.dll.?_Schedule_chore@details@Concurrency@@YAHPEAU_Threadpool_chore@12@@Z
+	https://bugs.winehq.org/show_bug.cgi?id=42656
+Depends on: 17b34a2e08b3ebd6195ed1f9c250ccf230b643f8
