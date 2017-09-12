@@ -1,0 +1,2 @@
+Fixes: [43020] Guitar Pro 7 needs msvcp140.dll._To_wide
+	https://bugs.winehq.org/show_bug.cgi?id=43020
