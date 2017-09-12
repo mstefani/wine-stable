@@ -1,0 +1,2 @@
+Fixes: [43268] Wargaming.net Game Center needs msvcp140.dll._To_byte
+	https://bugs.winehq.org/show_bug.cgi?id=43268
