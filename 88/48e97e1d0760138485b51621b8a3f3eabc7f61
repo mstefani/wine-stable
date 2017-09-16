@@ -1,0 +1,3 @@
+Fixes: [43305] numpy crashes on unimplemented function api-ms-win-crt-math-l1-1-0.dll.log1p
+	https://bugs.winehq.org/show_bug.cgi?id=43305
+Depends on: 79715cce88ef372eb56374f14c4771b748029105
