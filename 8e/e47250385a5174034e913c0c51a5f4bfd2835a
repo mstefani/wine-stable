@@ -1,0 +1,2 @@
+Fixes: [24723] Lost Horizon crash/page fault during Chapter 2
+	https://bugs.winehq.org/show_bug.cgi?id=24723
