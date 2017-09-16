@@ -1,3 +1,5 @@
 Fixes: [27106] IMSSA EuroDEEM (VB6 app) fails on startup, reporting "Type MisMatch" error (VARIANT_Coerce: treat VT_NULL like VT_EMPTY when converting to VT_BSTR)
 	https://bugs.winehq.org/show_bug.cgi?id=27106
 Depends on: c260de0faaf42021a592f3f750623e21b2c3f3a6
+Depends on: 1762f89ff259f6f82c0284b50e2a7380f94badcd
+Depends on: e0b5496ccbafa33a5b2e78b12fa9d445804a57e8
