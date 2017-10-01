@@ -1,2 +1,4 @@
 Fixes: [43716] freetype 2.8.1 breaks Wine build during font conversion with sfnt2fon
 	https://bugs.winehq.org/show_bug.cgi?id=43716
+
+Depends on: 89e79d8144308a24676ef069d567a14655985b0c
