@@ -1,0 +1,2 @@
+Fixes: [43392] valgrind shows a couple invalid reads in programs/regedit/tests/regedit.c
+	https://bugs.winehq.org/show_bug.cgi?id=43392
