@@ -1,5 +1,0 @@
-Fixes: [42657] ACDSee Pro 9 needs msvcr120.dll.?Alloc@Concurrency@@YAPEAX_K@Z
-	https://bugs.winehq.org/show_bug.cgi?id=42657
-
-Fixes: [42658] Playstation Now needs msvcr120.dll.?Alloc@Concurrency@@YAPAXI@Z
-	https://bugs.winehq.org/show_bug.cgi?id=42658

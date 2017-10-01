@@ -1,2 +1,0 @@
-Fixes: [42576] Poedit crashes on start on unimplemented function msvcp140.dll.?_Reset@_ContextCallback@details@Concurrency@@AAEXXZ
-	https://bugs.winehq.org/show_bug.cgi?id=42576

@@ -1,2 +1,0 @@
-Fixes: [35563] Custom game development library expects non-zero value for ProcessVmCounters info class member 'WorkingSetSize'
-	https://bugs.winehq.org/show_bug.cgi?id=35563

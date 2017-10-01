@@ -1,3 +1,0 @@
-Fixes: [42688] Native Acces crashes on unimplemented msvcp140.dll.?__ExceptionPtrCompare@@YA_NPBX0@Z
-	https://bugs.winehq.org/show_bug.cgi?id=42688
-Depends on: 15b144b35dfebbe334fb00220edc0393b8d1e84c

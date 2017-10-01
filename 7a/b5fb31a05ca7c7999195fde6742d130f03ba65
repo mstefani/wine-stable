@@ -1,2 +1,0 @@
-Fixes: [43127] Multiple 64-bit applications crash with stack overflow errors when Wine is compiled with GCC 7.x (set_context_reg in ntdll/signal_x86_64.c assumes Xmm registers are aligned)
-	https://bugs.winehq.org/show_bug.cgi?id=43127

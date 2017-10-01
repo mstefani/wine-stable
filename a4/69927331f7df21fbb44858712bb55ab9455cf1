@@ -1,3 +1,0 @@
-Fixes: [43315] Steam fails to start [After update Thu, 06 Jul 2017]
-	https://bugs.winehq.org/show_bug.cgi?id=43315
-Depends on: 914e401aa9d5401893c3807d51e3f19fc7a7ab38

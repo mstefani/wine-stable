@@ -1,2 +1,0 @@
-Fixes: [42703] Excel 2010 does not work: unimplemented function oleaut32.dll.GetAltMonthNames
-	https://bugs.winehq.org/show_bug.cgi?id=42703

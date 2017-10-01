@@ -1,2 +1,0 @@
-Fixes: [41408] Multiple applications crash on unimplemented function msvcp140.dll.??0task_continuation_context@Concurrency@@AAE@XZ
-	https://bugs.winehq.org/show_bug.cgi?id=41408

@@ -1,3 +1,0 @@
-Fixes: [33717] regedit: Sorting registry keys on refreshing
-	https://bugs.winehq.org/show_bug.cgi?id=33717
-Depends on: 7073e27fbd61c7d2eeff8e4e3ccf1dfa0eca581b

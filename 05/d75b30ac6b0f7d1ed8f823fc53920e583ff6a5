@@ -1,2 +1,0 @@
-Fixes: [42463] ZmLearn crash at startup: "Assertion 'm->state == STATE_PASSIVE' failed at pulse/mainloop.c:787, function pa_mainloop_prepare(). Aborting."
-	https://bugs.winehq.org/show_bug.cgi?id=42463

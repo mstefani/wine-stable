@@ -1,5 +1,0 @@
-Fixes: [42271] Final Fantasy X needs msvcr110.dll.__crtUnhandledException
-	https://bugs.winehq.org/show_bug.cgi?id=42271
-
-Fixes: [42626] unimplemented function msvcr110.dll.__crtUnhandledException
-	https://bugs.winehq.org/show_bug.cgi?id=42626

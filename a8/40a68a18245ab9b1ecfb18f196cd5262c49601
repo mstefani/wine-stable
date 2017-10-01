@@ -1,3 +1,0 @@
-Fixes: [42774] WinHttpQueryAuthSchemes fails to return the correct supported value for multiple WWW-Authenticate
-	https://bugs.winehq.org/show_bug.cgi?id=42774
-Depends on: eb3cb338200a6fa7c301f9da43766d1d5118b637

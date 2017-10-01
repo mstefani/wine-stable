@@ -1,1 +1,0 @@
-Fixes: [41218] curl 7.50: HTTPS fails with InitializeSecurityContext failed: SEC_E_INVALID_TOKEN

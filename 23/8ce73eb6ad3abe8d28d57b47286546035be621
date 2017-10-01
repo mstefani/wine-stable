@@ -1,2 +1,0 @@
-Fixes: [40956] unimplemented function msvcr110.dll._Lock_shared_ptr_spin_lock when starting Zoner Photo Studio 18
-	https://bugs.winehq.org/show_bug.cgi?id=40956

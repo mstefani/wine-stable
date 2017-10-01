@@ -1,2 +1,0 @@
-Fixes: [42559] Adobe Reader DC: No longer installs (Unimplemented function msi.dll.MsiGetComponentPathExW)
-	https://bugs.winehq.org/show_bug.cgi?id=42559
