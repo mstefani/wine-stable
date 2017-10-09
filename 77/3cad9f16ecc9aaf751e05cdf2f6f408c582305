@@ -1,5 +1,2 @@
 Fixes: [43403] make error on Debian 4.9.30-2kali1 (2017-06-22) x86_64 GNU/Linux
 	https://bugs.winehq.org/show_bug.cgi?id=43403
-
-Fixes: [43403] make error on Debian 4.9.30-2kali1 (2017-06-22) x86_64 GNU/Linux
-	https://bugs.winehq.org/show_bug.cgi?id=43403
