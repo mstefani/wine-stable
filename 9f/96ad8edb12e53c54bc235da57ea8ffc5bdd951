@@ -1,0 +1,2 @@
+Fixes: [43715] Many applications (winecfg, ...) crash on startup with freetype 2.8.1
+	https://bugs.winehq.org/show_bug.cgi?id=43715
