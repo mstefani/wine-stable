@@ -1,0 +1,2 @@
+Fixes: [43369] Nora, Princess and Stray cat (demo): fails to run (division by zero)
+	https://bugs.winehq.org/show_bug.cgi?id=43369
