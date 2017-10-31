@@ -1,0 +1,3 @@
+Fixes: [43475] XM6 TypeG crashes on startup.
+	https://bugs.winehq.org/show_bug.cgi?id=43475
+Depends on: 82bf4edf36fd34f9fdadeddb991c6bf03dded871
