@@ -1,0 +1,2 @@
+Fixes: [43527] Magic Online  (Magic The Gathering: Online) Crashes due to LOCALE_SNAN returning empty string
+	https://bugs.winehq.org/show_bug.cgi?id=43527
