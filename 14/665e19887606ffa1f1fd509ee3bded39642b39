@@ -1,0 +1,2 @@
+Fixes: [43503] FUJITSU Software ATLAS: unimplemented function msvcr80.dll._ismbcl0 called in 32-bit code
+	https://bugs.winehq.org/show_bug.cgi?id=43503
