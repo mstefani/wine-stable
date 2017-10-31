@@ -1,0 +1,2 @@
+Fixes: [43536] WIC can't encode to GUID_WICPixelFormat32bppPBGRA PNG
+	https://bugs.winehq.org/show_bug.cgi?id=43536
