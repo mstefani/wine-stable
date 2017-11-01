@@ -1,0 +1,3 @@
+Fixes: [43046] Multiple apps need api-ms-win-crt-stdio-l1-1-0.dll.__stdio_common_vfprintf_s (Civilization VI, Mafia 3, SketchBook)
+	https://bugs.winehq.org/show_bug.cgi?id=43046
+Depends on: 5074bb9a4bf77d23dfcf11cf019ea4264f021928
