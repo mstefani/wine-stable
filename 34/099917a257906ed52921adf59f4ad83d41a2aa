@@ -1,0 +1,3 @@
+Fixes: [43293] strange behavior- Eudora scrambles email addresses
+	https://bugs.winehq.org/show_bug.cgi?id=43293
+Fixes regression: e57a4e94909eede1d7e84bb092d5cc93fc8b9b22
