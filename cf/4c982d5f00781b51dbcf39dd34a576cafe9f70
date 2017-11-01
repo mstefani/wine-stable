@@ -1,0 +1,3 @@
+Fixes: [43603] clipboard PIXMAP regression after upgrading from 1.8.x to 2.x
+	https://bugs.winehq.org/show_bug.cgi?id=43603
+Fixes regression: 761d244970dd189b1a639121e668a5089fd0112d
