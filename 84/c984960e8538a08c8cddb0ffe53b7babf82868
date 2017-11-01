@@ -1,0 +1,2 @@
+Fixes: [28741] Odd coordinate in hit test causes uninitialized value references in MONTHCAL_CalculateDayOfWeek()?
+	https://bugs.winehq.org/show_bug.cgi?id=28741
