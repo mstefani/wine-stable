@@ -1,0 +1,3 @@
+Fixes: [43290] MyLifeOrganized crashes when mousing over tabs
+	https://bugs.winehq.org/show_bug.cgi?id=43290
+Fixes regression:
