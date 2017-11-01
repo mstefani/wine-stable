@@ -1,0 +1,3 @@
+Fixes: [43658] Text in Deletion Confirmation MsgBox has wrong background colour
+	https://bugs.winehq.org/show_bug.cgi?id=43658
+Fixes regression: 997d4ef44f0f9e2284f99d7ce9ec135d68b30c7b
