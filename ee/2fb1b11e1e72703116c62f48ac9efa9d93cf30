@@ -1,0 +1,2 @@
+Fixes: [43714] ImageMagick crashes with msvcr120.dll._vfprintf_l
+	https://bugs.winehq.org/show_bug.cgi?id=43714
