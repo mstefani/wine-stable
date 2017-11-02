@@ -1,0 +1,2 @@
+Fixes: [43044] League of Legends needs function msvcp140.dll.?__ExceptionPtrAssign@@YAXPAXPBX@Z
+	https://bugs.winehq.org/show_bug.cgi?id=43044
