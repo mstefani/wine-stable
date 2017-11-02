@@ -1,0 +1,2 @@
+Fixes: [42715] Cxbx (Xbox emulator) doesn`t start (wine: Invalid address)
+	https://bugs.winehq.org/show_bug.cgi?id=42715
