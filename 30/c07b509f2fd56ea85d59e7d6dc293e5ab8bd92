@@ -1,0 +1,2 @@
+Fixes: [7369] eISLP -help doesn't display, 'text controller' error message
+	https://bugs.winehq.org/show_bug.cgi?id=7369
