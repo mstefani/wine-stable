@@ -1,0 +1,2 @@
+Fixes: [43779] In ole32/storage32.c , miss check for the result of HeapAlloc
+	https://bugs.winehq.org/show_bug.cgi?id=43779
