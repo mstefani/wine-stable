@@ -1,0 +1,2 @@
+Fixes: [43877] "Cannot allocate DOS memory" error with 16-bit Windows applications
+	https://bugs.winehq.org/show_bug.cgi?id=43877
