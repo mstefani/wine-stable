@@ -1,0 +1,3 @@
+Fixes: [43324] Beamng.drive requires msvcr120.dll.vsscanf
+	https://bugs.winehq.org/show_bug.cgi?id=43324
+Depends on: 42ccd8d9ecb386bb9da311c1faa5c14a12d26de3
