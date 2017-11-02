@@ -1,0 +1,2 @@
+Fixes: [43453] Magic Online  (Magic The Gathering: Online) Crashes due to race condition in secur32
+	https://bugs.winehq.org/show_bug.cgi?id=43453
