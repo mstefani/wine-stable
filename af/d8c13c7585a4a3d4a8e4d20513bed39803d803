@@ -1,0 +1,2 @@
+Fixes: [37321] foobar2000 'Scheduler' plugin crashes on unimplemented function shell32.dll.ShellExec_RunDLLW
+	https://bugs.winehq.org/show_bug.cgi?id=37321
