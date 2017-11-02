@@ -1,0 +1,3 @@
+Fixes: [37160] If D3D_DISABLE_9EX is defined, d3d9.h can't be compiled
+	https://bugs.winehq.org/show_bug.cgi?id=37160
+Fixes regression: 90a654aede803578ec0f9d3419c800f671ede26c
