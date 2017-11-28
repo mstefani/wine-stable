@@ -1,0 +1,2 @@
+Fixes: [43912] wine-2.0.3/programs/wineboot/wineboot.c:684]: (style) Suspicious condition
+	https://bugs.winehq.org/show_bug.cgi?id=43912
