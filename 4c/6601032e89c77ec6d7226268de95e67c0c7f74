@@ -1,0 +1,2 @@
+Fixes: [43774] Chromium-based browser engine (CEFv3) used by several games randomly crashes on shutdown (World of Warships 0.6.x)
+	https://bugs.winehq.org/show_bug.cgi?id=43774

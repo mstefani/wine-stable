@@ -1,0 +1,3 @@
+Fixes: [43163] Mixcraft 8 crashes when adding a video track ('IAMTimelineGroup', '{9eed4f00-b8a6-11d2-8023-00c0df10d434}' not implemented, 'qedit.dll')
+	https://bugs.winehq.org/show_bug.cgi?id=43163
+Depends on: d107b91caa47b23d8788c8627f1b181138384689
