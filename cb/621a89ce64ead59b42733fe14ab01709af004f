@@ -1,0 +1,2 @@
+Fixes: [43770] Fidibo installer crashes very early in win7 mode
+	https://bugs.winehq.org/show_bug.cgi?id=43770
