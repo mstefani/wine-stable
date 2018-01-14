@@ -1,0 +1,2 @@
+Fixes: [43810] Playkey needs api-ms-win-crt-stdio-l1-1-0.dll.__stdio_common_vsprintf_p
+	https://bugs.winehq.org/show_bug.cgi?id=43810
