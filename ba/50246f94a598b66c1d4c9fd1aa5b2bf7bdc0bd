@@ -1,0 +1,2 @@
+Fixes: [43914] 64-bit RPCS3 emulator doesn't start, loader reports 'Invalid address' (non-relocatable PE wants to use lowest possible image base on NT: 0x10000 / 64 KB)
+	https://bugs.winehq.org/show_bug.cgi?id=43914
