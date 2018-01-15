@@ -1,0 +1,2 @@
+Fixes: [43000] wine can't be compiled by gcc-2.95.4 (dsound/dsound_convert.c, C99 ~ lrintf)
+	https://bugs.winehq.org/show_bug.cgi?id=43000
