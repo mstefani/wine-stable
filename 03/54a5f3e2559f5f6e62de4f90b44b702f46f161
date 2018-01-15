@@ -1,0 +1,3 @@
+Fixes: [43904] HeTeMuLu Creator: Can't input some kanji characters properly.
+	https://bugs.winehq.org/show_bug.cgi?id=43904
+Depends on: 3955ce1e0a882cce7237920ad06d176a14da7a27
