@@ -1,3 +1,7 @@
 Fixes: [44168] Wizardry 8 hangs when starting a new game or loading a saved game
 	https://bugs.winehq.org/show_bug.cgi?id=44168
 Fixes regression: ee33d38c5041a8293c64257801572d1c742b0aba
+
+Fixes: [44170] MSMoney data File password no more recognized
+	https://bugs.winehq.org/show_bug.cgi?id=44170
+Fixes regression: ee33d38c5041a8293c64257801572d1c742b0aba
