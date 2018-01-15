@@ -1,0 +1,2 @@
+Fixes: [43956] GDI+ is unable to load some truetype fonts
+	https://bugs.winehq.org/show_bug.cgi?id=43956
