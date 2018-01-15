@@ -1,0 +1,2 @@
+Fixes: [36517] SlovoEB 2.1 (.NET 4.0 app) crashes on startup (unsupported WICPixelFormat32bppGrayFloat)
+	https://bugs.winehq.org/show_bug.cgi?id=36517
