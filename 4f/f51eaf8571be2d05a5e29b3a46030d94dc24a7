@@ -1,0 +1,3 @@
+Fixes: [37336] U-blox U-Center 8.11 crashes when importing or exporting config file
+	https://bugs.winehq.org/show_bug.cgi?id=37336
+Depends on: 71eac4a70b56ce5a8b20a0e10bacc7dcf7638627
