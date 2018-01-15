@@ -1,0 +1,2 @@
+Fixes: [43940] Runtime error: Invalid floating point operation in Dys-Vocal2 installer
+	https://bugs.winehq.org/show_bug.cgi?id=43940
