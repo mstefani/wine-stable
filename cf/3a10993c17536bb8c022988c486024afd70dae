@@ -1,0 +1,2 @@
+Fixes: [22682] Multiple games need function d3dx9_36.dll.D3DXGetShaderInputSemantics (Far Cry 2/3, Avatar, Faery: Legends of Avalon, Civilization 4, Deathspank, Of Orcs and Men)
+	https://bugs.winehq.org/show_bug.cgi?id=22682
