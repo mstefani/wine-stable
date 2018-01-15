@@ -1,3 +1,8 @@
 Fixes: [37336] U-blox U-Center 8.11 crashes when importing or exporting config file
 	https://bugs.winehq.org/show_bug.cgi?id=37336
 Depends on: 71eac4a70b56ce5a8b20a0e10bacc7dcf7638627
+
+Fixes: [40832] MultiSpec 2.8.2016 32-Bit: Installs fine but crashes while opening any images
+	https://bugs.winehq.org/show_bug.cgi?id=40832
+Fixes regression: 40afb51a70ae491011f44dc9e6c1bbf59cf8bd00
+Depends on: 71eac4a70b56ce5a8b20a0e10bacc7dcf7638627
