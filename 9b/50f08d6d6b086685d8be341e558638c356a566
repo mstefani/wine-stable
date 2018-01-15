@@ -1,0 +1,2 @@
+Fixes: [43939] comctl32 cannot load its assembly on arm
+	https://bugs.winehq.org/show_bug.cgi?id=43939
