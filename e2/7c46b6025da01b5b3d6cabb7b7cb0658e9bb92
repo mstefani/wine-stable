@@ -1,0 +1,2 @@
+Fixes: [43905] pCon Planner crashes using builtin msvcp: access violation reading location 0x60 at basic_ios_char_widen in module msvcp140.
+	https://bugs.winehq.org/show_bug.cgi?id=43905
