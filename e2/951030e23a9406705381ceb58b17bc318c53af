@@ -1,0 +1,2 @@
+Fixes: [43483] Medusa Demo crashes with unimplemented function d3dx10_43.dll.D3DX10PreprocessShaderFromMemory
+	https://bugs.winehq.org/show_bug.cgi?id=43483
