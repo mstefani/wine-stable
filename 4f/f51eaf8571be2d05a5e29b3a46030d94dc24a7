@@ -6,3 +6,7 @@ Fixes: [40832] MultiSpec 2.8.2016 32-Bit: Installs fine but crashes while openin
 	https://bugs.winehq.org/show_bug.cgi?id=40832
 Fixes regression: 40afb51a70ae491011f44dc9e6c1bbf59cf8bd00
 Depends on: 71eac4a70b56ce5a8b20a0e10bacc7dcf7638627
+
+Fixes: [40866] DigitalMicrograph: crashes when a new script is added to the menu
+	https://bugs.winehq.org/show_bug.cgi?id=40866
+Depends on: 71eac4a70b56ce5a8b20a0e10bacc7dcf7638627
