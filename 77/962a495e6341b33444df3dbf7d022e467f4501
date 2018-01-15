@@ -1,0 +1,3 @@
+Fixes: [29986] IE6 and IE4 have greenish toolbar icons
+	https://bugs.winehq.org/show_bug.cgi?id=29986
+Fixes regression: 9b7ea6f417a68517745203123d9df0516ebc60b1
