@@ -1,0 +1,2 @@
+Fixes: [38334] SpinTires crashes with unimplemented function d3dx9_36.dll.D3DXFrameFind
+	https://bugs.winehq.org/show_bug.cgi?id=38334
