@@ -1,0 +1,2 @@
+Fixes: [43884] MSVC LINK.EXE version 14.11.25547.0 crashes due to unimplemented function _memicmp_l
+	https://bugs.winehq.org/show_bug.cgi?id=43884
