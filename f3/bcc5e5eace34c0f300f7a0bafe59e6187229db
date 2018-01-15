@@ -1,0 +1,2 @@
+Fixes: [44075] Unable to set subsystem version with VC++ 2013 link.exe
+	https://bugs.winehq.org/show_bug.cgi?id=44075
