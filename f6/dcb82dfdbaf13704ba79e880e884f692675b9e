@@ -1,2 +1,5 @@
 Fixes: [42099] Bedlam (indie game) renders 3D world upside down (DX11)
 	https://bugs.winehq.org/show_bug.cgi?id=42099
+
+Fixes: [43264] The Witcher 3: Black and red face textures and missing vegetation
+	https://bugs.winehq.org/show_bug.cgi?id=43264
