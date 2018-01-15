@@ -1,0 +1,2 @@
+Fixes: [44130] Possible access to unintended variable in "dlls/comctl32/imagelist.c" line 299
+	https://bugs.winehq.org/show_bug.cgi?id=44130
