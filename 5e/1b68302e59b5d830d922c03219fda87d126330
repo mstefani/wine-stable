@@ -1,0 +1,4 @@
+Fixes: [43800] Winamp's associations setup window has broken check boxes appearance
+	https://bugs.winehq.org/show_bug.cgi?id=43800
+Fixes regression: 2dd0fb880c005cd5660928d1646a117407cec238
+Depends on: a6a9ec4459d1ba912b4ce13671fe8ba0bfe531ee
