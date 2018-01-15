@@ -1,0 +1,2 @@
+Fixes: [43217] Wine cannot execute position-independent (PIE) host executables via CreateProcess()
+	https://bugs.winehq.org/show_bug.cgi?id=43217
