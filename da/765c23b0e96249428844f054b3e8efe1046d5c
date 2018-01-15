@@ -1,0 +1,3 @@
+Fixes: [43004] qedit/tests/mediadet.c intermittent crash
+	https://bugs.winehq.org/show_bug.cgi?id=43004
+Fixes regression: 38586dcf48bf38c136ea315fd9d83a1be56483b1
