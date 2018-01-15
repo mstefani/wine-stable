@@ -1,2 +1,3 @@
 Fixes: [43316] Process Hacker 2.x needs ADVAPI32.dll.LsaLookupPrivilegeName
 	https://bugs.winehq.org/show_bug.cgi?id=43316
+Depends on: 252385db7f8d83c4512955875e2d36592e7442c0
