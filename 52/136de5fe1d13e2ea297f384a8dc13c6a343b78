@@ -1,0 +1,3 @@
+Fixes: [44148] DX Library: Multiple PlaySoundMem() calls don't work when using XAudio2
+	https://bugs.winehq.org/show_bug.cgi?id=44148
+Fixes regression: e2c73fc394bace00c4463b6fcb6dfe9dc64084bc
