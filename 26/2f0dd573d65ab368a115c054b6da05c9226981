@@ -1,0 +1,2 @@
+Fixes: [41747] HYPACK 2016 crashes trying to set "AllowXsltScript" and "AllowDocumentFunction" properties
+	https://bugs.winehq.org/show_bug.cgi?id=41747

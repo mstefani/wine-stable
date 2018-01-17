@@ -1,0 +1,3 @@
+Fixes: [41905] The Solus Project: Backend can't handle opcode bfrev
+	https://bugs.winehq.org/show_bug.cgi?id=41905
+Depends on: 375d40e97b871eee372b51c688a5bb8540042dd2
