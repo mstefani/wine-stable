@@ -1,0 +1,2 @@
+Fixes: [36441] joy.cpl crashes when PS4 Gamepad connected via Bluetooth
+	https://bugs.winehq.org/show_bug.cgi?id=36441
