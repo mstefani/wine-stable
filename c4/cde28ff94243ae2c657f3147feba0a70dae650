@@ -1,0 +1,2 @@
+Fixes: [44180] TMIDI Player: Crash on startup with a stack overflow
+	https://bugs.winehq.org/show_bug.cgi?id=44180
