@@ -1,0 +1,3 @@
+Fixes: [43068] Armed and Dangerous: severe performance degradation
+	https://bugs.winehq.org/show_bug.cgi?id=43068
+Fixes regression: afb2aa2512d4c5ffa7256ce5137bc2c142a5d065
