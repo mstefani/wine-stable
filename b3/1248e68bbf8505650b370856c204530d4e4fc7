@@ -1,0 +1,2 @@
+Fixes: [42170] Microsoft .NET Framework 4.6.2 offline installer does not complete, needs wevtapi.EvtNext stub
+	https://bugs.winehq.org/show_bug.cgi?id=42170
