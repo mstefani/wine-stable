@@ -1,0 +1,2 @@
+Fixes: [43728] Magic: The Gathering Online intensive CPU usage when idle
+	https://bugs.winehq.org/show_bug.cgi?id=43728
