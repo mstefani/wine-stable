@@ -1,0 +1,2 @@
+Fixes: [37997] Jeskola Buzz Build 1499 (.NET 4.0 app) crashes on unimplemented function msvcp100.dll.??0_Concurrent_queue_base_v4@details@Concurrency@@IAE@I@Z
+	https://bugs.winehq.org/show_bug.cgi?id=37997
