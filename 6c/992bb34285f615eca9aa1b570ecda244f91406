@@ -1,0 +1,2 @@
+Fixes: [44329] Listview does not reset returned state mask for subitems
+	https://bugs.winehq.org/show_bug.cgi?id=44329
