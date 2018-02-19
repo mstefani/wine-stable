@@ -1,0 +1,2 @@
+Fixes: [44310] WritePrivateProfileString doesn't check for flush errors
+	https://bugs.winehq.org/show_bug.cgi?id=44310
