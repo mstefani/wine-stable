@@ -3,3 +3,6 @@ Fixes: [37997] Jeskola Buzz Build 1499 (.NET 4.0 app) crashes on unimplemented f
 
 Fixes: [40926] Multiple games (Solus Project, Dying Light) require unimplemented function msvcp110.dll.??0_Concurrent_queue_base_v4@details@Concurrency@@IEAA@_K@Z
 	https://bugs.winehq.org/show_bug.cgi?id=40926
+
+Fixes: [43538] x64dbg needs unimplemented function msvcp120.dll.??0_Concurrent_queue_base_v4@details@Concurrency@@IAE@I@Z
+	https://bugs.winehq.org/show_bug.cgi?id=43538
