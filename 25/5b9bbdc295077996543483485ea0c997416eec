@@ -1,0 +1,2 @@
+Fixes: [44176] EverQuest crashes with unimplemented function d3dx9_43.dll.D3DXCreateKeyframedAnimationSet
+	https://bugs.winehq.org/show_bug.cgi?id=44176
