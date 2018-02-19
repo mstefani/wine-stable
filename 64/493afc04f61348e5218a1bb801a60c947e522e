@@ -1,0 +1,2 @@
+Fixes: [44270] Exception when organizing favorites in Windows Media Player 6.4 (unimplemented function shdocvw.dll.DoOrganizeFavDlg)
+	https://bugs.winehq.org/show_bug.cgi?id=44270
