@@ -1,0 +1,2 @@
+Fixes: [41220] Provide fallback implementation of strnlen for OS versions that don't have it in their Libc (Leopard, Snow Leopard, et al)
+	https://bugs.winehq.org/show_bug.cgi?id=41220

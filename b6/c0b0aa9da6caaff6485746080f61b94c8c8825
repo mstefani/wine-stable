@@ -1,0 +1,2 @@
+Fixes: [44153] ShellExecute crash when opening explorer.exe
+	https://bugs.winehq.org/show_bug.cgi?id=44153

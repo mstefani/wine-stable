@@ -1,0 +1,3 @@
+Fixes: [29871] drawing in photoshop cs5 is almost impossible
+	https://bugs.winehq.org/show_bug.cgi?id=29871
+Fixes regression: cb3b7237925a24ba4c5696dd079fdc5d99a48577

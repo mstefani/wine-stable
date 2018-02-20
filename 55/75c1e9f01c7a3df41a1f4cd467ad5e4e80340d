@@ -1,0 +1,2 @@
+Fixes: [32202] ActiveX install attempts to run wrong inf section
+	https://bugs.winehq.org/show_bug.cgi?id=32202

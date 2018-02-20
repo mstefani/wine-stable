@@ -1,0 +1,2 @@
+Fixes: [13548] Wine's setupapi does not know how to recursively delete registry keys
+	https://bugs.winehq.org/show_bug.cgi?id=13548

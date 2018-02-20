@@ -1,0 +1,2 @@
+Fixes: [14937] Astroplanner 1.6.1 crashes when closing "preferences" window (TOOLTIPS_SubclassProc must be unsubclassed during WM_NCDESTROY)
+	https://bugs.winehq.org/show_bug.cgi?id=14937

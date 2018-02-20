@@ -1,0 +1,14 @@
+Fixes: [44168] Wizardry 8 hangs when starting a new game or loading a saved game
+	https://bugs.winehq.org/show_bug.cgi?id=44168
+Fixes regression: ee33d38c5041a8293c64257801572d1c742b0aba
+
+Fixes: [44170] MSMoney data File password no more recognized
+	https://bugs.winehq.org/show_bug.cgi?id=44170
+Fixes regression: ee33d38c5041a8293c64257801572d1c742b0aba
+
+Fixes: [44194] Serious Sam Classic (First and Second Encounter) shifts the view and makes the game unplayable
+	https://bugs.winehq.org/show_bug.cgi?id=44194
+
+Fixes: [44196] Autocad 2002 - Scrambled numbers in output
+	https://bugs.winehq.org/show_bug.cgi?id=44196
+Fixes regression: ee33d38c5041a8293c64257801572d1c742b0aba

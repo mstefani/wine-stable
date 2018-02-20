@@ -1,0 +1,2 @@
+Fixes: [44064] Sims 4: unimplemented function msvcr120.dll._get_purecall_handler
+	https://bugs.winehq.org/show_bug.cgi?id=44064
