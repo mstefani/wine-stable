@@ -1,0 +1,2 @@
+Fixes: [43520] Magic The Gathering Online - corrupted rendering of CMYK jpegs
+	https://bugs.winehq.org/show_bug.cgi?id=43520
