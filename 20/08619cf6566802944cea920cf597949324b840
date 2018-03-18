@@ -1,0 +1,2 @@
+Fixes: [44501] Missing D3D11_1_UAV_SLOT_COUNT constant
+	https://bugs.winehq.org/show_bug.cgi?id=44501
