@@ -1,0 +1,2 @@
+Fixes: [44578] ShellDispatch::BrowseForFolder is not implemented
+	https://bugs.winehq.org/show_bug.cgi?id=44578
