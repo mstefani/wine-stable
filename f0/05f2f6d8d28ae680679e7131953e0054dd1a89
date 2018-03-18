@@ -1,0 +1,2 @@
+Fixes: [35268] 64bit InstallShield installer uses 32bit typelib function offsets
+	https://bugs.winehq.org/show_bug.cgi?id=35268
