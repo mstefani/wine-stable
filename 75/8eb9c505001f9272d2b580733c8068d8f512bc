@@ -1,0 +1,2 @@
+Fixes: [44255] Wolf RPG Editor: Game.exe zombifies upon quit
+	https://bugs.winehq.org/show_bug.cgi?id=44255
