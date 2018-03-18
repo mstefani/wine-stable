@@ -1,0 +1,2 @@
+Fixes: [44512] Royale Noir theme - Various: fixme:uxtheme:DrawThemeTextEx unsupported flags
+	https://bugs.winehq.org/show_bug.cgi?id=44512
