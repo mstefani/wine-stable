@@ -1,0 +1,2 @@
+Fixes: [44265] Options dialog triggers exception upon close in Windows Media Player 6.4
+	https://bugs.winehq.org/show_bug.cgi?id=44265
