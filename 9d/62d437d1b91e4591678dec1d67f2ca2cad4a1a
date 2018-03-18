@@ -1,0 +1,2 @@
+Fixes: [44475] Microsoft SQL Server 2008 Express Edition installer fails install .NET assemblies into GAC
+	https://bugs.winehq.org/show_bug.cgi?id=44475
