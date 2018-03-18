@@ -1,0 +1,2 @@
+Fixes: [23033] Tages Protection v5.x: games report "DLL not found shell.dll16.dll" (Runaway 2: The Dream Of The Turtle, ...)
+	https://bugs.winehq.org/show_bug.cgi?id=23033
