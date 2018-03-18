@@ -1,2 +1,6 @@
 Fixes: [38838] MS Office Pro Plus 2010 reruns setup on starting any app when Windows version is Vista or later
 	https://bugs.winehq.org/show_bug.cgi?id=38838
+
+Fixes: [44222] Office 2010 Pro Plus reruns setup on starting any app even when Windows version is XP
+	https://bugs.winehq.org/show_bug.cgi?id=44222
+Fixes regression: d0ed6d10358683e76f4fc059572fcd60813e8dc0
