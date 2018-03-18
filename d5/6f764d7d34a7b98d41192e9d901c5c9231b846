@@ -1,0 +1,2 @@
+Fixes: [44428] x64dbg needs unimplemented function msvcr120.dll.??0_NonReentrantPPLLock@details@Concurrency@@QEAA@XZ
+	https://bugs.winehq.org/show_bug.cgi?id=44428
