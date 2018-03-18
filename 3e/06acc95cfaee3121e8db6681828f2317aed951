@@ -1,0 +1,2 @@
+Fixes: [38838] MS Office Pro Plus 2010 reruns setup on starting any app when Windows version is Vista or later
+	https://bugs.winehq.org/show_bug.cgi?id=38838
