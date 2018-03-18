@@ -1,0 +1,2 @@
+Fixes: [44441] for loop reading a file strips out double quotes and then equals
+	https://bugs.winehq.org/show_bug.cgi?id=44441
