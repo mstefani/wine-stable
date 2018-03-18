@@ -1,0 +1,3 @@
+Fixes: [43256] Civilization V in-game font corrupted
+	https://bugs.winehq.org/show_bug.cgi?id=43256
+Fixes regression: e06d2dbc6772bf4f038847f2c7825ecdefcf4b90
