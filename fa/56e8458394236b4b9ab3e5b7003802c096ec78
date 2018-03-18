@@ -2,3 +2,4 @@ Fixes: [44473] glyph overlap in Delphi editor
 	https://bugs.winehq.org/show_bug.cgi?id=44473
 Fixes regression: 34e73617903da1f73f628d1eca355a9e2173da2e
 Depends on: b4a10d17c62d340a9578e8bf7715d78ec34551bc
+Depends on: 68f9fb556d6ac51ed628d106a33737c13095fad4
