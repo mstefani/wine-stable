@@ -1,0 +1,2 @@
+Fixes: [44213] ShareHolder Finder 0.9.3.0 fails to generate unique hardware id, reports 'Error: The requested action with this object has failed.' (several 'Win32_ComputerSystemProduct' WMI class properties missing)
+	https://bugs.winehq.org/show_bug.cgi?id=44213
