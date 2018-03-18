@@ -1,0 +1,2 @@
+Fixes: [36718] Mindjet MindManager 14.x/15.x installer fails with 'Microsoft .NET Framework version 4.0.30319 or higher required' (builtin 'MsiNetAssemblySupport' property missing)
+	https://bugs.winehq.org/show_bug.cgi?id=36718
