@@ -1,0 +1,2 @@
+Fixes: [44628] BaiduMusic needs dwmapi.DwmSetIconicThumbnail (stub)
+	https://bugs.winehq.org/show_bug.cgi?id=44628
