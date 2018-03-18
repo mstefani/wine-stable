@@ -1,0 +1,2 @@
+Fixes: [37852] Sentinel HASP 'hardlock.sys' kernel driver custom imports resolver can't cope with many 'ntoskrnl.exe' functions being fowarded to 'ntdll.dll' (Minitab 16 fails to start)
+	https://bugs.winehq.org/show_bug.cgi?id=37852
