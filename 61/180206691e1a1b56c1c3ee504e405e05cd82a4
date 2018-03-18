@@ -1,0 +1,2 @@
+Fixes: [39500] DRM kernel drivers used by some game demos crash on unimplemented function hal.dll.KeQueryPerformanceCounter (Secret Files: Tunguska, Sherlock Holmes vs Jack the Ripper)
+	https://bugs.winehq.org/show_bug.cgi?id=39500
