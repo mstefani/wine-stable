@@ -1,0 +1,2 @@
+Fixes: [37217] wine builtin iexplore couldn't load local pages correctly in chinese named folders
+	https://bugs.winehq.org/show_bug.cgi?id=37217
