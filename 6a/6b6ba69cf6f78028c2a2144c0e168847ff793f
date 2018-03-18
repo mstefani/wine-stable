@@ -1,0 +1,2 @@
+Fixes: [44492] winedbg reports unknown mode, fails to backtrace etc. in protected-mode with 64-bit wineserver
+	https://bugs.winehq.org/show_bug.cgi?id=44492
