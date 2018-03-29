@@ -1,0 +1,2 @@
+Fixes: [41096] ResEdit Resources treeview has rendered wrongly positioned first branch
+	https://bugs.winehq.org/show_bug.cgi?id=41096
