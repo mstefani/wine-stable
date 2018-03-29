@@ -1,0 +1,2 @@
+Fixes: [43357] Stars in Shadow crashes on startup
+	https://bugs.winehq.org/show_bug.cgi?id=43357
