@@ -1,0 +1,2 @@
+Fixes: [32104] KwMusic: crashes during installing
+	https://bugs.winehq.org/show_bug.cgi?id=32104
