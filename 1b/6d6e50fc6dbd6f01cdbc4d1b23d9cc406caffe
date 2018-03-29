@@ -1,0 +1,3 @@
+Fixes: [44550] ReactOS ftp.exe: enters endless loop on CTRL-Z
+	https://bugs.winehq.org/show_bug.cgi?id=44550
+Depends on: a44794af67ace4bca152480bb2be3d141c36b39c
