@@ -1,0 +1,2 @@
+Fixes: [25138] Black and White 2 demo crashes on startup (ID3DXEffect interface changes between d3dx9_xx versions)
+	https://bugs.winehq.org/show_bug.cgi?id=25138
