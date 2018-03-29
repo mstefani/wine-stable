@@ -1,0 +1,2 @@
+Fixes: [40539] Fail to start HPDiagnosticCoreUI.exe
+	https://bugs.winehq.org/show_bug.cgi?id=40539
