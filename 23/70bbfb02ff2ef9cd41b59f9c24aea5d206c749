@@ -1,0 +1,2 @@
+Fixes: [44701] xinput console spam with steam
+	https://bugs.winehq.org/show_bug.cgi?id=44701
