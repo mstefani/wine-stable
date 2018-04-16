@@ -1,0 +1,3 @@
+Fixes: [44570] explorer.exe crashes when opening relative paths
+	https://bugs.winehq.org/show_bug.cgi?id=44570
+Depends on: d5a897f46f6bb4acc23033571c5135f4d1835344
