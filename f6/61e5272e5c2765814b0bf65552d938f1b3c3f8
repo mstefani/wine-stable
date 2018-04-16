@@ -1,0 +1,2 @@
+Fixes: [44053] MobilePASS application quits with an error, needs unimplemented function bcrypt.dll.BCryptImportKey
+	https://bugs.winehq.org/show_bug.cgi?id=44053
