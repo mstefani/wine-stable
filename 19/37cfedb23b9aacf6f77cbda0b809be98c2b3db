@@ -1,0 +1,2 @@
+Fixes: [38352] Multiple games need d3dx9_36.dll.D3DXComputeNormalMap (Foresight, Gamestudio Venice, GOG King Arthur Collection)
+	https://bugs.winehq.org/show_bug.cgi?id=38352
