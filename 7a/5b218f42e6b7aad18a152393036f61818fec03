@@ -1,0 +1,2 @@
+Fixes: [44482] x64dbg crashes during exit on unimplemented function msvcp120.dll.??0_Runtime_object@details@Concurrency@@QEAA@XZ
+	https://bugs.winehq.org/show_bug.cgi?id=44482
