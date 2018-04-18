@@ -1,0 +1,2 @@
+Fixes: [44749] Sentinel HASP 'hardlock.sys' kernel driver expects ntdll.RtlCheckRegistryKey to return STATUS_SUCCESS on empty path
+	https://bugs.winehq.org/show_bug.cgi?id=44749
