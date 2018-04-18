@@ -1,0 +1,2 @@
+Fixes: [44641] Sentinel HASP 'hardlock.sys' kernel driver crashes on unimplemented function ntoskrnl.exe.RtlCreateRegistryKey
+	https://bugs.winehq.org/show_bug.cgi?id=44641
