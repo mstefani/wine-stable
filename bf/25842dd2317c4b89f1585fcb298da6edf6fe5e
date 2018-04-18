@@ -1,0 +1,3 @@
+Fixes: [44647] Smart Diary Suite 4 just segfaults
+	https://bugs.winehq.org/show_bug.cgi?id=44647
+Fixes regression: dc63fbf98d1af6396533a9af2cfb1eb996a18035
