@@ -2,3 +2,4 @@ Fixes: [42768] Ys: The Ark of Napishtim (Ys 6) silently crashes playing in-game 
 	https://bugs.winehq.org/show_bug.cgi?id=42768
 Fixes regression: ff0a25cbc74f358884b2750a75c708a9ad839e04
 Depends on: f49fc4c7ef940409a2c41ab7230a97e423980015
+Deferred: 3.0.2+
