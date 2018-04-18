@@ -1,0 +1,2 @@
+Fixes: [37809] C runtime dlls can't link with uclibc (bessel functions missing)
+	https://bugs.winehq.org/show_bug.cgi?id=37809
