@@ -1,0 +1,2 @@
+Fixes: [44616] Multiple Blizzard games need 'ntdll.NtCreateThreadEx' implementation (Diablo III v2. 6. 1. 49286+, World of Warcraft, Overwatch)
+	https://bugs.winehq.org/show_bug.cgi?id=44616
