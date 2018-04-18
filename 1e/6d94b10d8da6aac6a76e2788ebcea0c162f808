@@ -1,0 +1,2 @@
+Fixes: [44717] Bermuda (Steam, Indie game) crashes due to 'msscript.ocx' 'ScriptControl_put_AllowUI' being a stub
+	https://bugs.winehq.org/show_bug.cgi?id=44717
