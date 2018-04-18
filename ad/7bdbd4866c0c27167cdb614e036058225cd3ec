@@ -1,0 +1,2 @@
+Fixes: [35910] TuneUp Utilities 2014 installer crashes (API signature mismatch for NtAllocateUuids)
+	https://bugs.winehq.org/show_bug.cgi?id=35910
