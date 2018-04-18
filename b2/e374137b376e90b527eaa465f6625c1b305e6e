@@ -1,0 +1,2 @@
+Fixes: [44654] EDIdEv Framework EDI Runtime installer fails due to 'sfc.SfcGetNextProtectedFile' not setting last-error code
+	https://bugs.winehq.org/show_bug.cgi?id=44654
