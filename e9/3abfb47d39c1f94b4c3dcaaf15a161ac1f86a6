@@ -1,0 +1,3 @@
+Fixes: [44626] AvP Classic 2000 (Steam) launcher crashes when attempting to start the game
+	https://bugs.winehq.org/show_bug.cgi?id=44626
+Fixes regression: 49abeb63cb88ea2efa6ad599047745bd8794f03c
