@@ -1,3 +1,4 @@
 Fixes: [39209] Smart Diary Suite 4 crashes when updating options ('CLSID_AudioCompressorCategory', '{33D9A761-90C8-11d0-BD43-00A0C911CE86}' must be treated as special category)
 	https://bugs.winehq.org/show_bug.cgi?id=39209
 Depends on: a736400eed739052dab56750411ddf53919948d2
+Deferred: 3.0.2+
