@@ -1,0 +1,2 @@
+Fixes: [30076] .NET Framework 4.x with WinVer setting "Windows 7" spams terminal with "LocaleNameToLCID/LCIDToLocaleName unsupported flags 8000000" (LOCALE_ALLOW_NEUTRAL_NAMES)
+	https://bugs.winehq.org/show_bug.cgi?id=30076
