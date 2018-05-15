@@ -1,0 +1,3 @@
+Fixes: [36843] "Read only"checkbox on Save As dialog
+	https://bugs.winehq.org/show_bug.cgi?id=36843
+Depends on: 2118ce0fa9785ce301370738b12b8f38a23ca86b
