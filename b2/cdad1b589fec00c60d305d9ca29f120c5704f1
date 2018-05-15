@@ -1,0 +1,2 @@
+Fixes: [29842] IE4 crashes on showing certificate authorities, needs wininet.dll.ParseX509EncodedCertificateForListBoxEntry
+	https://bugs.winehq.org/show_bug.cgi?id=29842
