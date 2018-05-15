@@ -1,0 +1,2 @@
+Fixes: [30611] Lazarus browser sample fails, needs ieframe:ViewObject_Draw implementation
+	https://bugs.winehq.org/show_bug.cgi?id=30611
