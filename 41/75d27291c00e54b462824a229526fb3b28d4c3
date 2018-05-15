@@ -1,0 +1,2 @@
+Fixes: [34101] Need for Speed: Shift demo crashes in 'purist' mode (d3dx9_36) (needs ID3DXEffect::FindNextValidTechnique method implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=34101
