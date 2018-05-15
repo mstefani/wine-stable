@@ -1,0 +1,2 @@
+Fixes: [38836] SCM 'StartService' must wait for driver service entry point execution before return (PunkBuster 'PnkBstrB' service failure, CPU-Z randomly fails to load its driver, BattlEye 'BEDaisy' kernel service)
+	https://bugs.winehq.org/show_bug.cgi?id=38836
