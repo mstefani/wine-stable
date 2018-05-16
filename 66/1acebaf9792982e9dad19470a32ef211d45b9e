@@ -1,0 +1,2 @@
+Fixes: [44742] Divinity: Original Sin 2 crashes due to unimplemented IPHLPAPI.DLL.ConvertLengthToIpv4Mask
+	https://bugs.winehq.org/show_bug.cgi?id=44742
