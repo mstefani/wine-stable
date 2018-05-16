@@ -1,0 +1,2 @@
+Fixes: [44804] PCBWeb crashes: Call to unimplemented function d3dx11_43.dll.D3DX11CreateTextureFromFileW
+	https://bugs.winehq.org/show_bug.cgi?id=44804
