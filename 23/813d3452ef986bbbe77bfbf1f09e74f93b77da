@@ -1,0 +1,2 @@
+Fixes: [44138] Native Access needs unimplemented function iphlpapi.dll.if_indextoname
+	https://bugs.winehq.org/show_bug.cgi?id=44138
