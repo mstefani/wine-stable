@@ -1,0 +1,2 @@
+Fixes: [44278] Multiple applications crash on unimplemented function msvcp140.dll.?uncaught_exceptions@std@@YAHXZ
+	https://bugs.winehq.org/show_bug.cgi?id=44278
