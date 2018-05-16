@@ -1,0 +1,2 @@
+Fixes: [44770] ExpressPCB Plus 1.1 (.NET 3.5 SP1 app) throws 'System.NotImplementedException: Not implemented at System.Drawing.Pen.TranslateTransform' (GdipTranslatePenTransform not implemented)
+	https://bugs.winehq.org/show_bug.cgi?id=44770
