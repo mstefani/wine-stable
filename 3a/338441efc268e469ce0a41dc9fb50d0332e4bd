@@ -1,0 +1,2 @@
+Fixes: [44496] Custom imports resolver used by multiple kernel drivers can't cope with 'ntoskrnl.exe' low-level (wc)string/copy helpers being forwarded to 'msvcrt.dll' (BattlEye 'BEDaisy', Sentinel HASP 'hardlock.sys')
+	https://bugs.winehq.org/show_bug.cgi?id=44496
