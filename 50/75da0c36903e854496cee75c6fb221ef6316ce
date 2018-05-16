@@ -1,0 +1,2 @@
+Fixes: [39979] SupArc crashes inside msvcr110
+	https://bugs.winehq.org/show_bug.cgi?id=39979
