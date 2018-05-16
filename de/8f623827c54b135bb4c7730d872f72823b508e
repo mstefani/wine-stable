@@ -1,0 +1,2 @@
+Fixes: [44746] Running any command in MS PowerShell 6+ (.NET app) results in advapi:EventActivityIdControl console spam
+	https://bugs.winehq.org/show_bug.cgi?id=44746
