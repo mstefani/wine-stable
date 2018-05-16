@@ -1,0 +1,2 @@
+Fixes: [44693] Native Access crashes on unimplemented function vcruntime140.dll.__current_exception
+	https://bugs.winehq.org/show_bug.cgi?id=44693
