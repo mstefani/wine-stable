@@ -1,0 +1,2 @@
+Fixes: [44744] Autodesk Fusion 360 need propsys.dll.PSGetPropertyKeyFromName to be installed
+	https://bugs.winehq.org/show_bug.cgi?id=44744
