@@ -1,0 +1,2 @@
+Fixes: [44811] BattlEye 'BEDaisy' kernel service crashes on unimplemented function ntoskrnl.exe._chkstk
+	https://bugs.winehq.org/show_bug.cgi?id=44811
