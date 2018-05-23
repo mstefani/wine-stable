@@ -1,2 +1,3 @@
 Fixes: [43930] iCopy 1.6.x (.NET 2.0 app) crashes on startup (IWiaDevMgr::SelectDeviceDlg DeviceID pointer parameter can be NULL, needs be declared 'unique' for RPC marshalling)
 	https://bugs.winehq.org/show_bug.cgi?id=43930
+Deferred: 2.0.3
