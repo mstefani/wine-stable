@@ -1,0 +1,3 @@
+Fixes: [41377] Windows 10 DISM fails to find its resources (kernel32 SetThreadUILanguage must return non-zero/best fit language identifier if zero is passed)
+	https://bugs.winehq.org/show_bug.cgi?id=41377
+Depends on: 92fde7f35242206ce3e3d557cad00be237439132
