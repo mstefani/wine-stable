@@ -1,0 +1,2 @@
+Fixes: [30103] Static controls with bitmap do not display correct background.
+	https://bugs.winehq.org/show_bug.cgi?id=30103
