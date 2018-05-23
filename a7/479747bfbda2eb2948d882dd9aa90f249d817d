@@ -1,0 +1,3 @@
+Fixes: [44001] Empire of the Ants (french version "les fourmis") - game crashed
+	https://bugs.winehq.org/show_bug.cgi?id=44001
+Deferred: 2.0.3
