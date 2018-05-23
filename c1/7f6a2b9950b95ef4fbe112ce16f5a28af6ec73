@@ -1,0 +1,2 @@
+Fixes: [43831] Cuphead (Steam) crashes on startup (needs setupapi.CM_Get_Parent stub to return CR_NO_SUCH_DEVNODE)
+	https://bugs.winehq.org/show_bug.cgi?id=43831
