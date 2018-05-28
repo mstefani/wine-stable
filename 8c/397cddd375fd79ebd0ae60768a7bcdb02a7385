@@ -1,0 +1,2 @@
+Fixes: [44818] ntdll.NtClose (kernel32.CloseHandle) should throw invalid handle exception (EXCEPTION_INVALID_HANDLE) for invalid handles when run under debugger
+	https://bugs.winehq.org/show_bug.cgi?id=44818
