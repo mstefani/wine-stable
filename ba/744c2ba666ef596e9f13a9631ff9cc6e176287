@@ -1,0 +1,2 @@
+Fixes: [44944] Adobe Premiere Elements 14 fails to install: ERROR: Third party payload installer pxengine5_08_13a.exe failed with exit code: -1
+	https://bugs.winehq.org/show_bug.cgi?id=44944
