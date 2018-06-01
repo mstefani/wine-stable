@@ -1,0 +1,2 @@
+Fixes: [44924] StarForce v3 kernel drivers need ntoskrnl.IoCreateSynchronizationEvent to return a non-NULL handle
+	https://bugs.winehq.org/show_bug.cgi?id=44924
