@@ -1,0 +1,2 @@
+Fixes: [44404] Several .Net apps (e.g. Remembear) throw errors/crash,caused by msctf stubs TextStoreACPSink_{OnTextChange,OnSelectionChange,OnLayoutChange}
+	https://bugs.winehq.org/show_bug.cgi?id=44404

@@ -1,0 +1,2 @@
+Fixes: [44530] 64-bit Sentinel HASP hardlock.sys kernel driver tries to access to DR7 (not handled in ntoskrnl emulate_instruction)
+	https://bugs.winehq.org/show_bug.cgi?id=44530

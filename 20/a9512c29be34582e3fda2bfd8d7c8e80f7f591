@@ -1,0 +1,2 @@
+Fixes: [44984] Maya 2018 LT Installer requires unimplemented function api-ms-win-crt-time-l1-1-0.dll._timespec64_get
+	https://bugs.winehq.org/show_bug.cgi?id=44984

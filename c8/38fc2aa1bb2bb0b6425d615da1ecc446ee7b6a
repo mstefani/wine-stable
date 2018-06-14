@@ -1,0 +1,2 @@
+Fixes: [39452] mpr.WNetGetUniversalName() return value (causes Intel MPI to fail)
+	https://bugs.winehq.org/show_bug.cgi?id=39452
