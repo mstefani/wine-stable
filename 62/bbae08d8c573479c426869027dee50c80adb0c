@@ -1,0 +1,3 @@
+Fixes: [44971] HackShield for Banking Driver 'HSBDrvNt.sys' (part of Ahnlab Safe Transaction) crashes on unimplemented function ntoskrnl.exe.ExInterlockedPopEntrySList
+	https://bugs.winehq.org/show_bug.cgi?id=44971
+Depends on: fec2aadebe48aefd649d0abfceb6bc0165904421

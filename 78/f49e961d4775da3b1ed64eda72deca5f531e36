@@ -1,0 +1,2 @@
+Fixes: [44932] limited list of available printer's paper/page size
+	https://bugs.winehq.org/show_bug.cgi?id=44932

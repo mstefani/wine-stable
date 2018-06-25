@@ -1,0 +1,2 @@
+Fixes: [37594] World of Warcraft in-game browser does not work (needs advapi32.BuildSecurityDescriptorW() implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=37594

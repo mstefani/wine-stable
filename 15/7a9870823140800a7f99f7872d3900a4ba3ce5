@@ -1,0 +1,3 @@
+Fixes: [44904] winebus blocks auto start up of scheduler service
+	https://bugs.winehq.org/show_bug.cgi?id=44904
+Fixes regression: 45d82a2464b535c484b0a6e96f9851f9db573edf

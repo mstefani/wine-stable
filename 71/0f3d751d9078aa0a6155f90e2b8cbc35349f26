@@ -1,0 +1,3 @@
+Fixes: [15350] wrong keyboard layout in Tomb Raider Anniversary / Legend
+	https://bugs.winehq.org/show_bug.cgi?id=15350
+Fixes regression: 304ff3c7280a53b7cbadfa83eaeda458ff5959d1

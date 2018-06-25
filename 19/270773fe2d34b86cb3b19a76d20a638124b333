@@ -1,0 +1,2 @@
+Fixes: [44923] Failing kernel driver services can stall WINEPREFIX bootstrapping/startup for a considerable time when configured as autostart
+	https://bugs.winehq.org/show_bug.cgi?id=44923

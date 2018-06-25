@@ -1,0 +1,2 @@
+Fixes: [44874] Phonetools 9.x crashes on unimplemented function KERNEL32.dll.RequestDeviceWakeup
+	https://bugs.winehq.org/show_bug.cgi?id=44874

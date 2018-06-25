@@ -1,0 +1,2 @@
+Fixes: [37228] Cisco Jabber 11.x crashes on unimplemented function ntdsapi.dll.DsCrackNamesW
+	https://bugs.winehq.org/show_bug.cgi?id=37228
