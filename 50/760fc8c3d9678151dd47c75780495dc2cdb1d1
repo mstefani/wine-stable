@@ -1,3 +1,5 @@
 Fixes: [44864] Incoming crashes after the intro video
 	https://bugs.winehq.org/show_bug.cgi?id=44864
 Fixes regression: 0d91d86bbab13b42bd39f142548fe8e0280fe0cd
+
+Depends on: 6f5028337e6f3e1712bafaaa1a0a3bfb983850a3
