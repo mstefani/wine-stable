@@ -1,0 +1,2 @@
+Fixes: [44895] League Of Legends: Unable to log in if behind OpenWRT based router
+	https://bugs.winehq.org/show_bug.cgi?id=44895
