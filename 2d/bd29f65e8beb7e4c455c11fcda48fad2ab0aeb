@@ -1,0 +1,3 @@
+Fixes: [45078] UFOHD2 crashes inside devenum
+	https://bugs.winehq.org/show_bug.cgi?id=45078
+Depends on: d34637f597bcd9172ed2d47aaf70a30d4395523b
