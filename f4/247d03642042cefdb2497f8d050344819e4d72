@@ -1,0 +1,2 @@
+Fixes: [21404] winedbg does not support fixed host:port parameter
+	https://bugs.winehq.org/show_bug.cgi?id=21404
