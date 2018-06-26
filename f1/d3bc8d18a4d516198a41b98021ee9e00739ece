@@ -1,0 +1,2 @@
+Fixes: [44334] 'start /W "" notepad' does not wait as on native.
+	https://bugs.winehq.org/show_bug.cgi?id=44334
