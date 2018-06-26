@@ -1,0 +1,2 @@
+Fixes: [45081] DsEnumerateDomainTrusts stubbed without A/W suffix
+	https://bugs.winehq.org/show_bug.cgi?id=45081
