@@ -1,0 +1,2 @@
+Fixes: [30713] Microsoft Visual C++ 64-bit redistributables get incorrectly installed into SysWOW64 (system directory for 32-bit files) when run under 64-bit Wine
+	https://bugs.winehq.org/show_bug.cgi?id=30713
