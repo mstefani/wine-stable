@@ -1,0 +1,3 @@
+Fixes: [44953] Adobe Premiere Elements 14 (trial) crashes inside winmm.dll
+	https://bugs.winehq.org/show_bug.cgi?id=44953
+Depends on: d7bd861ae6d3ec24ff69def9ab7115ebb13d554d
