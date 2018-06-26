@@ -1,0 +1,2 @@
+Fixes: [45143] Neoncron 2 Launcher crashes embedding IE browser process when clicking bottom menu items
+	https://bugs.winehq.org/show_bug.cgi?id=45143
