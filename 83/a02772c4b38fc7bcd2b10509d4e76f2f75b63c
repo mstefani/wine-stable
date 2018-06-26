@@ -1,0 +1,2 @@
+Fixes: [43607] Akiba's Trip Undead & Undressed requires MFStartup to return S_OK.
+	https://bugs.winehq.org/show_bug.cgi?id=43607
