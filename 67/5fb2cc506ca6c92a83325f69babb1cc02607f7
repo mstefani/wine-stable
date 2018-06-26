@@ -1,0 +1,2 @@
+Fixes: [44976] ConEmu-Maximus5 Windows console emulator causes crash of builtin 'wineconsole.exe' (division by zero)
+	https://bugs.winehq.org/show_bug.cgi?id=44976
