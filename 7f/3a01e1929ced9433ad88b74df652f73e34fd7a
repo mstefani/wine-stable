@@ -1,0 +1,3 @@
+Fixes: [44845] Bankperfect plugin installater Echéancier hangs during install
+	https://bugs.winehq.org/show_bug.cgi?id=44845
+Fixes regression: 5fe449307f6604a781bcb9fe1b81185e3ea1cf51
