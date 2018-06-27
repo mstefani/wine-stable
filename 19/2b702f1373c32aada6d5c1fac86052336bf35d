@@ -1,0 +1,2 @@
+Fixes: [32907] AMMYY Admin v3.0 crashes at startup in Win7 mode ('NtSetInformationToken' needs to support 'TokenSessionId')
+	https://bugs.winehq.org/show_bug.cgi?id=32907
