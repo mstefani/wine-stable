@@ -1,0 +1,3 @@
+Fixes: [45299] Adobe flash player online installer fails the download
+	https://bugs.winehq.org/show_bug.cgi?id=45299
+Fixes regression: 5226865c5324f366ad6974ddb8291adc20759019
