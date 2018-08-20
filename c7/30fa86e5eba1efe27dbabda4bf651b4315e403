@@ -1,0 +1,2 @@
+Fixes: [38849] valgrind shows an uninitialized variable in programs/cmd/tests/batch.c:WCMD_assoc
+	https://bugs.winehq.org/show_bug.cgi?id=38849
