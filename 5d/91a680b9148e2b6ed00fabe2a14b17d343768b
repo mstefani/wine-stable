@@ -1,0 +1,2 @@
+Fixes: [45387] arm64_map_dwarf_register: Don't know how to map register (64-66)
+	https://bugs.winehq.org/show_bug.cgi?id=45387
