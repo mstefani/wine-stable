@@ -1,0 +1,2 @@
+Fixes: [45393] TextureCookerService.exe (part of ArcGIS Desktop 10.6) needs api-ms-win-crt-stdio-l1-1-0.dll.gets_s
+	https://bugs.winehq.org/show_bug.cgi?id=45393
