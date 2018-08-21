@@ -1,0 +1,2 @@
+Fixes: [40742] cmd.exe: buffer overflow while parsing qualifiers
+	https://bugs.winehq.org/show_bug.cgi?id=40742
