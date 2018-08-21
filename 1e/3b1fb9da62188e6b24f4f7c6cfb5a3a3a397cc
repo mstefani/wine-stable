@@ -1,0 +1,2 @@
+Fixes: [44952] cmd.exe skips statements after if statement inside for loop
+	https://bugs.winehq.org/show_bug.cgi?id=44952
