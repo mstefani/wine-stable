@@ -1,0 +1,2 @@
+Fixes: [45394] Reinstalling ArcGIS Desktop 10.6 calls unimplemented function msvcr120.dll._SetWinRTOutOfMemoryExceptionCallback
+	https://bugs.winehq.org/show_bug.cgi?id=45394
