@@ -1,2 +1,0 @@
-Fixes: [43351] x64dbg needs kernel32.dll CreateRemoteThreadEx in Win7+ mode
-	https://bugs.winehq.org/show_bug.cgi?id=43351

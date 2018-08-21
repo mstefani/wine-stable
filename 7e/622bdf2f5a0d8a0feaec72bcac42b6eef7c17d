@@ -1,2 +1,0 @@
-Fixes: [43041] Multiple application installers crash due to missing message string for 0x800b0100 (TRUST_E_NOSIGNATURE) (CodeXL 2.3, RT Se7en Lite)
-	https://bugs.winehq.org/show_bug.cgi?id=43041

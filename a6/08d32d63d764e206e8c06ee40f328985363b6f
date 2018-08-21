@@ -1,2 +1,0 @@
-Fixes: [39011] Sierra Chart hangs when drawing polygon fill line type: gdi32.Polygon()
-	https://bugs.winehq.org/show_bug.cgi?id=39011

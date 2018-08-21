@@ -1,8 +1,0 @@
-Fixes: [40767] Indiana Jones and The Emperor's Tomb quits after the splash screen
-	https://bugs.winehq.org/show_bug.cgi?id=40767
-Fixes regression: c89dc58deb9ba74d8dcd7faf7012203cff0724a0
-Depends on: 6dc30a2ed31091698f5a0cac47d0959780f08c9c
-Depends on: 99041a6fd369deeeb60ce1f11195414d16c9dc44
-Depends on: 9efcd61d010488f8ab34075ac55ce5acc8b4d38f
-Depends on: d6332e0e57a7206e0caf5cf15b509c1ab4769a40
-Deferred: 3.0.2

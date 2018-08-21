@@ -1,3 +1,0 @@
-Regresses: [42450] Unimplemented copy from WINED3D_LOCATION_TEXTURE_RGB to WINED3D_LOCATION_TEXTURE_SRGB for depth/stencil buffers
-	https://bugs.winehq.org/show_bug.cgi?id=42450
-Depends on: 9fc3444d6ed8ad0e124a77d2faf1e2cc6639f40f

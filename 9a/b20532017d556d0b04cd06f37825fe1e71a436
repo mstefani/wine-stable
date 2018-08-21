@@ -1,2 +1,0 @@
-Fixes: [42468] Broken msxml text nodes escaping
-	https://bugs.winehq.org/show_bug.cgi?id=42468
