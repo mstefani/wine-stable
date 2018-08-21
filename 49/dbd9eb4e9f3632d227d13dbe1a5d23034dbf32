@@ -1,0 +1,3 @@
+Fixes: [45274] Multiple applications crash on unimplemented function msvcp140.dll.?_Syserror_map@std@@YAPEBDH@Z (Native Instruments Traktor Pro 2)
+	https://bugs.winehq.org/show_bug.cgi?id=45274
+Depends on: e68944583307f8773b9323ba1c0da6f13974792d
