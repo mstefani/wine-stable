@@ -1,0 +1,3 @@
+Fixes: [45439] Visual Basic setup toolkit fails to run if path contains a voiced Katakana character.
+	https://bugs.winehq.org/show_bug.cgi?id=45439
+Depends on: ef2df8ed3681a55a66382164227f8a5a1ae4bf51
