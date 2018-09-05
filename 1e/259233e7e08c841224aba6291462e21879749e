@@ -1,0 +1,2 @@
+Fixes: [45179] iTunes 12.x installer freezes at the final step
+	https://bugs.winehq.org/show_bug.cgi?id=45179

@@ -1,0 +1,2 @@
+Fixes: [45051] cmd.exe for loop does not resolve wildcards with subdirectory
+	https://bugs.winehq.org/show_bug.cgi?id=45051

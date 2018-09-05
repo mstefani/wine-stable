@@ -1,0 +1,2 @@
+Fixes: [45170] Cygwin/MSYS2 needs EXDEV error code mapped to STATUS_NOT_SAME_DEVICE (rename of cross-device links)
+	https://bugs.winehq.org/show_bug.cgi?id=45170

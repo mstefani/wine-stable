@@ -1,0 +1,5 @@
+Fixes: [42602] ::CompareItem(LPCOMPAREITEMSTRUCT lpCompareItemStruct) bad sort compared to Windows
+	https://bugs.winehq.org/show_bug.cgi?id=42602
+Depends on: 18420c24c98f1bc1dcce5412b1c7972a28c46748
+Depends on: e0d3dbcc01ed2177ca21845004bd9a3f6de027e3
+Depends on: d92d91473c8be3e8c89fd68781b7168b19a4d202

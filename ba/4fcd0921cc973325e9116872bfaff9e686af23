@@ -1,0 +1,3 @@
+Fixes: [27497] Regedit mangles registry keys containing embedded NULLs
+	https://bugs.winehq.org/show_bug.cgi?id=27497
+Depends on: 7cd90766bb38417e84f85055c5bb8e31de24a2bd

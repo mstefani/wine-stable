@@ -1,0 +1,2 @@
+Fixes: [45428] Crash Bandicoot N. Sane Trilogy (Steam) crashes while entering main menu in ntdll.NtGetContextThread() with NULL context
+	https://bugs.winehq.org/show_bug.cgi?id=45428

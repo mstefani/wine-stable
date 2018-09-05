@@ -1,0 +1,4 @@
+Fixes: [44399] WickrMe 4.19.7: Crashes due to stub combase.RoGetActivationFactory
+	https://bugs.winehq.org/show_bug.cgi?id=44399
+Depends on: 2942e47dc907fee87595d6a4dcc4f59537e7aa74
+Depends on: 40a1dcd591b971ed3fb11b00e65050f59fe76f98

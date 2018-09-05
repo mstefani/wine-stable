@@ -1,0 +1,2 @@
+Fixes: [45378] vSphere 5.5 client 'hcmon.sys' driver crashes on unimplemented function ntoskrnl.exe.IoUnregisterPlugPlayNotification
+	https://bugs.winehq.org/show_bug.cgi?id=45378

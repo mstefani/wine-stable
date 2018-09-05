@@ -1,0 +1,2 @@
+Fixes: [45359] SHGetKnownFolderPath doesn't handle flag KF_FLAG_DONT_UNEXPAND
+	https://bugs.winehq.org/show_bug.cgi?id=45359

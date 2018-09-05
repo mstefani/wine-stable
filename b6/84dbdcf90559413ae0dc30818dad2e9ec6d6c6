@@ -1,0 +1,2 @@
+Fixes: [45067] UNORM/SNORM immediate constants not supported for UAV stores (Claybook,  Just Cause 3)
+	https://bugs.winehq.org/show_bug.cgi?id=45067

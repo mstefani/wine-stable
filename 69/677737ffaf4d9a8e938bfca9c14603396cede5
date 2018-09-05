@@ -1,0 +1,2 @@
+Fixes: [45118] Microsoft Windows PowerShell 6.x reports 'PowerShell Gallery is currently unavailable.' (WinHttpSetOption returns incorrect lasterror on unsupported options)
+	https://bugs.winehq.org/show_bug.cgi?id=45118

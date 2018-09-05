@@ -1,0 +1,2 @@
+Fixes: [39078] Visual Pinball 8.x, 9.x, 10.x crash on exit after creating a new table, needs support for VBScript IActiveScriptDebug
+	https://bugs.winehq.org/show_bug.cgi?id=39078

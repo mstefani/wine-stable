@@ -1,0 +1,2 @@
+Fixes: [45403] dwarf2_parse_variable(): Assertion `subpgm->func' failed
+	https://bugs.winehq.org/show_bug.cgi?id=45403

@@ -1,0 +1,2 @@
+Fixes: [45243] Wrong cast in some HANDLE_MSG_WM_* macros produces errors when compiling with wineg++
+	https://bugs.winehq.org/show_bug.cgi?id=45243

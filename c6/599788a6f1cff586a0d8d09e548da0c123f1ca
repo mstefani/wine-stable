@@ -1,0 +1,2 @@
+Fixes: [18164] dlls/iphlpapi/ifenum.c: compiler warnings on NetBSD
+	https://bugs.winehq.org/show_bug.cgi?id=18164

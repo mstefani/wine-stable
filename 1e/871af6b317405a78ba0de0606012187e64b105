@@ -1,0 +1,3 @@
+Fixes: [45317] updating wine mono does not change version in uninstaller.exe
+	https://bugs.winehq.org/show_bug.cgi?id=45317
+Fixes regression: 808f3158bbcf229d6eb935a7afe7291e9152ce1a

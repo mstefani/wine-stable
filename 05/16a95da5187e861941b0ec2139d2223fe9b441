@@ -1,0 +1,2 @@
+Fixes: [34910] WinLaunch 0.4.x (OSX Style free Launcher) complains about missing "%USERPROFILE%\\Application Data\\Microsoft\\Windows\\Themes\\" directory
+	https://bugs.winehq.org/show_bug.cgi?id=34910

@@ -1,0 +1,2 @@
+Fixes: [40271] Can't start UPlay: "Connection Lost" error
+	https://bugs.winehq.org/show_bug.cgi?id=40271

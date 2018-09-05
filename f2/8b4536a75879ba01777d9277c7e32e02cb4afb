@@ -1,0 +1,2 @@
+Fixes: [18734] DlgDirList(DDL_DRIVES|DDL_DIRECTORY) on 16-bits displays files on listbox in Windows but not Wine.
+	https://bugs.winehq.org/show_bug.cgi?id=18734

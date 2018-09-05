@@ -1,0 +1,3 @@
+Fixes: [45220] Regression: Hearthstone-Deck-Tracker stoped working after wine-2.21
+	https://bugs.winehq.org/show_bug.cgi?id=45220
+Fixes regression: c222b86a528e71207bbde57e177ff5be3ee211dc
