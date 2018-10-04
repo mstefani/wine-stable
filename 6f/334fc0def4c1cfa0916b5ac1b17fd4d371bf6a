@@ -1,0 +1,2 @@
+Fixes: [45644] chromium 64-bit sandbox >=win10 needs UpdateProcThreadAttribute to handle  PROC_THREAD_ATTRIBUTE_CHILD_PROCESS_POLICY
+	https://bugs.winehq.org/show_bug.cgi?id=45644
