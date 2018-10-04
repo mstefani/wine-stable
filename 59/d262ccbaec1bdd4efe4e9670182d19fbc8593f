@@ -1,0 +1,2 @@
+Fixes: [45603] Total War:Arena needs POWRPROF.dll.PowerEnumerate
+	https://bugs.winehq.org/show_bug.cgi?id=45603
