@@ -1,0 +1,2 @@
+Fixes: [45167] Acronis Disk Director 12 installer fails: action L"_USRCUSTACT_MsiFltSrvInstall_fltsrv_component" returned 1603 (setupapi lasterror leakage)
+	https://bugs.winehq.org/show_bug.cgi?id=45167
