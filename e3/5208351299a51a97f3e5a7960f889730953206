@@ -1,2 +1,2 @@
 Fixes: [45529] Custom color scheme applied but wine not respecting current text color of scheme on window columns and statusbar.
-https://bugs.winehq.org/show_bug.cgi?id=45529
+	https://bugs.winehq.org/show_bug.cgi?id=45529
