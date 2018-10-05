@@ -1,0 +1,2 @@
+Fixes: [43125] Device reports coming in too fast
+	https://bugs.winehq.org/show_bug.cgi?id=43125
