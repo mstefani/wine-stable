@@ -1,0 +1,2 @@
+Fixes: [45530] No$Gba crashes with pulseaudio assertion in waveOutOpen
+	https://bugs.winehq.org/show_bug.cgi?id=45530
