@@ -1,0 +1,2 @@
+Fixes: [45535] Rekordbox 5.3.0 terminates with the message "Unexpected application error" (dwrite:dwritetextlayout_Draw out-of-bounds access on empty clustermetrics after failure to resolve layout fonts)
+	https://bugs.winehq.org/show_bug.cgi?id=45535
