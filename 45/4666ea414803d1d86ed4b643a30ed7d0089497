@@ -1,0 +1,2 @@
+Fixes: [44981] Xenserver console and Vmware management console (client) v5.5 installer fails on 'hcmon' driver service ('EventLog\\System' needs 'Sources' registry key present for WinVer < Windows 7)
+	https://bugs.winehq.org/show_bug.cgi?id=44981
