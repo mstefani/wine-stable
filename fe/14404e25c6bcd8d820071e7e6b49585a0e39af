@@ -1,0 +1,2 @@
+Fixes: [45521] 64-bit Sentinel HASP hardlock.sys kernel driver crashes due ntoskrnl emulate_instruction not handling 'cli' and 'sti'
+	https://bugs.winehq.org/show_bug.cgi?id=45521
