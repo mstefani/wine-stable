@@ -1,0 +1,2 @@
+Fixes: [20961] RegEditX 2.x/3.x reports 'Internal error: could not find RegEdit window' on startup (Wine's builtin 'regedit.exe' needs to provide 'RegEdit_RegEdit' window class name)
+	https://bugs.winehq.org/show_bug.cgi?id=20961
