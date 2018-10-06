@@ -1,0 +1,2 @@
+Fixes: [36884] Drakensang: The Dark Eye demo crashes on startup (needs d3dx9_36.dll.D3DXCreateTeapot implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=36884
