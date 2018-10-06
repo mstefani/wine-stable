@@ -1,0 +1,2 @@
+Fixes: [39906] ODB++ Viewer fails to install due to improper bat file handling (quoting or delimiting problem)
+	https://bugs.winehq.org/show_bug.cgi?id=39906
