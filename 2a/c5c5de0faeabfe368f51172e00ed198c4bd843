@@ -1,0 +1,2 @@
+Fixes: [37834] RtlSetCurrentDirectory_U prepends "UNC\" for network paths; the resulting path is invalid
+	https://bugs.winehq.org/show_bug.cgi?id=37834
