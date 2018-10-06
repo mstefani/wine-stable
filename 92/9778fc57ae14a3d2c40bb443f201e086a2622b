@@ -1,0 +1,2 @@
+Fixes: [42870] CurrentBuild registry value is missing
+	https://bugs.winehq.org/show_bug.cgi?id=42870
