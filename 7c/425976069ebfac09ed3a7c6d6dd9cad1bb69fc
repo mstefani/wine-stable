@@ -1,0 +1,2 @@
+Fixes: [44369] cmd's %0 path variables (e.g. %~dp0) wrong inside subroutine call
+	https://bugs.winehq.org/show_bug.cgi?id=44369
