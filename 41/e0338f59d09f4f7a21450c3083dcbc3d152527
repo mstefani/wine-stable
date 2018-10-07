@@ -1,0 +1,3 @@
+Fixes: [41652] Uplay cannot connect/login to Server
+	https://bugs.winehq.org/show_bug.cgi?id=41652
+Depends on: 01262515b433669ab621b9cf9b3ae01c7c02b2e8
