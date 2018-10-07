@@ -1,0 +1,2 @@
+Fixes: [22333] Total Commander: Application freezes when the current directory field is editable, and you right-click a regular file and click Properties
+	https://bugs.winehq.org/show_bug.cgi?id=22333
