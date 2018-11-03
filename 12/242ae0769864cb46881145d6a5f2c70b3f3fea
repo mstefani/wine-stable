@@ -1,0 +1,2 @@
+Fixes: [45729] cmd's REM evaluates |
+	https://bugs.winehq.org/show_bug.cgi?id=45729
