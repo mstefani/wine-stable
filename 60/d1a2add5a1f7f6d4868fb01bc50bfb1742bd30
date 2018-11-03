@@ -1,0 +1,2 @@
+Fixes: [45821] Metasploit Console won't start due to missing registry value HKLM\System\CurrentControlSet\Services\Tcpip\Parameters\DataBasePath
+	https://bugs.winehq.org/show_bug.cgi?id=45821
