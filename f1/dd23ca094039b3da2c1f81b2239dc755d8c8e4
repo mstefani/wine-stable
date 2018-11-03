@@ -1,0 +1,3 @@
+Fixes: [45617] Just Dance 2017: Unimplemented function mfplat.dll.MFCreateSample
+	https://bugs.winehq.org/show_bug.cgi?id=45617
+Depends on: 71dec0996070bda9b9562e67e7a46ac8f4c59604
