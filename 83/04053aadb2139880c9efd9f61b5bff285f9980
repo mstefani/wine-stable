@@ -1,0 +1,2 @@
+Fixes: [45786] GTA downgrader (.NET program latest.exe) crashes: "Can't find matching timezone information" ("America/Sao_Paulo")
+	https://bugs.winehq.org/show_bug.cgi?id=45786
