@@ -1,0 +1,2 @@
+Fixes: [45715] Just Dance 2017: Unimplemented function mfplat.dll.MFCreateMemoryBuffer
+	https://bugs.winehq.org/show_bug.cgi?id=45715
