@@ -1,0 +1,2 @@
+Fixes: [22255] Total Commander: Deleting the 1st or 2nd character in an edit box deletes all of them
+	https://bugs.winehq.org/show_bug.cgi?id=22255
