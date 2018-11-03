@@ -1,0 +1,2 @@
+Fixes: [40598] Warframe 'launcher.exe' reports 'update failed' ('InternetCrackUrlW' must resize buffer when URL canonicalization fails due to insufficient buffer)
+	https://bugs.winehq.org/show_bug.cgi?id=40598
