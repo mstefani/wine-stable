@@ -1,0 +1,2 @@
+Fixes: [45785] Bethesda Launcher Updater crashes on unimplemented function msvcp110._Xtime_diff_to_millis2
+	https://bugs.winehq.org/show_bug.cgi?id=45785
