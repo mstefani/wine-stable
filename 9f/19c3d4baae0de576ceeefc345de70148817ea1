@@ -1,0 +1,2 @@
+Fixes: [43488] Bluestacks crashes in ITextService::TxGetVScroll()
+	https://bugs.winehq.org/show_bug.cgi?id=43488
