@@ -1,0 +1,2 @@
+Fixes: [45731] cmd for loops sensitive to whitespace
+	https://bugs.winehq.org/show_bug.cgi?id=45731
