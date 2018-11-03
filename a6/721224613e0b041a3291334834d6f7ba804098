@@ -1,0 +1,3 @@
+Fixes: [45622] Overwatch crashes when trying to save highlights (needs mfplat.MFTRegisterLocal implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=45622
+Depends on: 5b8565d60760f17ecac7bccf9f2c4477943de544
