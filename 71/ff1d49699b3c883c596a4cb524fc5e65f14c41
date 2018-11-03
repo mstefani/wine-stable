@@ -1,0 +1,2 @@
+Fixes: [45784] Bethesda Launcher Updater crashes on unimplemented function msvcp110.xtime_get
+	https://bugs.winehq.org/show_bug.cgi?id=45784
