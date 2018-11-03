@@ -1,0 +1,2 @@
+Fixes: [45372] Resident Evil 7 requires mfplat.dll.MFCreateMFByteStreamOnStream to be implemented
+	https://bugs.winehq.org/show_bug.cgi?id=45372
