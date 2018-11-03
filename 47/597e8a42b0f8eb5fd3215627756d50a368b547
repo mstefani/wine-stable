@@ -1,3 +1,3 @@
 Fixes: [42577] Far manager: needs virtdisk.dll.GetStorageDependencyInformation
 	https://bugs.winehq.org/show_bug.cgi?id=42577
-Depends on:
+Depends on: c8389ae103cc5777de899b8ab289a169345d7e8e
