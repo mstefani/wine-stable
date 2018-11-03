@@ -1,0 +1,3 @@
+Fixes: [45722] cmd for loop doesn't work with tokens and delims
+	https://bugs.winehq.org/show_bug.cgi?id=45722
+Depends on: 4030a952095398e5a42f0a74213f6a1e9186c4bc
