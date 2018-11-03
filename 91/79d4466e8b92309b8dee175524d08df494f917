@@ -1,0 +1,2 @@
+Fixes: [45770] WMP9 crashes with unimplemented function pidgen.dll.PIDGenSimpW
+	https://bugs.winehq.org/show_bug.cgi?id=45770
