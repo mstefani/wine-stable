@@ -1,0 +1,2 @@
+Fixes: [45199] Many applications and games fail to start/crash after compiling wine with gcc 8.1.0 and -O2 (GOT/PIC register load code now emitted at function entry, missing hotpatch signatures)
+	https://bugs.winehq.org/show_bug.cgi?id=45199
