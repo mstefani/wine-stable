@@ -1,2 +1,4 @@
 Acked-by: André Hentschel <nerv@dawncrow.de>
 Acked-by: Martin Storsjo <martin@martin.st>
+Fixes: [46106] Stable: ARM64 build broken with gcc
+	https://bugs.winehq.org/show_bug.cgi?id=46106
