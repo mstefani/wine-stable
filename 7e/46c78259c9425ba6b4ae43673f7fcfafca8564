@@ -1,0 +1,3 @@
+Fixes: [45347] Google Chrome installer crashes on unimplemented function propsys.dll.InitPropVariantFromCLSID
+	https://bugs.winehq.org/show_bug.cgi?id=45347
+Depends on: 8f1e4097bb62f53dc395718b27eef5f86a4fd8a4
