@@ -1,0 +1,2 @@
+Fixes: [45724] Multiple EndScene calls result in multiple glFlush (FF XIV)
+	https://bugs.winehq.org/show_bug.cgi?id=45724
