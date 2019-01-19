@@ -1,0 +1,2 @@
+Fixes: [45832] Windower 5 beta (FF XI tool) crash: Unhandled Exception: System.NotImplementedException at Windower.UI.Views.RootView.OnSourceInitialized (DwmExtendFrameIntoClientArea should return S_OK)
+	https://bugs.winehq.org/show_bug.cgi?id=45832
