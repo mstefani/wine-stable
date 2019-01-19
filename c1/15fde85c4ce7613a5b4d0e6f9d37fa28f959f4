@@ -1,0 +1,3 @@
+Fixes: [45569] League of Legends 8.12+ needs NtQueryInformationProcess(ProcessCookie) stub
+	https://bugs.winehq.org/show_bug.cgi?id=45569
+Depends on: 69029d70f6c712b46dbc82703093db4042082b61
