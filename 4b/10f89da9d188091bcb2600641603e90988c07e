@@ -1,0 +1,3 @@
+Fixes: [38066] Memento Mori (Numen: Contest of Heroes): mouse buttons don't work (needs native dinput8)
+	https://bugs.winehq.org/show_bug.cgi?id=38066
+Depends on: c357f3670f71f3fc40aad0d89f3c9553e653c246
