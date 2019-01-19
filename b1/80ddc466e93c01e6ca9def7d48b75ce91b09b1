@@ -1,0 +1,3 @@
+Fixes: [45673] Calling delegated proxy methods returns 0x800706b5 (RPC_S_UNKNOWN_IF), "err:rpc:RpcAssoc_BindConnection syntax {xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}, 0.0 not supported"
+	https://bugs.winehq.org/show_bug.cgi?id=45673
+Depends on: b82382f5fee8b9ca619c500f090797035f223b09
