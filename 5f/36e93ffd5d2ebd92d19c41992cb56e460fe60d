@@ -1,0 +1,2 @@
+Fixes: [45523] FIFA 18 Demo needs KERNEL32.dll.SetProcessWorkingSetSizeEx
+	https://bugs.winehq.org/show_bug.cgi?id=45523
