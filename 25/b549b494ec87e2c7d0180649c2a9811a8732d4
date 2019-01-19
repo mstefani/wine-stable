@@ -1,0 +1,2 @@
+Fixes: [39051] TabbedTextOut() incorrect output on tab character
+	https://bugs.winehq.org/show_bug.cgi?id=39051
