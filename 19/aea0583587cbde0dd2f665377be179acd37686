@@ -1,0 +1,2 @@
+Fixes: [43550] Photoshop Elements 15 spams console with fixme:file:MoveFileWithProgressW MOVEFILE_WRITE_THROUGH unimplemented
+	https://bugs.winehq.org/show_bug.cgi?id=43550
