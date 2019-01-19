@@ -1,0 +1,3 @@
+Fixes: [41039] Multiple kernel drivers crash on unimplemented function ntoskrnl.exe.FsRtlIsNameInExpression (VirtualBox, QQProtect for Tencent TIM (com.qq.office) 2.1.x)
+	https://bugs.winehq.org/show_bug.cgi?id=41039
+Depends on: 210bb7ddb4e0888a43e66d41b18cba2165fcc3aa
