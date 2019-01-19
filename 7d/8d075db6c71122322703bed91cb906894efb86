@@ -1,0 +1,2 @@
+Fixes: [45831] Slack installer (Squirrel) fails:Unhandled Exception: System.AccessViolationException:at MS.Win32.PresentationCore.UnsafeNativeMethods.WICMetadataQueryReader.ContainsMetadataByName
+	https://bugs.winehq.org/show_bug.cgi?id=45831
