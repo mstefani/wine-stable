@@ -1,0 +1,2 @@
+Fixes: [45538] Multiple applications crash on unimplemented function msvcr120.dll.?wait@Concurrency@@YAXI@Z (Amazon Workspaces client, EnginePrime, Bethesda Launcher Updater)
+	https://bugs.winehq.org/show_bug.cgi?id=45538
