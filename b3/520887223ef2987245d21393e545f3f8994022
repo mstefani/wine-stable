@@ -1,0 +1,2 @@
+Fixes: [35320] setlocale(Chinese_China.950) returns NULL
+	https://bugs.winehq.org/show_bug.cgi?id=35320
