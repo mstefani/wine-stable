@@ -1,0 +1,3 @@
+Fixes: [40441] Chicken tournament crashes when loading texture
+	https://bugs.winehq.org/show_bug.cgi?id=40441
+Depends on: 6ec69f0ee3d08a9fc4c037895d8d5868a9c58ee5
