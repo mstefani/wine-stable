@@ -1,0 +1,2 @@
+Fixes: [45326] Multiple 64-bit kernel drivers crash on unimplemented function ntoskrnl.exe.__C_specific_handler (NoxPlayer 6.x, MTA:SA 1.5.x)
+	https://bugs.winehq.org/show_bug.cgi?id=45326
