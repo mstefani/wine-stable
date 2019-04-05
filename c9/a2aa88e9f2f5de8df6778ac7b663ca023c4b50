@@ -1,0 +1,2 @@
+Fixes: [46465] Visual Studio 2015 crashes on unimplemented function msvcp140.dll._Equivalent
+	https://bugs.winehq.org/show_bug.cgi?id=46465
