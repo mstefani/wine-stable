@@ -1,0 +1,3 @@
+Fixes: [46485] PBM_STEPIT crashes with division by zero when MinVal == MaxVal == 0
+	https://bugs.winehq.org/show_bug.cgi?id=46485
+Fixes regression: 9036a84b0f119a32c8ee9d222a2c691cd144a186
