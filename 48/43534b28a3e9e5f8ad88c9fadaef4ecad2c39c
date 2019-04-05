@@ -1,0 +1,3 @@
+Fixes: [46569] ToDoList 7.1 : fails to launch after WINE upgrade to 4.0 version
+	https://bugs.winehq.org/show_bug.cgi?id=46569
+Fixes regression:
