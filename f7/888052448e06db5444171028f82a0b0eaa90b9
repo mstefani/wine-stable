@@ -1,0 +1,4 @@
+Fixes: [46303] Warcraft 3: Reign of Chaos (Czech language) can't be installed from CD
+	https://bugs.winehq.org/show_bug.cgi?id=46303
+Fixes regression: 28cc0b8bc15e78a66fe2ea6692cd08ba843aa8db
+Depends on: e867af3bfeb5fc50d76cf26816d294d5342fe48c
