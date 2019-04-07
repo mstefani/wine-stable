@@ -1,0 +1,2 @@
+Fixes: [33456] D3DXMatrixTransformation: Broken calculation when scalingrotation and scaling is used
+	https://bugs.winehq.org/show_bug.cgi?id=33456
