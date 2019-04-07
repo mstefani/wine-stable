@@ -1,0 +1,2 @@
+Fixes: [46499] Multiple games crash in GetRawInputData when exiting(House Party, Murderous Pursuits, ICEY)
+	https://bugs.winehq.org/show_bug.cgi?id=46499
