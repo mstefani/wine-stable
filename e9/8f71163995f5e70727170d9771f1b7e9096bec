@@ -1,0 +1,2 @@
+Fixes: [39663] GOG Galaxy client 1.x hangs or reports 'Something went wrong during DeelevateStrategy'  error in Win7 mode (GOG Galaxy service needs wtsapi32.WTSQueryUserToken implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=39663
