@@ -1,0 +1,2 @@
+Fixes: [46708] Photoline crashed right after start, no problem with wine 3.0.4
+	https://bugs.winehq.org/show_bug.cgi?id=46708
