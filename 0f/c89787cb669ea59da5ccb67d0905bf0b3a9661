@@ -1,0 +1,2 @@
+Fixes: [44300] Windows Media Player 7.1 fails to play media due to unimplemented function wmvcore.dll.WMCheckURLExtension
+	https://bugs.winehq.org/show_bug.cgi?id=44300
