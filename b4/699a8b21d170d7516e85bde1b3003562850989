@@ -1,0 +1,2 @@
+Fixes: [46493] Functions ilogb* are not implemented
+	https://bugs.winehq.org/show_bug.cgi?id=46493
