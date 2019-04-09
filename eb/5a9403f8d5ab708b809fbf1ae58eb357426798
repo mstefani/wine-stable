@@ -1,0 +1,2 @@
+Fixes: [46442] FormatCurrency(9) returns .9.00 (period in front)
+	https://bugs.winehq.org/show_bug.cgi?id=46442
