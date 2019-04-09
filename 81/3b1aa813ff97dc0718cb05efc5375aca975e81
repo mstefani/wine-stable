@@ -1,0 +1,2 @@
+Fixes: [46319] 32-bit IL-only executable launched as 32-bit subprocess on Wine and 64-bit subprocess on Windows
+	https://bugs.winehq.org/show_bug.cgi?id=46319
