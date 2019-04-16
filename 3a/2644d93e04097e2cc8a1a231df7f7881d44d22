@@ -1,0 +1,2 @@
+Fixes: [28140] Theatre of War 3: Korea demo 1.2.0 crashes on startup (hook engine can't cope with GOT/PIC register load code at API entry, needs DECLSPEC_HOTPATCH for kernel32.SizeofResource and kernel32.FindClose)
+	https://bugs.winehq.org/show_bug.cgi?id=28140
