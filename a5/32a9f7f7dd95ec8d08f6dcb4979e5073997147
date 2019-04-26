@@ -1,0 +1,2 @@
+Fixes: [26653] Multiple VB6 applications need oleaut32 VarRound to support VT_DECIMAL
+	https://bugs.winehq.org/show_bug.cgi?id=26653

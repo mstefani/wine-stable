@@ -1,0 +1,2 @@
+Fixes: [45631] League of Legends client crashes when joining a lobby with other players
+	https://bugs.winehq.org/show_bug.cgi?id=45631

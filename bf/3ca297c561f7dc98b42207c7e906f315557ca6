@@ -1,0 +1,2 @@
+Fixes: [39890] Orcish Inn fails to start with exception System.NotImplementedException
+	https://bugs.winehq.org/show_bug.cgi?id=39890

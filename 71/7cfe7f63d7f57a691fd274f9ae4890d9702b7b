@@ -1,0 +1,3 @@
+Fixes: [46318] vbscript doesn't parse if identifier is also keyword token
+	https://bugs.winehq.org/show_bug.cgi?id=46318
+Depends on: d2937bfff2d59e3b5d41baa173e9c634b0a12a22

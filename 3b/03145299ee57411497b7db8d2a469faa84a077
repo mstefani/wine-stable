@@ -1,0 +1,2 @@
+Fixes: [46127] aria2 1.34 fails to connect, reports 'WinTLS: Channel setup failed. Schannel provider did not fulfill requested flags. Excepted: 33180 Actual: 33052'
+	https://bugs.winehq.org/show_bug.cgi?id=46127
