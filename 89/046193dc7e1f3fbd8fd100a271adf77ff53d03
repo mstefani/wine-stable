@@ -1,0 +1,4 @@
+Fixes: [46187] Windows PowerShell Core 6.2 Preview 2 for ARM32 crashes due to unhandled trap_no 0 (write watch access causes SIGSEGV)
+	https://bugs.winehq.org/show_bug.cgi?id=46187
+Acked-by: André Hentschel <nerv@dawncrow.de>
+Deferred: 4.0.2

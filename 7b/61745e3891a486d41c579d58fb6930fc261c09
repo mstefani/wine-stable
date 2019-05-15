@@ -1,0 +1,4 @@
+Fixes: [46189] Windows PowerShell Core 6.2 Preview 2 for ARM32 crashes due to ntdll 'set_cpu_context' not restoring Thumb mode during return from exception handling
+	https://bugs.winehq.org/show_bug.cgi?id=46189
+Acked-by: André Hentschel <nerv@dawncrow.de>
+Deferred: 4.0.2
