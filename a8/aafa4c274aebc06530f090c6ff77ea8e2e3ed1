@@ -1,0 +1,2 @@
+Fixes: [37871] GOG.com downloader (.NET 3.5 app) wants wininet.GetUrlCacheConfigInfoA/W implementation
+	https://bugs.winehq.org/show_bug.cgi?id=37871
