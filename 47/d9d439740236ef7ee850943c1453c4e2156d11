@@ -1,0 +1,2 @@
+Fixes: [28847] LabChart Reader 7.x crashes due to missing wmvcore 'IWMProfileManager2', CLSID '{7a924e51-73c1-494d-8019-23d37ed9b89a}'
+	https://bugs.winehq.org/show_bug.cgi?id=28847
