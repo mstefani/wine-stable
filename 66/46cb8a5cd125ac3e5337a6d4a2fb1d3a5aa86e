@@ -1,0 +1,3 @@
+Fixes: [46579] F.E.A.R. 2: Project Origin screen is completely light grey while playing intro movie
+	https://bugs.winehq.org/show_bug.cgi?id=46579
+Fixes regression: 3d6eb8cf1dc1e509a74f85fd2356c6946372ecc5
