@@ -1,0 +1,3 @@
+Fixes: [46772] Creo Elements/Direct Modeling Express 6.0 installer fails with VBScript parser error: parser_lex '_' not followed by newline
+	https://bugs.winehq.org/show_bug.cgi?id=46772
+Fixes regression: 5800c9ed23a5c720843445d91c8547925493df8a
