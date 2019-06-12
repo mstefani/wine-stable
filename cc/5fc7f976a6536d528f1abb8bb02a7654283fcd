@@ -1,0 +1,2 @@
+Fixes: [46706] Eventide H9 Control crashes on unimplemented function bthprops.cpl.BluetoothFindDeviceClose
+	https://bugs.winehq.org/show_bug.cgi?id=46706
