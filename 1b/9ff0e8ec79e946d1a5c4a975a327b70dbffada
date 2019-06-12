@@ -1,0 +1,3 @@
+Fixes: [44423] Office 2007/2010 32bit - links not working
+	https://bugs.winehq.org/show_bug.cgi?id=44423
+Fixes regression: 00aca1476efd573cbf9d31a45c3d484f6fa6055b
