@@ -1,0 +1,2 @@
+Fixes: [46115] Cursor in unity games moving down and to the right one pixel on any mouse interaction
+	https://bugs.winehq.org/show_bug.cgi?id=46115
