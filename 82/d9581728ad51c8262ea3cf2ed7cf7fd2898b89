@@ -1,0 +1,2 @@
+Fixes: [46754] Multiple application installers fail in VBscripts due to IWshEnvironment::Item property returning BSTR with embedded null terminator (PostgreSQL 9.3)
+	https://bugs.winehq.org/show_bug.cgi?id=46754
