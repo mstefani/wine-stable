@@ -1,0 +1,3 @@
+Fixes: [23455] FileAlyzer 1.6.0.4, Affinity-installer-1.6.5.123 can't load PE images (needs imagehlp.ImageLoad and imagehlp.ImageUnload implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=23455
+Depends on: 3eca7c1f8e4c34f35c3f25dc107d15c4a3e86cce
