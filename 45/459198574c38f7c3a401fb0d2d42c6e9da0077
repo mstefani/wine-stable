@@ -1,0 +1,3 @@
+Fixes: [46848] PTC Mathcad Prime 3.0 Web installer crashes on unimplemented function api-ms-win-crt-convert-l1-1-0.dll.wctrans
+	https://bugs.winehq.org/show_bug.cgi?id=46848
+Depends on: b633777ed4d02821029a3b83fdb89fb6fbb66933
