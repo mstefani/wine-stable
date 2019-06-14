@@ -1,0 +1,2 @@
+Fixes: [19098] Regedit randomly crashes when deleting registry keys
+	https://bugs.winehq.org/show_bug.cgi?id=19098
