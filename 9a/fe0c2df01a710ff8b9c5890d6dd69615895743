@@ -1,0 +1,3 @@
+Fixes: [45429] Inno Setup v5.x based game-installers using 'wintb' plugin fail with: 'Runtime error 229 at <address>' (Win7+ ITaskbarList3 ThumbBar/Thumbnail semi-stubs needed)
+	https://bugs.winehq.org/show_bug.cgi?id=45429
+Depends on: 570ea014770fd62997be81e88f03829eded98390
