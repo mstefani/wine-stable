@@ -1,0 +1,4 @@
+Fixes: [47183] Grand Prix Legends: Only the first two axes are recognized
+	https://bugs.winehq.org/show_bug.cgi?id=47183
+Acked-by: Alistair Leslie-Hughes <leslie_alistair@hotmail.com>
+Deferred: 4.0.2+

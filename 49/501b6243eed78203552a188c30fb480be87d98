@@ -1,0 +1,4 @@
+Fixes: [46989] Grand Prix Legends: Wheel (Wheel, Gas, Brake) axes inputs aren't recognized
+	https://bugs.winehq.org/show_bug.cgi?id=46989
+Acked-by: Alistair Leslie-Hughes <leslie_alistair@hotmail.com>
+Deferred: 4.0.2+
