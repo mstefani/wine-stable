@@ -1,0 +1,3 @@
+Fixes: [46812] PS4 Remote Play installer 2.8.x fails, claims 'You need the Media Feature Pack' (MsiGetDatabaseState is called from a custom action)
+	https://bugs.winehq.org/show_bug.cgi?id=46812
+Depends on: ae0298d46e8d4b7b689783b9c459ceafc3631780

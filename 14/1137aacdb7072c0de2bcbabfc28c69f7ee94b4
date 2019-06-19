@@ -1,0 +1,2 @@
+Fixes: [46721] Two quotes together (in outer quotes) not parsed correctly in argv
+	https://bugs.winehq.org/show_bug.cgi?id=46721
