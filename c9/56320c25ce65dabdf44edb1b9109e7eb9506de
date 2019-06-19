@@ -2,3 +2,4 @@ Fixes: [46453] The Testament of Sherlock Holmes crashes while loading level with
 	https://bugs.winehq.org/show_bug.cgi?id=46453
 Fixes regression: 949dbbd31f450178c90ea8267097a975b77c3219
 Depends on: 33be8439fc95ca8f005bd3a2b6790c101842c02e
+Acked-by: Matteo Bruni <mbruni@codeweavers.com>
