@@ -1,0 +1,2 @@
+Fixes: [46895] SIMATIC WinCC V15.1 Runtime installer (.NET 4.0) fails due to missing 'OperatingSystemSKU' property of 'Win32_OperatingSystem' WMI class
+	https://bugs.winehq.org/show_bug.cgi?id=46895
