@@ -1,0 +1,2 @@
+Fixes: [46928] Atelier Firis config tool doesn't show up when launched through Steam
+	https://bugs.winehq.org/show_bug.cgi?id=46928
