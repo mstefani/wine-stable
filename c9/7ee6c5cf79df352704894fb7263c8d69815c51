@@ -1,0 +1,2 @@
+Fixes: [43411] Older directx games (The Sims, Revenant) - Screen not redrawing properly (needs Set/GetClipStatus implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=43411
