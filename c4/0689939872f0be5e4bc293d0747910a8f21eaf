@@ -1,0 +1,3 @@
+Fixes: [46903] SIMATIC WinCC V15.1 Runtime installer: AdHocSigner.exe tool crashes on unimplemented functions mssign32.dll.SignerSignEx and SignerFreeSignerContext
+	https://bugs.winehq.org/show_bug.cgi?id=46903
+Depends on: ec814c107470e6dd63cf33ed2c87bd5fefaeeaa2
