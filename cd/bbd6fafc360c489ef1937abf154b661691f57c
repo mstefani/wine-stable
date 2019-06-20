@@ -1,0 +1,3 @@
+Fixes: [46711] Since 3.3 other HID devices than Joysticks not supported anymore
+	https://bugs.winehq.org/show_bug.cgi?id=46711
+Fixes regression: 164517fe575564daa44f74cc3bc4a6bbdd7d3f3d
