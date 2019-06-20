@@ -1,0 +1,2 @@
+Fixes: [46316] Hauppauge Capture version 36187 crashes during install
+	https://bugs.winehq.org/show_bug.cgi?id=46316
