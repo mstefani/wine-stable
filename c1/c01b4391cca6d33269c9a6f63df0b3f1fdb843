@@ -1,0 +1,2 @@
+Fixes: [46939] propvarutil.h: missing extern "C"
+	https://bugs.winehq.org/show_bug.cgi?id=46939
