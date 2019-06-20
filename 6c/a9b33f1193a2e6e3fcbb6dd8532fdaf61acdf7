@@ -1,0 +1,2 @@
+Fixes: [46902] SIMATIC WinCC V15.1 Runtime installer: S7Inst64.exe sub-installer crashes on unimplemented function msvcr110.dll._wcsnset_s
+	https://bugs.winehq.org/show_bug.cgi?id=46902
