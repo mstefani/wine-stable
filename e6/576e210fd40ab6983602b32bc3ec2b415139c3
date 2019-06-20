@@ -1,0 +1,2 @@
+Fixes: [45878] Aruba digital signature crashes on missing hid.dll.HidD_FlushQueue
+	https://bugs.winehq.org/show_bug.cgi?id=45878
