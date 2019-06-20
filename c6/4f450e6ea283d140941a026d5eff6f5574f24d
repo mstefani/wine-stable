@@ -1,0 +1,2 @@
+Fixes: [46807] The Sims hangs when opening menus
+	https://bugs.winehq.org/show_bug.cgi?id=46807

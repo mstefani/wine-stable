@@ -1,0 +1,2 @@
+Fixes: [46908] Support msvcp mtx_init 'mtx_try' flag (0x2) to create a mutex object that supports test and return
+	https://bugs.winehq.org/show_bug.cgi?id=46908

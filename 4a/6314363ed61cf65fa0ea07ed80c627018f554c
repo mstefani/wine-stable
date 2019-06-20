@@ -1,0 +1,3 @@
+Fixes: [46909] Missing (black) textures in Black & White
+	https://bugs.winehq.org/show_bug.cgi?id=46909
+Fixes regression: 961a94ac046644004718c56bfeeb81740cb73793

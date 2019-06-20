@@ -1,0 +1,3 @@
+Fixes: [46845] Freelancer: character glitches in cutscenes after loading a saved game
+	https://bugs.winehq.org/show_bug.cgi?id=46845
+Fixes regression: 98eb7171e1d61ec24d337d11b672373dfac19db8

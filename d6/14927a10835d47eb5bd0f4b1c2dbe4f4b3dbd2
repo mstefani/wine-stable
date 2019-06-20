@@ -1,0 +1,2 @@
+Fixes: [46906] SIMATIC WinCC V15.1 Runtime installer: SeCon tool 'SeCon_Win32.exe' crashes due to hnetcfg 'INetFwRules::get__NewEnum' not initializing out parameter
+	https://bugs.winehq.org/show_bug.cgi?id=46906

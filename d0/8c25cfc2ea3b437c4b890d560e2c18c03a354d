@@ -1,0 +1,3 @@
+Fixes: [46811] Inquisitor: black screen after start in fullscreen mode
+	https://bugs.winehq.org/show_bug.cgi?id=46811
+Fixes regression: ff92a993ad63f6ed94cd1dd873aa578ba46c5979

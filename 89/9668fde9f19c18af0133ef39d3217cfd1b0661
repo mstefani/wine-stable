@@ -1,0 +1,2 @@
+Fixes: [37784] wine-mono does not appear in "wine uninstaller" list on a 64-bit prefix
+	https://bugs.winehq.org/show_bug.cgi?id=37784

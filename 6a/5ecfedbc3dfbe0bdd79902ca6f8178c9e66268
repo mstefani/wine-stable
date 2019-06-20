@@ -1,0 +1,2 @@
+Fixes: [26445] URLDownloadToFileW does not support FTP URLs
+	https://bugs.winehq.org/show_bug.cgi?id=26445

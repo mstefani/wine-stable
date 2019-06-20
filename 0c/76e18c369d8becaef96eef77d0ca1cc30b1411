@@ -1,0 +1,3 @@
+Fixes: [46712] Atelier Firis config tool crashes with "Unhandled page fault on execute access"
+	https://bugs.winehq.org/show_bug.cgi?id=46712
+Depends on: d00ed8e7b94390f831873278b399b6862f3cc484

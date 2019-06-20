@@ -1,0 +1,2 @@
+Fixes: [46881] Power World Simulator installer needs unimplemented function msi.dll.MsiSourceListForceResolutionW
+	https://bugs.winehq.org/show_bug.cgi?id=46881

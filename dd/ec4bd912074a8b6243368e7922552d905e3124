@@ -1,0 +1,2 @@
+Fixes: [46761] BigNox VM VirtualBox Support Driver 'YSDrv.sys' (part of NoxPlayer 6.x) crashes on unimplemented function ntoskrnl.exe.MmBuildMdlForNonPagedPool
+	https://bugs.winehq.org/show_bug.cgi?id=46761

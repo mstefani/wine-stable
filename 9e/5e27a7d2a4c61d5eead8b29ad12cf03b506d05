@@ -1,0 +1,3 @@
+Fixes: [38087] Settlers III: mouse not working on start screen and menu (after fixing raw input bug 33479)
+	https://bugs.winehq.org/show_bug.cgi?id=38087
+Fixes regression: f6dde7062413a1dfdd71acc92c5178ac66f3ade0

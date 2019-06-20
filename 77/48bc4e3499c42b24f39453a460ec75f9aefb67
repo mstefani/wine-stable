@@ -1,0 +1,2 @@
+Fixes: [46894] SIMATIC WinCC V15.1 Runtime installer (.NET 4.0) fails in CoreLib::GetPhysicalMemoryAmountWmi() (missing 'DeviceLocator' property of 'Win32_PhysicalMemory' WMI class)
+	https://bugs.winehq.org/show_bug.cgi?id=46894
