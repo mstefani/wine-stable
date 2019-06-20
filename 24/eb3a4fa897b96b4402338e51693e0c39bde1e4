@@ -1,0 +1,2 @@
+Fixes: [33845] Warframe (Steam) updater fails to replace 'Launcher.exe', reports sharing violation
+	https://bugs.winehq.org/show_bug.cgi?id=33845
