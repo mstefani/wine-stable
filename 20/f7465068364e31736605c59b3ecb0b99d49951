@@ -1,0 +1,2 @@
+Fixes: [15934] Can't see Worms 2 intro films as they play (mciavi32 missing support to MCI_MCIAVI_PLAY_FULLSCREEN)
+	https://bugs.winehq.org/show_bug.cgi?id=15934
