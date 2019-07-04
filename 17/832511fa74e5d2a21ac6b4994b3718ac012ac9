@@ -1,0 +1,2 @@
+Fixes: [46899] SIMATIC WinCC V15.1 Runtime installer: user can't accept license terms (richedit20 ITextRange::ScrollIntoView lacks handling of 'tomEnd')
+	https://bugs.winehq.org/show_bug.cgi?id=46899
