@@ -1,0 +1,2 @@
+Fixes: [47051] Microsoft Excel 2016 (Office 365) crashes on startup (Microsoft AppV ISV virtual filesystem technology requires kernel32.CreateActCtxW to be hot-patchable)
+	https://bugs.winehq.org/show_bug.cgi?id=47051
