@@ -1,0 +1,4 @@
+Fixes: [36764] Rogue Squadron 3D 1.3: Unable to setup controller in-game
+	https://bugs.winehq.org/show_bug.cgi?id=36764
+Acked-by: Alistair Leslie-Hughes <leslie_alistair@hotmail.com>
+Deferred: 4.0.2+
