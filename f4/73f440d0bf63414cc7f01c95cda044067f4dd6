@@ -1,0 +1,2 @@
+Fixes: [46971] Multiple Steam games crash with Wine 4.6 (Steam Game Overlay Renderer hook engine requires several API to be hot-patchable) (Sniper Elite V2, Sniper Elite 3, Brawlhalla)
+	https://bugs.winehq.org/show_bug.cgi?id=46971

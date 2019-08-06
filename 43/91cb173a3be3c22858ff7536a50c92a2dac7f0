@@ -1,0 +1,2 @@
+Fixes: [47065] Vocaloid 5 (.NET 4.x app) crashes on startup (needs 'Win32_OperatingSystem' WMI class 'SystemDrive' property)
+	https://bugs.winehq.org/show_bug.cgi?id=47065

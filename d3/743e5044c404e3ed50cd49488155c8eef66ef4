@@ -1,0 +1,2 @@
+Fixes: [47031] widl generates invalid typelib when importing types from multiple typelibs
+	https://bugs.winehq.org/show_bug.cgi?id=47031

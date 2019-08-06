@@ -1,0 +1,2 @@
+Fixes: [47022] Multiple performance monitor applications fail to display system physical/committed virtual memory usage (Sysinternals Process Explorer v16.x, builtin Taskmgr)
+	https://bugs.winehq.org/show_bug.cgi?id=47022
