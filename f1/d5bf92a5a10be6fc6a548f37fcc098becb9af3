@@ -1,0 +1,3 @@
+Fixes: [46953] Watch_Dogs crashes after intro
+	https://bugs.winehq.org/show_bug.cgi?id=46953
+Depends on: e88084f65097b77bf80a47e75ea62065c300186d

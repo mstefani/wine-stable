@@ -1,0 +1,2 @@
+Fixes: [46626] UPlay fails to start : "Error at hooking API LoadStringA" (UPlay's hooking engine can't handle ENDBR32 instruction inserted at non-hotpatch API entries due to distro build environments '-fcf-protection')
+	https://bugs.winehq.org/show_bug.cgi?id=46626
