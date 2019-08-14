@@ -1,2 +1,0 @@
-Fixes: [44967] xcopy does not copy empty subdirectories if options /s and /e without space
-	https://bugs.winehq.org/show_bug.cgi?id=44967

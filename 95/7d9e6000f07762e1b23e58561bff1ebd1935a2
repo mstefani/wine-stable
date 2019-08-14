@@ -1,3 +1,0 @@
-Fixes: [44485] Delphi 7 debugger generates new exceptions by itself
-	https://bugs.winehq.org/show_bug.cgi?id=44485
-Fixes regression: a75e3f734d32bd98df9017f1a94819d2b6dca85d

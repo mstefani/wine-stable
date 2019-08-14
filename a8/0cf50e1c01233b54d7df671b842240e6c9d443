@@ -1,2 +1,0 @@
-Fixes: [40273] Paprika Recipe Manager needs windowscodecs.dll.WICCreateBitmapFromSection
-	https://bugs.winehq.org/show_bug.cgi?id=40273

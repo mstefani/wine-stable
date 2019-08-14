@@ -1,2 +1,0 @@
-Fixes: [46186] LoadImageA searches images in the wrong directory
-	https://bugs.winehq.org/show_bug.cgi?id=46186

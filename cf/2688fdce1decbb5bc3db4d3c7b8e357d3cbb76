@@ -1,2 +1,0 @@
-Fixes: [45593] Wargaming.net Game Center: Installer deadlocks during download ('ntdll.RtlDeregisterWaitEx' must not synchronously wait when 'CompletionEvent' is NULL)
-	https://bugs.winehq.org/show_bug.cgi?id=45593

@@ -1,2 +1,0 @@
-Fixes: [40828] Switching resolution in desktop mode makes task bar redraw on top of full screen game
-	https://bugs.winehq.org/show_bug.cgi?id=40828

@@ -1,4 +1,0 @@
-Fixes: [43630] Altium Designer Installer - Richedit control shows rtf code instead of text
-	https://bugs.winehq.org/show_bug.cgi?id=43630
-
-Depends on: d4daa14802b73705baf7919fe6c0d2cbfe8213c8

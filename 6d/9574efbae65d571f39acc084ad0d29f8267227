@@ -1,2 +1,0 @@
-Fixes: [45997] iPed 7G 2019 (.NET 4.0 app) v13.0.10800 crashes with System.NotImplementedException at system.drawing.pen.ScaleTransform
-	https://bugs.winehq.org/show_bug.cgi?id=45997

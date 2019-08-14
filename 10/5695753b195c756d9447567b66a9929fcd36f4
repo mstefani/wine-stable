@@ -1,2 +1,0 @@
-Fixes: [45709] djkaty.com Simple2D demos v1.13 need support for IWICImagingFactory2, CLSID '{317d06e8-5f24-433d-bdf7-79ce68d8abc2}'
-	https://bugs.winehq.org/show_bug.cgi?id=45709

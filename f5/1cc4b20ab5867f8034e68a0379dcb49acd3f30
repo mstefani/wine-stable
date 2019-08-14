@@ -1,2 +1,0 @@
-Fixes: [38558] cmd.exe bundled with Windows XP messed up when using FOR /F
-	https://bugs.winehq.org/show_bug.cgi?id=38558

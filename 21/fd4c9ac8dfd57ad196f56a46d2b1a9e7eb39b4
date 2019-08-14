@@ -1,6 +1,0 @@
-Fixes: [45915] x64dbg/x32dbg crash during shutdown on unimplemented function msvcr120.dll.??0_Scoped_lock@_NonReentrantPPLLock@details@Concurrency@@QAE@AAV123@@Z
-	https://bugs.winehq.org/show_bug.cgi?id=45915
-Depends on: 19ef182c81bbc92aba1f73179d77f376af1d8b38
-Depends on: 7419eff0c21d912293e74aabbc87958a96e4f4ca
-Depends on: 8d105ac7c27428fe9f599711c7061e369f515d5e
-Depends on: f042c4ea4a3bcf211288fe69ed6014687995e1de

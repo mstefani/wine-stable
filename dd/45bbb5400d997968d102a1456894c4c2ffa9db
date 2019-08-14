@@ -1,2 +1,0 @@
-Fixes: [46229] server/ptrace: NetBSD debug register storage
-	https://bugs.winehq.org/show_bug.cgi?id=46229

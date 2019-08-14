@@ -1,4 +1,0 @@
-Fixes: [46581] HeidiSQL generates OLE error when executing custom queries against MSSQL server.
-	https://bugs.winehq.org/show_bug.cgi?id=46581
-Fixes regression: 9b9b4c0dda66f4f950df489bb982b2ebbc4bbc31
-Depends on: 62d67bdebe8c45faf611ae76a55ecf5e663a85af

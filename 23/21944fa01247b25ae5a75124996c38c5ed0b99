@@ -1,3 +1,0 @@
-Fixes: [40303] Control Data passed in DIALOGEX Resource passes pointer with offset sizeof(WORD)
-	https://bugs.winehq.org/show_bug.cgi?id=40303
-Depends on: 606b0272776ec2a4e6146aa29a993fc88e98214b

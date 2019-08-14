@@ -1,2 +1,0 @@
-Fixes: [46907] msi crashes in RemoveFiles action for a broken msi
-	https://bugs.winehq.org/show_bug.cgi?id=46907

@@ -1,2 +1,0 @@
-Fixes: [45632] Garena client v2.0.x crashes on startup ('ntdll.NtQueryVirtualMemory' needs to validate 'MemoryInformationLength' before writing to buffer)
-	https://bugs.winehq.org/show_bug.cgi?id=45632

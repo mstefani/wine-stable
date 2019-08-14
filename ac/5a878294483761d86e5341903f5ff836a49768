@@ -1,2 +1,0 @@
-Fixes: [45588] .Net Framework 4.5.2 (WPF) System.Windows.Media.PixelFormat requires windowscodecs.dll.IWICPixelFormatInfo_{GetChannelCount,GetChannelMask,GetBitsPerPixel}_Proxy
-	https://bugs.winehq.org/show_bug.cgi?id=45588

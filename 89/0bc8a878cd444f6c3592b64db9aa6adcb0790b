@@ -1,2 +1,0 @@
-Fixes: [40706] FolderMerger cmd not valued, xcopy needs /k support
-	https://bugs.winehq.org/show_bug.cgi?id=40706

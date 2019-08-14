@@ -1,2 +1,0 @@
-Fixes: [46210] explorer /desktop leaks atoms from DDE interface
-	https://bugs.winehq.org/show_bug.cgi?id=46210

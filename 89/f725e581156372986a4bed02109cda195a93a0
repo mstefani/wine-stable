@@ -1,2 +1,0 @@
-Fixes: [8226] DlgDirListComboBox does not fail properly on bad path spec argument
-	https://bugs.winehq.org/show_bug.cgi?id=8226

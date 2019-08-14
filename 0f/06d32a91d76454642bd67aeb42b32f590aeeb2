@@ -1,2 +1,0 @@
-Fixes: [42823] cmd.exe behaves differently from Win7 regarding redefined labels
-	https://bugs.winehq.org/show_bug.cgi?id=42823

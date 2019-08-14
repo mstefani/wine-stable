@@ -1,2 +1,0 @@
-Fixes: [46157] Doxie 2.10.3 crashes on unimplemented function msvcr120.dll._vscprintf_l
-	https://bugs.winehq.org/show_bug.cgi?id=46157

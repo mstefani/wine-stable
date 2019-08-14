@@ -1,3 +1,0 @@
-Fixes: [45910] nProtect GameGuard used by multiple MMORPG games crashes on unimplemented function wevtapi.dll.EvtExportLog (4Story, Phantasy Star Online 2)
-	https://bugs.winehq.org/show_bug.cgi?id=45910
-Depends on: ecbb4fa3ea2d3a9e1d3f560c7e0dea008439db5b

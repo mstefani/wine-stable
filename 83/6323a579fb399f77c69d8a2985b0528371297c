@@ -1,4 +1,0 @@
-Fixes: [31954] Second Sight hangs with a black screen after the intro videos
-	https://bugs.winehq.org/show_bug.cgi?id=31954
-Depends on: 9dc63ca9813b9aec1384160afb19a8be9061d9ec
-Depends on: 3117370acceeb2606d0f6dde420a735fa6854a73

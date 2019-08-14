@@ -1,3 +1,0 @@
-Fixes: [40433] Fifa 11 EU demo fails to install when run from custom DVD
-	https://bugs.winehq.org/show_bug.cgi?id=40433
-Fixes regression: 5cb10c96b26d07b7d0aabe3b8e337c7ce144b8af

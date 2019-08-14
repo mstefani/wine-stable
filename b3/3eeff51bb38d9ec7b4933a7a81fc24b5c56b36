@@ -1,2 +1,0 @@
-Fixes: [46089] TopoEdit tool from Windows 10 SDK (10.0.17763.x) crashes in ntdll.LdrResolveDelayLoadedAPI during resolver failure (NULL dll failure hook)
-	https://bugs.winehq.org/show_bug.cgi?id=46089

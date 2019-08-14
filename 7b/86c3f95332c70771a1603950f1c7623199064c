@@ -1,2 +1,0 @@
-Fixes: [44109] Simple free HAM program Opera crashes, needs unimplemented function pdh.dll.PdhVbAddCounter
-	https://bugs.winehq.org/show_bug.cgi?id=44109

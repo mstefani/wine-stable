@@ -1,4 +1,0 @@
-Fixes: [44229] Visual C++ 1.51 can't add files to project (GetOpenFileName16() doesn't support custom templates or hooks)
-	https://bugs.winehq.org/show_bug.cgi?id=44229
-Fixes regression: 424472c20d8059057277ae13a0ffe5c51a818e52
-Depends on: 0e9cb103400c58480778894cb0e4a3d2dec9a3b4

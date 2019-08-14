@@ -1,3 +1,0 @@
-Fixes: [46040] Intel Extreme Tuning Utility v6.4 kernel driver 'iocbios2.sys' crashes on unimplemented function ntoskrnl.exe.KeSetTargetProcessorDpc
-	https://bugs.winehq.org/show_bug.cgi?id=46040
-Depends on: 82634cd9237ee1ba0c41e93a42c4848c40c45a64

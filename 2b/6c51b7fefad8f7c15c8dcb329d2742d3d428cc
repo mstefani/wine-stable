@@ -1,2 +1,0 @@
-Fixes: [41356] Multiple applications and games need support for szOID_NIST_sha* OIDs in crypt32 (The Crew (Uplay), Star Wars The Old Republic, PSNow v9.0.5)
-	https://bugs.winehq.org/show_bug.cgi?id=41356

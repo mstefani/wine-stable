@@ -1,2 +1,0 @@
-Fixes: [45880] Multiple PC/SC applications crash on unimplemented function winscard.dll.SCardCancel (Aruba key, SmartCard test apps)
-	https://bugs.winehq.org/show_bug.cgi?id=45880

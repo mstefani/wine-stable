@@ -1,3 +1,0 @@
-Fixes: [44177] Guitar Pro 5: Long freezes during draw process of dashed lines (P.M. or let ring markers)
-	https://bugs.winehq.org/show_bug.cgi?id=44177
-Fixes regression: e127101122e08e0f5bab196dc4f0349f9a281235

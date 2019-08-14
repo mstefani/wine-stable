@@ -1,2 +1,0 @@
-Fixes: [46168] dotnet35sp1 installer has an error under wow64
-	https://bugs.winehq.org/show_bug.cgi?id=46168

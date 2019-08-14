@@ -1,2 +1,0 @@
-Fixes: [46084] Skype 8.33.0.50 installer crashes due to unimplemented msvcp140.dll.?_Winerror_map@std@@YAHH@Z
-	https://bugs.winehq.org/show_bug.cgi?id=46084

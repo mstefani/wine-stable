@@ -1,2 +1,0 @@
-Fixes: [45913] tchar.h: using the macro _sntprintf leads to an undefined reference to snwprintf; macro should resolve to _snwprintf
-	https://bugs.winehq.org/show_bug.cgi?id=45913

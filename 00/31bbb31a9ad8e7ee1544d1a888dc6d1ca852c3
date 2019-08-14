@@ -1,2 +1,0 @@
-Fixes: [41419] Visio 2013 crashes with unimplemented function msvcp100.dll.?_GetCombinableSize@details@Concurrency@@YAIXZ
-	https://bugs.winehq.org/show_bug.cgi?id=41419

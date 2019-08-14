@@ -1,2 +1,0 @@
-Fixes: [40208] Cegid Business Line installer fails in custom script action with "Object doesn't support this property or method: 'ObjRegistry.CreateKey'" (needs 'StdRegProv.CreateKey')
-	https://bugs.winehq.org/show_bug.cgi?id=40208

@@ -1,2 +1,0 @@
-Fixes: [45928] Microsoft Windows SDK for Windows 10 (.NET 4.6) installer fails, claims KB3118401 is needed ('ucrtbase.dll' missing version resource, >= 10.0.0)
-	https://bugs.winehq.org/show_bug.cgi?id=45928

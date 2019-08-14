@@ -1,2 +1,0 @@
-Fixes: [43187] EA Origin 'OriginWebHelperService' (QGuiApplication) non-interactive service process crashes due to null monitor info when determining the primary (default) screen
-	https://bugs.winehq.org/show_bug.cgi?id=43187

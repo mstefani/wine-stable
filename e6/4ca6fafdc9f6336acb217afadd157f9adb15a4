@@ -1,2 +1,0 @@
-Fixes: [46729] Wine directx not detecting Intel HD Graphics 620 (Rev 02) chipset
-	https://bugs.winehq.org/show_bug.cgi?id=46729

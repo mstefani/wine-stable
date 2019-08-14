@@ -1,2 +1,0 @@
-Fixes: [40206] Revit Architecture fails to install: throws Messagebox "Function failed" and aborts
-	https://bugs.winehq.org/show_bug.cgi?id=40206

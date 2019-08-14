@@ -1,2 +1,0 @@
-Fixes: [35504] LibreOffice 4.2 installer copies MSVC++ runtime files into erroneous 'C:\Win\System\' path (directory targets/properties not re-resolved after updates from custom actions)
-	https://bugs.winehq.org/show_bug.cgi?id=35504

@@ -1,2 +1,0 @@
-Fixes: [33502] SnagIt writes incomplete HKLM\\System\\CurrentControlSet\\Control\\Print\\Printers entry, causing loader failures for apps that depend on winspool.drv
-	https://bugs.winehq.org/show_bug.cgi?id=33502

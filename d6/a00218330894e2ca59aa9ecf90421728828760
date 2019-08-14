@@ -1,2 +1,0 @@
-Fixes: [38402] glDebugMessageCallback has mismatched calling convention
-	https://bugs.winehq.org/show_bug.cgi?id=38402

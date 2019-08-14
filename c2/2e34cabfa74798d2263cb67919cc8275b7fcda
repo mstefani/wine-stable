@@ -1,4 +1,0 @@
-Fixes: [37275] Chess Position Trainer 5 (.NET 4.0 app) wants gdiplus.GdipCreateAdjustableArrowCap implementation
-	https://bugs.winehq.org/show_bug.cgi?id=37275
-Depends on: 1da650a1cb9b85972622e98e9589808bfa60d17a
-Deferred: 3.0.4

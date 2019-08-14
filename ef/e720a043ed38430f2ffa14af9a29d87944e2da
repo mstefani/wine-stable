@@ -1,2 +1,0 @@
-Fixes: [46135] Microsoft ODBC tool 'odbcconf.exe' (part of MDAC 2.x install) crashes during configuration (some 'advapi32.dll' API entries are not hotpatchable due to PIC/GOT code at entry)
-	https://bugs.winehq.org/show_bug.cgi?id=46135

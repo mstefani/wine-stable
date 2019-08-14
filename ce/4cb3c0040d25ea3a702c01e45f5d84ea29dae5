@@ -1,2 +1,0 @@
-Fixes: [43358] EVE Online crashes on startup in Win7+ mode (XAudio 2.7 'IXAudio2SourceVoice::GetState' called with 'Flags' parameter, causing %ESI or %EDI register corruption)
-	https://bugs.winehq.org/show_bug.cgi?id=43358

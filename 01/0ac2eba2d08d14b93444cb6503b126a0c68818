@@ -1,2 +1,0 @@
-Fixes: [46057] Multiple applications want 'ntdll.NtQueryInformationToken' to support 'TokenVirtualizationEnabled' (24) info class (Blizzard Battle.net)
-	https://bugs.winehq.org/show_bug.cgi?id=46057

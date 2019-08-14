@@ -1,2 +1,0 @@
-Fixes: [46387] ReactOS/Windows XP TASKMGR: Column headers don't scroll when scrolling horizontally (multiple listview or header control)
-	https://bugs.winehq.org/show_bug.cgi?id=46387

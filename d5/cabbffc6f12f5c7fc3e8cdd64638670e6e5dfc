@@ -1,2 +1,0 @@
-Fixes: [46328] Installer for Tanglet 1.5.3 crashes at target directory selection
-	https://bugs.winehq.org/show_bug.cgi?id=46328

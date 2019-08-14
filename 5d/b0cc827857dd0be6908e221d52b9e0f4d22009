@@ -1,4 +1,0 @@
-Fixes: [44409] png with indexed colors and alpha miss the alpha channel on loading
-	https://bugs.winehq.org/show_bug.cgi?id=44409
-Depends on: 5855ff78462f04dc7388560b7ca265274e43e711
-Depends on: e93495d3f8e1c1e069823c569e3ec58fa5a95ed2

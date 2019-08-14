@@ -1,3 +1,0 @@
-Fixes: [46678] Width of latin characters is wrong with some fonts.
-	https://bugs.winehq.org/show_bug.cgi?id=46678
-Fixes regression: 8d018d8d1dadf9d731690567b9c98d5a9eae37db

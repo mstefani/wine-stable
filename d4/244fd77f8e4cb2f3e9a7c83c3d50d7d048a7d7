@@ -1,2 +1,0 @@
-Fixes: [33117] Can't load Bach41.ttf with CreateFontIndirect
-	https://bugs.winehq.org/show_bug.cgi?id=33117

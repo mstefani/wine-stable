@@ -1,2 +1,0 @@
-Fixes: [46172] Multiple applications from Windows 7-10 crash on unimplemented function slc.dll.SLGetLicensingStatusInformation
-	https://bugs.winehq.org/show_bug.cgi?id=46172

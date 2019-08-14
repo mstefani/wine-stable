@@ -1,4 +1,0 @@
-Fixes: [16845] Radio buttons not being checked on focus
-	https://bugs.winehq.org/show_bug.cgi?id=16845
-Depends on: bf55f167b9c9714dcb03e90cc4cea3093e15ceb7
-Depends on: d57fcb41135f8686f343c3b02da81cb9e44fd670

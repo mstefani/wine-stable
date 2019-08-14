@@ -1,3 +1,0 @@
-Fixes: [5402] Multiple MFC-based apps crash during non-modal child dialog control creation with active window being zero (Canon PhotoStitch 3.1.13, Flexible Renamer v8.4)
-	https://bugs.winehq.org/show_bug.cgi?id=5402
-Depends on: 87d194dd1de7ab1473a805a8d4c5602a8d2d2f53

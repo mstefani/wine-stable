@@ -1,2 +1,0 @@
-Fixes: [40264] Iris Online cannot connect to login server (SO_SNDBUF with value 0 is not allowed in OSX)
-	https://bugs.winehq.org/show_bug.cgi?id=40264
