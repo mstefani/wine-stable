@@ -1,3 +1,4 @@
 Fixes: [47546] Touhou 14-17 experience Spell Name and Music Room text issues starting in Wine 4.1
 	https://bugs.winehq.org/show_bug.cgi?id=47546
 Fixes regression: 65956ae50a136fe8467a0332c7495f36617a16dc
+Defer: 4.0.3
