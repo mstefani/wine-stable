@@ -1,0 +1,2 @@
+Fixes: [46863] If prefix contains "windows" drive information not available in 64-bit prefix
+	https://bugs.winehq.org/show_bug.cgi?id=46863

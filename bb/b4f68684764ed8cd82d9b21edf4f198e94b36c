@@ -1,0 +1,2 @@
+Fixes: [46800] LINE (Powered by Naver): LINE v5.12.XXX series crashes after few seconds
+	https://bugs.winehq.org/show_bug.cgi?id=46800

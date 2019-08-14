@@ -1,0 +1,2 @@
+Fixes: [46019] Multiple NSIS 2.x based installers fail due to invalid module handle passed to 'kernel32.FreeLibrary', causing code dll unmapped as data dll (Adobe Digital Editions 4.5.x, ConceptDraw Office 4)
+	https://bugs.winehq.org/show_bug.cgi?id=46019

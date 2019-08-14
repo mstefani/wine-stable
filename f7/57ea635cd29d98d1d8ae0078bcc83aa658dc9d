@@ -1,0 +1,2 @@
+Fixes: [45543] Multiple games and applications crash in dwrite due to invalid index access to cluster array (Rekordbox 5.3.0, SpellForce 3)
+	https://bugs.winehq.org/show_bug.cgi?id=45543

@@ -1,0 +1,2 @@
+Fixes: [45703] Microsoft Office 365 applications crash on startup (Microsoft AppV ISV virtual filesystem technology requires several native and core API to be hot-patchable)
+	https://bugs.winehq.org/show_bug.cgi?id=45703
