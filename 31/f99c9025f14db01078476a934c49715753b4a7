@@ -1,0 +1,2 @@
+Fixes: [47262] compile error: ‘for’ loop initial declarations are only allowed in C99 mode
+	https://bugs.winehq.org/show_bug.cgi?id=47262
