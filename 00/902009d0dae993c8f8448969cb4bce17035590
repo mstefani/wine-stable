@@ -1,0 +1,2 @@
+Fixes: [31350] Multiple .NET 3.x WPF applications crash in Vista/Win7 mode due to dwmapi.DwmGetTransportAttributes stub returning E_NOTIMPL (T-Online Mediencenter Assistent, Valil.Chess, Zwift 1.0)
+	https://bugs.winehq.org/show_bug.cgi?id=31350
