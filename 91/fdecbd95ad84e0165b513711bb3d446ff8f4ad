@@ -1,3 +1,3 @@
 Fixes: [12332] Microsoft Windows Server 2003 DDK SP1 installer crashes ('setupapi.SetupCloseFil
 eQueue' should do proper handle validation before accessing members)
-        https://bugs.winehq.org/show_bug.cgi?id=12332
+    https://bugs.winehq.org/show_bug.cgi?id=12332
