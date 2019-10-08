@@ -1,0 +1,2 @@
+Fixes: [14695] Lifeforce demo misses codecs (msvideo1 needs to support 24 bpp output)
+	https://bugs.winehq.org/show_bug.cgi?id=14695
