@@ -1,0 +1,2 @@
+Fixes: [46905] Multiple eventlog monitor applications go haywire (endless console spam, live-loop CPU) due to advapi32.ReadEventLogA/W returning lasterror ERROR_CALL_NOT_IMPLEMENTED
+	https://bugs.winehq.org/show_bug.cgi?id=46905
