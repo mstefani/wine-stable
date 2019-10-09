@@ -1,0 +1,2 @@
+Fixes: [45947] Native Access crashes on unimplemented function virtdisk.dll.OpenVirtualDisk
+	https://bugs.winehq.org/show_bug.cgi?id=45947
