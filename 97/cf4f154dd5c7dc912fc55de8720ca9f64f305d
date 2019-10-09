@@ -1,0 +1,3 @@
+Fixes: [38423] Python 3.5.x exe installer fails with Access denied error
+	https://bugs.winehq.org/show_bug.cgi?id=38423
+Depends on: 9aac7ca191e137eca6c7d820e0de1a84d42ef50a
