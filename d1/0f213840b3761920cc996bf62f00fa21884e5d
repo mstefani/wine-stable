@@ -1,0 +1,3 @@
+Fixes: [39614] Wine initialises a Critical Section for Mutexes by NULL instead of (void*)-1
+	https://bugs.winehq.org/show_bug.cgi?id=39614
+Depends on: bf174815ba8529bfbbda8697503d3c2539f82359
