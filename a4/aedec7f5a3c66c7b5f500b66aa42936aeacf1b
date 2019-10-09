@@ -1,0 +1,2 @@
+Fixes: [47234] Wine fails to properly parse and import some of the standard root certificates
+	https://bugs.winehq.org/show_bug.cgi?id=47234
