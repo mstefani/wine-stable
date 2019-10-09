@@ -1,0 +1,2 @@
+Fixes: [47023] Warframe in-game screenshot fails if screenshot directory already exists
+	https://bugs.winehq.org/show_bug.cgi?id=47023
