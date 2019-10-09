@@ -1,0 +1,2 @@
+Fixes: [47129] Rendering glitch in Caste Siege/Ballerburg (invalid vertex count in IDirect3DDevice3::DrawIndexedPrimitiveVB)
+	https://bugs.winehq.org/show_bug.cgi?id=47129
