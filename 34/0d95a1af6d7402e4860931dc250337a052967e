@@ -1,0 +1,2 @@
+Fixes: [47082] NI System Web Server crashes on unimplemented function authz.dll.AuthzFreeResourceManager
+	https://bugs.winehq.org/show_bug.cgi?id=47082
