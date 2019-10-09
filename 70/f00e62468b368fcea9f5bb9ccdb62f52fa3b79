@@ -1,0 +1,2 @@
+Fixes: [45757] Visual Studio 2017 Installer - "The installer manifest failed signature validation"
+	https://bugs.winehq.org/show_bug.cgi?id=45757
