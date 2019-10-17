@@ -1,0 +1,2 @@
+Fixes: [47249] CM_Set_Class_Registry_Property should use PCVOID for buffer parameter
+	https://bugs.winehq.org/show_bug.cgi?id=47249
