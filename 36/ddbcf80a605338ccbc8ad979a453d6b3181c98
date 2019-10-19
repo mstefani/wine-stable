@@ -1,0 +1,3 @@
+Fixes: [46558] win64 dotnet Space Engineers fractal noise generation broken
+	https://bugs.winehq.org/show_bug.cgi?id=46558
+Depends on: 0c0def962f2b86f44625f11d8d9d2013aaffa46a
