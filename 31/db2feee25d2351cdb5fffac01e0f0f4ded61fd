@@ -1,0 +1,2 @@
+Fixes: [47143] Trackbar thumb is too small in Metatrader 4 expert advisor
+	https://bugs.winehq.org/show_bug.cgi?id=47143
