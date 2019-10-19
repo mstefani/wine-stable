@@ -1,0 +1,2 @@
+Fixes: [8848] SWAT4 Areas that should be in shadow and people are rendered solid black
+	https://bugs.winehq.org/show_bug.cgi?id=8848
