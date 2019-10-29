@@ -1,0 +1,2 @@
+Fixes: [47399] Mozart 11-13 crashes on startup
+	https://bugs.winehq.org/show_bug.cgi?id=47399
