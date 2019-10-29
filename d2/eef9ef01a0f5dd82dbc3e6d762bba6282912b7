@@ -2,3 +2,4 @@ Fixes: [38421] Windows Media Player 9 & 10: mp3 sound plays too fast
 	https://bugs.winehq.org/show_bug.cgi?id=38421
 Fixes regression: 5c91d011bbdff0cac6535c866ef5498b1ddc42c7
 Depends on: 1964051f771c72ae43ca3b56b6ca22fa16d4e661
+Depends on: 83dc66730e6468428a9ecf03c9880afe2dc74ed8
