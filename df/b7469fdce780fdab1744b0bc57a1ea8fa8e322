@@ -1,0 +1,2 @@
+Fixes: [47432] bcrypt always chooses ECB mode when using AES, even if a program indicates otherwise.
+	https://bugs.winehq.org/show_bug.cgi?id=47432
