@@ -1,0 +1,2 @@
+Fixes: [45449] Add diagnostic 'mscoree.dll.CorGetSvc' stub (NGEN client) to hint at broken Microsoft .NET Frameworks installation (Wine-Mono not uninstalled and/or 'mscoree.dll' placeholders not removed prior install)
+	https://bugs.winehq.org/show_bug.cgi?id=45449
