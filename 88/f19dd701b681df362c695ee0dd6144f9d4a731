@@ -1,0 +1,2 @@
+Fixes: [39129] Cygwin's dash.exe crashes during installation
+	https://bugs.winehq.org/show_bug.cgi?id=39129
