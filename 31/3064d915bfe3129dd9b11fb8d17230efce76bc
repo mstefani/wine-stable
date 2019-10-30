@@ -1,0 +1,2 @@
+Fixes: [47578] Omni-NFS 4.13's XLPD Server crashes on unimplemented function ntoskrnl.exe.MmIsThisAnNtAsSystem
+	https://bugs.winehq.org/show_bug.cgi?id=47578
