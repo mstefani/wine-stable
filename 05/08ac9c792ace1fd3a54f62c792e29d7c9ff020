@@ -1,0 +1,2 @@
+Fixes: [47437] Final Fantasy XIV 5.0 crashes on startup when using xaudio2_8.dll
+	https://bugs.winehq.org/show_bug.cgi?id=47437

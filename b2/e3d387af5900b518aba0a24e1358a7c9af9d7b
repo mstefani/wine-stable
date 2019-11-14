@@ -1,0 +1,3 @@
+Fixes: [47706] ntdll: Compiler warnings regression on x86_64 [stable]
+	https://bugs.winehq.org/show_bug.cgi?id=47706
+Fixes regression: 99ba65a1ea2c1546a61c3ed40996cbfee9d25f69

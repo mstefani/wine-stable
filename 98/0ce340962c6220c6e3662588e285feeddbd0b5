@@ -1,0 +1,2 @@
+Fixes: [27185] Futuremark PC Mark 7 (.NET 4.0 app) fails to run with Wine-Mono (mscoree:get_runtime Unrecognized version L"v4.0.20926")
+	https://bugs.winehq.org/show_bug.cgi?id=27185

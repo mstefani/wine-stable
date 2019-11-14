@@ -1,0 +1,2 @@
+Fixes: [47564] Database mistmatch on brazillian timezone (America/Sao_Paulo)
+	https://bugs.winehq.org/show_bug.cgi?id=47564

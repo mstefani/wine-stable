@@ -1,0 +1,4 @@
+Fixes: [47327] Japanese texts are overlapped in notepad when using bitmap font.
+	https://bugs.winehq.org/show_bug.cgi?id=47327
+Fixes regression: 8d018d8d1dadf9d731690567b9c98d5a9eae37db
+Depends on: 9dabf7b013ea7c12a93d665d514ce15560c2f991

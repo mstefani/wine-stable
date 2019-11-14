@@ -1,0 +1,2 @@
+Fixes: [47214] Oracle Java runtime 8.211 online installer crashes in WoW64
+	https://bugs.winehq.org/show_bug.cgi?id=47214

@@ -1,0 +1,2 @@
+Fixes: [47236] Adobe InDesign CC 2017: crashes at startup: unimplemented function msvcp140.dll._Strxfrm
+    https://bugs.winehq.org/show_bug.cgi?id=47236

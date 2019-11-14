@@ -1,0 +1,2 @@
+Fixes: [41657] CoolQ 5.x reports network error on startup due to msscript:ScriptControl_Eval stub
+	https://bugs.winehq.org/show_bug.cgi?id=41657

@@ -1,0 +1,3 @@
+Fixes: [38182] King of Dragon Pass: can't change audio volume level
+	https://bugs.winehq.org/show_bug.cgi?id=38182
+Fixes regression: be158e48ad8ee556941bd3f1ff94ca7116680d00

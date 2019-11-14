@@ -1,0 +1,2 @@
+Fixes: [47418] Quickbooks 2018 installer crashes on Validating Install
+	https://bugs.winehq.org/show_bug.cgi?id=47418
