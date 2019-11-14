@@ -1,0 +1,2 @@
+Fixes: [47137] Multiple applications from Line 6 (Yamaha Guitar Group) crash on startup (HX Edit v2.71, POD Farm 2.5)(Wine builtin 'gdiplus.dll' missing version resource)
+	https://bugs.winehq.org/show_bug.cgi?id=47137

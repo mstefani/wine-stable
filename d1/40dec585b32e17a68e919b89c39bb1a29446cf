@@ -1,0 +1,4 @@
+Fixes: [47190] Custom protocol handler CF doesn't support aggregation
+	https://bugs.winehq.org/show_bug.cgi?id=47190
+Fixes regression: 097811f2513e457ebf4afb1d2d21ab90b8684325
+Depends on: 97529298a1d73eb4268dfca40595a020f17ea7ef

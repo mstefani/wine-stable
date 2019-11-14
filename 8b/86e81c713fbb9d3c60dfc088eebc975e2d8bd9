@@ -1,0 +1,3 @@
+Fixes: [46655] Adobe Photoshop CC 2015.5: Tabs show completely black
+	https://bugs.winehq.org/show_bug.cgi?id=46655
+Fixes regression: 99b64f74320ba11b282a33aad2edc28551501875

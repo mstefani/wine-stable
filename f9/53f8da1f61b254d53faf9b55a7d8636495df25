@@ -1,0 +1,3 @@
+Fixes: [47514] AviUtl: Can't add a file to the ExEdit dialog after the first drop.
+	https://bugs.winehq.org/show_bug.cgi?id=47514
+Depends on: 865fe9cf971adf95b35c9712e7ff2cb3e09578f3

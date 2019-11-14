@@ -1,0 +1,2 @@
+Fixes: [47069] Final Fantasy XIV Launcher renders black (needs better get_Busy implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=47069

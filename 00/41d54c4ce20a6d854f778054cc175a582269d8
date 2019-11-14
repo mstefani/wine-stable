@@ -1,0 +1,3 @@
+Fixes: [47586] The Sims 1 visually freezes after alt-tabbing when in fullscreen mode
+	https://bugs.winehq.org/show_bug.cgi?id=47586
+Depends on: 7361c7f2cd9a398a6eab6923faad5e4a2a342238

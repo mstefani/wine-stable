@@ -1,0 +1,2 @@
+Fixes: [46450] Volume Control doesn't work in Firefox videos (and browsers based on it) with PulseAudio driver
+	https://bugs.winehq.org/show_bug.cgi?id=46450

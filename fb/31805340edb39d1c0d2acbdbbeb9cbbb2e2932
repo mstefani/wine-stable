@@ -1,0 +1,2 @@
+Fixes: [47367] Some WPF 4.x apps from Windows 10 SDK (10.0.17763.x) spam console with fixme:d3d:wined3d_driver_info_init Unhandled OS version 6.3, reporting Win 8. (WinVer set to 'Windows 8.1')
+	https://bugs.winehq.org/show_bug.cgi?id=47367

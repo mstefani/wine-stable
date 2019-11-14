@@ -1,0 +1,2 @@
+Fixes: [47424] DataTransferLength in SCSI_PASS_THROUGH and SCSI_PASS_THROUGH_DIRECT *must* have return value
+	https://bugs.winehq.org/show_bug.cgi?id=47424

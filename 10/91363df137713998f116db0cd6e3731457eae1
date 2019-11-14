@@ -1,0 +1,3 @@
+Fixes: [47285] widl generates incorrect format strings when using -Oicf flag
+	https://bugs.winehq.org/show_bug.cgi?id=47285
+Depends on: 02976b655a5d9ad8ee25dbfb2051acb5b7431381

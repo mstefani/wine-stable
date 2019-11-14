@@ -1,0 +1,2 @@
+Fixes: [45218] Fallout 4 Script Extender fails to allocate trampoline buffers
+	https://bugs.winehq.org/show_bug.cgi?id=45218

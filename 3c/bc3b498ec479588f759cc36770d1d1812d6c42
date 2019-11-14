@@ -1,0 +1,2 @@
+Fixes: [43286] WSARecvMsg wrongly forbids NULL control buffers (Qt 5.7.0 based: Cannot read UDP packets: "errno 90, (Message too long)")
+	https://bugs.winehq.org/show_bug.cgi?id=43286

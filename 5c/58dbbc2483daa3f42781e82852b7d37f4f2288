@@ -1,0 +1,2 @@
+Fixes: [47013] winebus.sys: hidraw_set_feature_report buffer too small for some devices in SteelSeries Engine
+	https://bugs.winehq.org/show_bug.cgi?id=47013
