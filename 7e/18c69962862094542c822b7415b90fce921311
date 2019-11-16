@@ -2,4 +2,3 @@ Fixes: [25180] Clonk Endeavour's intro video is not rendered correctly (iccvid d
 	https://bugs.winehq.org/show_bug.cgi?id=25180
 Depends on: e287917a3aefbf0f3d882a9096de8f12a2598164
 Depends on: bc389cff394cc3174e34e73a55ee2a871f181b88
-Comment: Test crashes
