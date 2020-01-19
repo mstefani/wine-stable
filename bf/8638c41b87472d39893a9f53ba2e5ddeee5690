@@ -1,0 +1,2 @@
+Fixes: [47615] _putws outputs NULs, other wchar.h functions don't
+	https://bugs.winehq.org/show_bug.cgi?id=47615
