@@ -1,0 +1,4 @@
+Fixes: [46560] Smoke not rendering properly in Castlevania: Lords of Shadow 2
+	https://bugs.winehq.org/show_bug.cgi?id=46560
+Fixes: [47880] Need for Speed: Carbon - Autosculpt causes geometry corruption and GL_INVALID_OPERATION error
+	https://bugs.winehq.org/show_bug.cgi?id=47880
