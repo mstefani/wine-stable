@@ -1,0 +1,3 @@
+Fixes: [47427] Glide wrapper - Configuration buttons misbehaving
+	https://bugs.winehq.org/show_bug.cgi?id=47427
+Depends on: 5555044aa62758a6de45d524a606d62fa45d3c6d
