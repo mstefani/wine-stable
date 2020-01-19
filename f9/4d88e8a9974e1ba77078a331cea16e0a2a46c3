@@ -1,0 +1,2 @@
+Fixes: [46983] type command in cmd.exe with two files and stdout redirect, behavior is different
+	https://bugs.winehq.org/show_bug.cgi?id=46983
