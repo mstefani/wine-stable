@@ -1,0 +1,2 @@
+Fixes: [46279] Multiple applications need msvcr120.dll.?_Yield@_Context@details@Concurrency@@SAXXZ (Darkest Dungeon, Noita, Amazon Kindle for PC)
+	https://bugs.winehq.org/show_bug.cgi?id=46279
