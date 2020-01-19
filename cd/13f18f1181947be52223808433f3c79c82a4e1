@@ -1,0 +1,2 @@
+Fixes: [46578] IVMU Social Network Client (500 series) crashes when selecting menu / settings
+	https://bugs.winehq.org/show_bug.cgi?id=46578
