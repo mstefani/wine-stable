@@ -1,0 +1,3 @@
+Fixes: [47752] commit "winex11.drv: Wake up the display on user input." introduced severe performance issues with atomic modesetting kernel drivers
+	https://bugs.winehq.org/show_bug.cgi?id=47752
+Fixes regression: c6b6935bb433dbbd30f5ba122a7c45ad3a2d6eed
