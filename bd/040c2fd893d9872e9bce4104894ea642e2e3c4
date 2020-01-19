@@ -1,0 +1,3 @@
+Fixes: [41212] Alt-Tab in full-screen on resolutions other than native causes a crash
+	https://bugs.winehq.org/show_bug.cgi?id=41212
+Comment: Breaks my X during make test
