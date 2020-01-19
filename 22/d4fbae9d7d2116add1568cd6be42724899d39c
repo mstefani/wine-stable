@@ -1,0 +1,2 @@
+Fixes: [46404] Shed installer - text overflow in browse-for-folder dialog
+	https://bugs.winehq.org/show_bug.cgi?id=46404
