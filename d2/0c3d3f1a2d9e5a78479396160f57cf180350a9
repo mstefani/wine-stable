@@ -1,0 +1,2 @@
+Fixes: [47918] Blur: cars have no wheels when Wine is compiled with Ryzen optimisations
+	https://bugs.winehq.org/show_bug.cgi?id=47918
