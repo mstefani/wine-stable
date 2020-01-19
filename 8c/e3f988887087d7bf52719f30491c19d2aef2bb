@@ -1,3 +1,4 @@
 Fixes: [47693] ExHIBIT (Sample Project): Can't select menu item in the title screen
 	https://bugs.winehq.org/show_bug.cgi?id=47693
 Depends on: f0f93c791f2bf79a2ea750f89dcd168bb20e529f
+Depends on: c62c51c04ae22f1d9d85f76caf200c625c2e2ad0
