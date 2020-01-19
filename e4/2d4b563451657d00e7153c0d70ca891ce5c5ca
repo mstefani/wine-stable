@@ -1,0 +1,2 @@
+Fixes: [47101] Multiple 64-bit game and application crash reporting tools need x86_64 'ntdll.RtlCaptureStackBackTrace' implementation
+	https://bugs.winehq.org/show_bug.cgi?id=47101
