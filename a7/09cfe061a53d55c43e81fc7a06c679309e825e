@@ -1,0 +1,2 @@
+Fixes: [41936] The Witcher 2: Assassins of Kings - menus and subtitles rendered incorrectly (with built-in d3dx9)
+	https://bugs.winehq.org/show_bug.cgi?id=41936
