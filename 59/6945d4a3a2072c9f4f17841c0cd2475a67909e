@@ -1,0 +1,3 @@
+Fixes: [34666] In The Adventures Of Lomax some graphic elements flicker, disappear or are garbled
+	https://bugs.winehq.org/show_bug.cgi?id=34666
+Depends on: ae2696c992a0bf0971b8b2e6df847bea51f8d3c4
