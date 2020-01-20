@@ -1,0 +1,2 @@
+Fixes: [36388] Problems with Russian localization in page setup dialog
+	https://bugs.winehq.org/show_bug.cgi?id=36388
