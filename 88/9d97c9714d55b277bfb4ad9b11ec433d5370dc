@@ -1,0 +1,3 @@
+Fixes: [46972] Adobe DNG Converter 11.2+ runs into Call to unimplemented function api-ms-win-core-winrt-error-l1-1-0.dll.GetRestrictedErrorInfo
+	https://bugs.winehq.org/show_bug.cgi?id=46972
+Depends on: c1e73583111f83d03898f73c9c2283040dab8638
