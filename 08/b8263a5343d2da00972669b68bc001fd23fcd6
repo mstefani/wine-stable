@@ -1,0 +1,3 @@
+Fixes: [46174] Multiple apps (Halo Online Voice Chat, Discord, Miro Realtimeboard) crashes on unimplemented function qwave.dll.QOSCreateHandle
+	https://bugs.winehq.org/show_bug.cgi?id=46174
+Fixes regression: 73c0ec29eb6429f023060d870f198a9395d8db23
