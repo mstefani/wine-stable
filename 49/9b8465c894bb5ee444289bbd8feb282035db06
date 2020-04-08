@@ -1,0 +1,2 @@
+Fixes: [11998] NEXON client installers using embedded IE browser control: buttons don't respond to click (Lunia Senki, Combat Arms, War Rock)
+	https://bugs.winehq.org/show_bug.cgi?id=11998
