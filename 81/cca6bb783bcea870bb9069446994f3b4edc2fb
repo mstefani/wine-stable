@@ -1,0 +1,2 @@
+Fixes: [48561] Cadence Allegro Professional 16.6 crashes at startup
+	https://bugs.winehq.org/show_bug.cgi?id=48561
