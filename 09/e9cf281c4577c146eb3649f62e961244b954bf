@@ -1,0 +1,2 @@
+Fixes: [46735] Multiple applications need Direct3DShaderValidatorCreate9() implementation (The Sims 2 demo, Armed Assault)
+	https://bugs.winehq.org/show_bug.cgi?id=46735
