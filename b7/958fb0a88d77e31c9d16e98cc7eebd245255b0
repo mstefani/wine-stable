@@ -1,0 +1,2 @@
+Fixes: [36059] Multiple Steam games fail to install DirectX runtime prerequisite, resulting in repeated install attempt on startup ('xinput1_3.dll' locked by client)
+	https://bugs.winehq.org/show_bug.cgi?id=36059
