@@ -1,0 +1,2 @@
+Fixes: [48491] _searchenv & co do not understand quoted directories
+	https://bugs.winehq.org/show_bug.cgi?id=48491
