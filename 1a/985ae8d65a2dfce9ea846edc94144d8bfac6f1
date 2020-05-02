@@ -1,0 +1,2 @@
+Fixes: [45049] Multiple programs need d2d1 CreateRoundedRectangleGeometry (playchessV7, Paint.Net 4.*)
+	https://bugs.winehq.org/show_bug.cgi?id=45049
