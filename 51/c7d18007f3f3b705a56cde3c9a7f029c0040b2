@@ -1,0 +1,2 @@
+Fixes: [48371] Home Designer Suite 21.3.1.1x64 reports "Error #272000009 A serious error occurred (SEH)."
+	https://bugs.winehq.org/show_bug.cgi?id=48371
