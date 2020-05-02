@@ -1,0 +1,2 @@
+Fixes: [48018] QuickTime 7.0.x installer fails, 'rundll32.exe "C:\Program Files (x86)\QuickTime\QTSystem\QTJava.dll,QTPostInstallProc"' crashes due to invalid cdecl dll entry
+	https://bugs.winehq.org/show_bug.cgi?id=48018
