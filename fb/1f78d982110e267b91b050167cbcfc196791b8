@@ -1,0 +1,2 @@
+Fixes: [48338] DIB images with bpp <= 8 get wrong palette when converted to GpBitmap
+	https://bugs.winehq.org/show_bug.cgi?id=48338
