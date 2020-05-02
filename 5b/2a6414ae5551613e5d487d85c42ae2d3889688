@@ -1,0 +1,2 @@
+Fixes: [46005] Multiple games and applications fail due to missing interface proxy information in registry (oleautomation/dual interfaces referenced in coclass section inside of library block)
+	https://bugs.winehq.org/show_bug.cgi?id=46005
