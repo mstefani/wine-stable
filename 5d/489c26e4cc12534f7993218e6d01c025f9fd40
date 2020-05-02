@@ -1,0 +1,2 @@
+Fixes: [48571] Firefox 72.0.* crashes on every tab (unless dwrite is disabled)
+	https://bugs.winehq.org/show_bug.cgi?id=48571
