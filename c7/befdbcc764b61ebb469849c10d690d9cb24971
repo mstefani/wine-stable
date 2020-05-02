@@ -1,0 +1,2 @@
+Fixes: [48480] dlls/krnl386.exe16 - thunk.c argument logic incorrect for CallProcEx32W16
+	https://bugs.winehq.org/show_bug.cgi?id=48480
