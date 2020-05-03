@@ -1,0 +1,2 @@
+Fixes: [48577] DISPLAYCONFIG_VIDEO_OUTPUT_TECHNOLOGY and other enums are the wrong size
+	https://bugs.winehq.org/show_bug.cgi?id=48577
