@@ -1,0 +1,2 @@
+Fixes: [48580] Discord connecting to voice needs unimplemented function qwave.dll.QOSAddSocketToFlow
+	https://bugs.winehq.org/show_bug.cgi?id=48580
