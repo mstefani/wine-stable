@@ -1,0 +1,2 @@
+Fixes: [48735] Wine builtin services.exe process_send_command: OVERLAPPED struct for control pipe has uninitialized Offset and OffsetHigh fields
+	https://bugs.winehq.org/show_bug.cgi?id=48735
