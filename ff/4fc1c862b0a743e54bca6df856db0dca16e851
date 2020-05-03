@@ -1,0 +1,2 @@
+Fixes: [48694] The Bat! (64bit) crashes right after start
+	https://bugs.winehq.org/show_bug.cgi?id=48694
