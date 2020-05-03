@@ -1,0 +1,2 @@
+Fixes: [48510] Lotus Organizer 97 crashes when selecting a Backup folder using 'Browse' button
+	https://bugs.winehq.org/show_bug.cgi?id=48510
