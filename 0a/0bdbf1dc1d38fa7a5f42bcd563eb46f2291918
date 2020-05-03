@@ -1,0 +1,3 @@
+Fixes: [48635] Asuka 120% Return BURNING Fest: Crashes after character selection.
+	https://bugs.winehq.org/show_bug.cgi?id=48635
+Depends on: e28638afccdfda3ee44121405d9097d201b61445
