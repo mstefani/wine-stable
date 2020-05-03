@@ -1,0 +1,3 @@
+Fixes: [48723] Torchlight - Loading times are excessively long
+	https://bugs.winehq.org/show_bug.cgi?id=48723
+Fixes regression: f48ea297268e832c93a22fb5b92f73620c717280
