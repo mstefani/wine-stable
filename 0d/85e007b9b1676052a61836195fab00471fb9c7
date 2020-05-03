@@ -1,0 +1,2 @@
+Fixes: [48569] Infinite drag & drop loop crashes WinSCP
+	https://bugs.winehq.org/show_bug.cgi?id=48569
