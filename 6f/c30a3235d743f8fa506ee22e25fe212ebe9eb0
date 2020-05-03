@@ -1,0 +1,2 @@
+Fixes: [48646] QQMusicAgent crashes when started after installation
+	https://bugs.winehq.org/show_bug.cgi?id=48646
