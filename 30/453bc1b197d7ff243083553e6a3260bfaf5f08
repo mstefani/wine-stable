@@ -1,0 +1,2 @@
+Fixes: [48484] winecfg doesn't allow disabling Desktop Integration for Downloads
+	https://bugs.winehq.org/show_bug.cgi?id=48484
