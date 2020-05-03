@@ -1,0 +1,3 @@
+Fixes: [48594] AnyDesk crashes directly on startup (low WORD of instance handle must be ignored when looking up window classes)
+	https://bugs.winehq.org/show_bug.cgi?id=48594
+Depends on: e2c0f51312b367989def1c4dd850aac796bd0943
