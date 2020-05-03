@@ -1,0 +1,2 @@
+Fixes: [48387] User shared data area should have NumberOfPhysicalPages field filled in (used by Detroit: Become Human)
+	https://bugs.winehq.org/show_bug.cgi?id=48387
