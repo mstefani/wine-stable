@@ -1,0 +1,3 @@
+Fixes: [48557] Multiple installers crash (Hot Wired, Croc installer) : Setup is unable to initialize  the language dialogbox: Error 106
+	https://bugs.winehq.org/show_bug.cgi?id=48557
+Fixes regression: 9fba161dfd842d6bd15d713496cacdbf2cdecf46
