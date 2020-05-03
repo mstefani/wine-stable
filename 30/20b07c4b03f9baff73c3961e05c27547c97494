@@ -1,0 +1,2 @@
+Fixes: [48669] iphlpapi.NotifyUnicastIpAddressChange() should call the callback initially if requested (required for Far Cry 5 online mode)
+	https://bugs.winehq.org/show_bug.cgi?id=48669
