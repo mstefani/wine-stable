@@ -1,0 +1,3 @@
+Fixes: [48664] kernel32:process - Intermittent test_Toolhelp() failure
+	https://bugs.winehq.org/show_bug.cgi?id=48664
+Fixes regression: a0b6bf86f74438c574f7165ab220060681bb66cd
