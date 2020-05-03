@@ -1,0 +1,2 @@
+Fixes: [48639] Shrew Soft VPN client needs setupapi.dll.SetupDiGetSelectedDriverA()
+	https://bugs.winehq.org/show_bug.cgi?id=48639
