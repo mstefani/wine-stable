@@ -1,0 +1,2 @@
+Fixes: [48706] Wineconsole freezes when restoring from minimized to maximized window
+	https://bugs.winehq.org/show_bug.cgi?id=48706
