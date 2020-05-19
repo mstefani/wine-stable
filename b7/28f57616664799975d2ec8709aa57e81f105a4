@@ -1,0 +1,3 @@
+Fixes: [48846] msvcr90/tests/msvcr90.c: error: variadic functions must use the base AAPCS variant
+	https://bugs.winehq.org/show_bug.cgi?id=48846
+Fixes regression: 0a89a699135802b083d142130d3b0ef618485478
