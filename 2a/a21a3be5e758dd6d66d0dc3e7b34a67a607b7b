@@ -1,0 +1,2 @@
+Fixes: [48495] XCP-ng Center v8.x (.NET 4.6 app) can't connect to server with self-signed certificate
+	https://bugs.winehq.org/show_bug.cgi?id=48495
