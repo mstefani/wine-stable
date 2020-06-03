@@ -1,0 +1,2 @@
+Fixes: [31890] Multiple applications need IAudioEndpointVolume::GetMasterVolumeLevelScalar method implementation (Cisco IP Communicator, Cairo Shell v0.3.x)
+	https://bugs.winehq.org/show_bug.cgi?id=31890
