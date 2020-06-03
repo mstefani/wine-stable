@@ -1,0 +1,3 @@
+Fixes: [8439] Multiple Microsoft product installers fail due missing shell app path expansion (Visual Studio .NET 2002, 2003, Visual Foxpro 9.0)
+	https://bugs.winehq.org/show_bug.cgi?id=8439
+Depends on: 06f1f53c4c11c972561de91e76cd5ea6dc5c2ced
