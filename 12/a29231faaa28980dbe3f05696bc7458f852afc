@@ -1,0 +1,2 @@
+Fixes: [48739] ConEmu (Windows console emulator) v19.10.12 fails to set Wininet's INTERNET_OPTION_IGNORE_OFFLINE and shows error dialog at startup
+	https://bugs.winehq.org/show_bug.cgi?id=48739
