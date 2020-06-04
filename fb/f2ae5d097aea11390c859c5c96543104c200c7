@@ -1,0 +1,2 @@
+Fixes: [48683] iTunes v12.10.4.2 crashes on unimplemented function wmvcore.dll.WMIsContentProtected when adding folders to directory scan
+	https://bugs.winehq.org/show_bug.cgi?id=48683
