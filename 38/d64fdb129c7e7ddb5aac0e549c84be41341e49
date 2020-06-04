@@ -1,0 +1,3 @@
+Fixes: [48814] Microsoft Word 6.0 for Windows installer crashes after wine-4.8-247-g0d7d0427d0
+	https://bugs.winehq.org/show_bug.cgi?id=48814
+Fixes regression: 0d7d0427d0a1b8b8e4b84019db4de940cf58c01f
