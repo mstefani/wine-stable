@@ -1,0 +1,3 @@
+Fixes: [48593] Multiple games play only one frame of video (Fable: The Lost Chapters, Audiosurf, Dark Souls 2, Oddworld: Munch's Oddysee)
+	https://bugs.winehq.org/show_bug.cgi?id=48593
+Depends on: 38c50751fe0a5ca104ca17728a3db95d95900243
