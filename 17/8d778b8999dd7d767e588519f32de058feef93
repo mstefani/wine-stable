@@ -1,0 +1,2 @@
+Fixes: [48801] Multiple games crash on unimplemented function d3dx11_43.dll.D3DX11GetImageInfoFromFile (Assetto Corsa 1.14.x, Project Cars)
+	https://bugs.winehq.org/show_bug.cgi?id=48801
