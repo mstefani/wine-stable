@@ -1,0 +1,3 @@
+Fixes: [48762] IExplore immediately crashes on www.msnbc.com with a failed assertion
+	https://bugs.winehq.org/show_bug.cgi?id=48762
+Depends on: 79cde059ea2497194dfdf39140295fbf731b286b
