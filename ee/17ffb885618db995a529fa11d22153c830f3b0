@@ -1,0 +1,3 @@
+Fixes: [48732] How to Survive crashes on start (fullscreen mode)
+	https://bugs.winehq.org/show_bug.cgi?id=48732
+Fixes regression: 54d82d80d738cddb95f925189b8937e37a1a85c9
