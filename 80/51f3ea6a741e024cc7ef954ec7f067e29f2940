@@ -1,0 +1,2 @@
+Fixes: [48750] Few missing DirectSound3D Algorithms GUID Defs
+	https://bugs.winehq.org/show_bug.cgi?id=48750
