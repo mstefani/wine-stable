@@ -1,0 +1,3 @@
+Fixes: [48844] Magical Scramble Demo 1.20P shows white boxes instead of pictures.
+	https://bugs.winehq.org/show_bug.cgi?id=48844
+Depends on: 8bb3ebced4a7bd11ad929eafe7d7ffb3a6e96463
