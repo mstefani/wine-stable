@@ -1,2 +1,0 @@
-Fixes: [48082] Visual C++ Express 2005 needs shell32.PathResolveW implementation (or fake success)
-	https://bugs.winehq.org/show_bug.cgi?id=48082

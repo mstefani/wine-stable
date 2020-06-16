@@ -1,2 +1,0 @@
-Fixes: [47986] R-Studio (file recovery tool) wants ntoskrnl.exe.IoCreateUnprotectedSymbolicLink
-	https://bugs.winehq.org/show_bug.cgi?id=47986

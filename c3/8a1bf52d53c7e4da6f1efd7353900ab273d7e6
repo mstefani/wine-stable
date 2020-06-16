@@ -1,3 +1,0 @@
-Fixes: [48549] Arma Cold War Assault: Cursor stuck at low fps since Wine 5.0-rc6
-	https://bugs.winehq.org/show_bug.cgi?id=48549
-Fixes regression: 8d052561724f9c8d9e7770964bfaebdd01e98e60

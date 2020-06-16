@@ -1,2 +1,0 @@
-Fixes: [46981] winetricks -q --verify dotnet461 crashes under win64
-	https://bugs.winehq.org/show_bug.cgi?id=46981

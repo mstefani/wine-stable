@@ -1,2 +1,0 @@
-Fixes: [38817] FXCM Trading Station II installer reports 'OLE error 80004001' when running as 'Windows Vista' or higher ('ITaskbarList3::ThumbBarSetImageList' is a stub)
-	https://bugs.winehq.org/show_bug.cgi?id=38817

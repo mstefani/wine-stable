@@ -1,2 +1,0 @@
-Fixes: [47075] 32-bit LAVFilters 0.74.x installer fails to register 64-bit AX codec/filters in Wow64 environment (32-bit regsvr32.exe needs to support 64-bit dll registration and vice versa by re-exec with proper bitness)
-	https://bugs.winehq.org/show_bug.cgi?id=47075

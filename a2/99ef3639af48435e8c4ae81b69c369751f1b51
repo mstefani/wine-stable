@@ -1,3 +1,0 @@
-Fixes: [48088] Wrong color mapping with client-side graphics on 256-color X server
-	https://bugs.winehq.org/show_bug.cgi?id=48088
-Fixes regression: 33ac850c80634c891b0c157bbffa612f70954a40

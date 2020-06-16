@@ -1,2 +1,0 @@
-Fixes: [42046] VSDC Video Editor. Crashes in ole32 when opening.
-	https://bugs.winehq.org/show_bug.cgi?id=42046

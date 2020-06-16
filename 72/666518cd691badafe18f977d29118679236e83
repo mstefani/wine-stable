@@ -1,3 +1,0 @@
-Fixes: [20465] Brothers In Arms Hell's Highway : Setup asks for DVD for every .cab file (SetupPromptForDiskA/W should only show a dialog if the file doesn't exist)
-	https://bugs.winehq.org/show_bug.cgi?id=20465
-Comment: Replaced swprintf

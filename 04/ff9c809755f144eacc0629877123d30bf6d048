@@ -1,2 +1,0 @@
-Fixes: [48242] IXMLDOMDocument_load() paths aren't URL-unescaped (Microsoft Document Explorer 2008 startup error)
-	https://bugs.winehq.org/show_bug.cgi?id=48242

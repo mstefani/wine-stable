@@ -1,2 +1,0 @@
-Fixes: [47935] Nextiva: Logging in fails with "Client is unable to connect to the server."
-	https://bugs.winehq.org/show_bug.cgi?id=47935

@@ -1,3 +1,0 @@
-Fixes: [46417] Abiword 2.6.8 comboboxes should have a white background color
-	https://bugs.winehq.org/show_bug.cgi?id=46417
-Depends on: e95873997f09956f8ba49f26bc186803f8bed0ca

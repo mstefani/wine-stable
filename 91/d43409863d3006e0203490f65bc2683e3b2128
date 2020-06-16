@@ -1,2 +1,0 @@
-Fixes: [47459] ListBox LB_SETSEL doesn't scroll to newly selected item
-	https://bugs.winehq.org/show_bug.cgi?id=47459

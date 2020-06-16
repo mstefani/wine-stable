@@ -1,2 +1,0 @@
-Fixes: [47820] Magic: The Gathering Arena installer needs powershell.exe (cannot find it)
-	https://bugs.winehq.org/show_bug.cgi?id=47820

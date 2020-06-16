@@ -1,2 +1,0 @@
-Fixes: [43817] Multiple .NET applications (Chime, DxO Photolab 2 trial) crash, need  RegisterApplicationRecoveryCallback  to return S_OK
-	https://bugs.winehq.org/show_bug.cgi?id=43817

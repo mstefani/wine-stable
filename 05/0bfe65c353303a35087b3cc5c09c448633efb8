@@ -1,2 +1,0 @@
-Fixes: [48016] Multiple applications need shcore.dll.GetScaleFactorForMonitor stub (Karafun player, Sync)
-	https://bugs.winehq.org/show_bug.cgi?id=48016

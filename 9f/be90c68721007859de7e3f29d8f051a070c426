@@ -1,2 +1,0 @@
-Fixes: [48314] Building wine on CentOS7 fails due to lack of libkrb5
-	https://bugs.winehq.org/show_bug.cgi?id=48314

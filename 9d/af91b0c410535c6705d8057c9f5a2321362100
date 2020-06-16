@@ -1,2 +1,0 @@
-Fixes: [45031] HotS - taking screenshot causes client crash, needs d3dx11_42.dll.D3DX11SaveTextureToFileW
-	https://bugs.winehq.org/show_bug.cgi?id=45031

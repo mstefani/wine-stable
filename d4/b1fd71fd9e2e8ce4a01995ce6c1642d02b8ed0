@@ -1,2 +1,0 @@
-Fixes: [25728] UFO: Extraterrestrials Gold - crash at start caused by wine's built-in dsound/directmusic
-	https://bugs.winehq.org/show_bug.cgi?id=25728

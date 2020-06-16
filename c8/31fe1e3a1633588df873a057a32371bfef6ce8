@@ -1,2 +1,0 @@
-Fixes: [47956] IGMP source specific multicast does not create join requests for source
-	https://bugs.winehq.org/show_bug.cgi?id=47956

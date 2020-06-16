@@ -1,2 +1,0 @@
-Fixes: [47790] putty.exe displays an error at startup when placed in a path with accented characters.
-	https://bugs.winehq.org/show_bug.cgi?id=47790

@@ -1,2 +1,0 @@
-Fixes: [39692] 64-bit dlls/msdaps/row_server_p.c generates build warnings (discarded "const" qualifier)
-	https://bugs.winehq.org/show_bug.cgi?id=39692

@@ -1,2 +1,0 @@
-Fixes: [48358] Dell Latitude E6440 BIOS updater crashes on unimplemented function ntoskrnl.exe.KeSetImportanceDpc
-	https://bugs.winehq.org/show_bug.cgi?id=48358

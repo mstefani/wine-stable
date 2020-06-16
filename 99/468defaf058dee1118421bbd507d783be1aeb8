@@ -1,5 +1,0 @@
-Fixes: [48239] MTGA Launcher fails to download the game (regression)
-	https://bugs.winehq.org/show_bug.cgi?id=48239
-Fixes regression: 2c68c530afbe704698f5a38674e7c72806c7c07a
-Depends on: 2706b94dd011b08113f541fe123c251ffd751734
-Comment: Test failure

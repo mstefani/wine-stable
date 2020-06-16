@@ -1,2 +1,0 @@
-Fixes: [25264] treeview wstr overrun in TVN_GETDISPINFOW (ExamXML crashes when opening an XML file)
-	https://bugs.winehq.org/show_bug.cgi?id=25264

@@ -1,2 +1,0 @@
-Fixes: [47979] NtCreateFile incorrectly returns STATUS_OBJECT_NAME_NOT_FOUND when RootDirectory is populated
-	https://bugs.winehq.org/show_bug.cgi?id=47979

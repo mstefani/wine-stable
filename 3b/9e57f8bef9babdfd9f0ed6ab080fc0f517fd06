@@ -1,2 +1,0 @@
-Fixes: [47433] Accel World vs. Sword Art Online needs WTSRegisterSessionNotificationEx() to return true.
-	https://bugs.winehq.org/show_bug.cgi?id=47433

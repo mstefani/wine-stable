@@ -1,3 +1,0 @@
-Fixes: [44408] Tetris for Windows has wrong colors for the game pieces and the score box
-	https://bugs.winehq.org/show_bug.cgi?id=44408
-Fixes regression: a60144ee74e1db170f04edeb8cfd3a5a17d36d46

@@ -1,8 +1,0 @@
-Fixes: [16808] Password Safe crashes with page fault when renaming entries
-	https://bugs.winehq.org/show_bug.cgi?id=16808
-Depends on: 59bb622088b967aef7d1cdebe0ac6a2fbd5a84f3
-Depends on: 1fa32f9a5396934c6788ac02402cccc020237bf4
-Depends on: 565b0f5d5079eeb17dbf3aaa22088d022428cb07
-Depends on: 8fd0ecc6cd0bf99803d8e8ac1a520d93b53b52f9
-Depends on: 5e2e794ad6ee346f0f8cfc1f85556105d680f5a4
-Depends on: 6fb210d7b4fed68aed31fda16a9b395c58794720

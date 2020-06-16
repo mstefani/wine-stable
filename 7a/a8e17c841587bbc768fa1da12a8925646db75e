@@ -1,3 +1,0 @@
-Fixes: [30506] GdipGraphicsClear() needs to overwrite pixels, not alpha blend (Text misrendered in Brain Workshop)
-	https://bugs.winehq.org/show_bug.cgi?id=30506
-Depends on: b7aa42c0086dea2d1bb1ecaff6d1be011cc66c31

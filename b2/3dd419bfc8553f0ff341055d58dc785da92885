@@ -1,2 +1,0 @@
-Fixes: [12406] Microsoft Document Explorer 2008 crashes when using MS Help 2 URL from command line (ieframe's WebBrowser COM object doesn't support aggregation)
-	https://bugs.winehq.org/show_bug.cgi?id=12406

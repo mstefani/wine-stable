@@ -1,3 +1,0 @@
-Fixes: [41639] Wine with freetype 2.7 causes font rendering issues
-	https://bugs.winehq.org/show_bug.cgi?id=41639
-Depends on: 9d92acaa56a7649840adfa0485d632e6b76a0d9f
