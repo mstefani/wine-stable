@@ -1,0 +1,2 @@
+Fixes: [48611] Cairo Shell v0.3.x (.NET 4.7 app) crashes due to missing 'HKCU\\Software\\Microsoft\\Windows NT\\CurrentVersion\\WinLogon\\Shell' registry sub-key
+	https://bugs.winehq.org/show_bug.cgi?id=48611
