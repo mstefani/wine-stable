@@ -1,0 +1,3 @@
+Fixes: [41559] (winecfg) Add ability to change windows version via command line
+	https://bugs.winehq.org/show_bug.cgi?id=41559
+Depends on: 90c0123533377e9a2a7f27762ac0d514e88b5b1a
