@@ -1,0 +1,2 @@
+Fixes: [48740] ConEmu is constantly loosing focus
+	https://bugs.winehq.org/show_bug.cgi?id=48740
