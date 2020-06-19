@@ -1,0 +1,2 @@
+Fixes: [48974] Multiple MSI-based installers show 'newBinaryXX' text instead of bitmap on button controls (missing support for 'msidbControlAttributesBitmap')
+	https://bugs.winehq.org/show_bug.cgi?id=48974
