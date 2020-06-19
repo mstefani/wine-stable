@@ -1,0 +1,2 @@
+Fixes: [45839] Qt 5.8 SDK installer needs 'IFileSystem.MoveFile' method implementation for maintenance tool creation step
+	https://bugs.winehq.org/show_bug.cgi?id=45839
