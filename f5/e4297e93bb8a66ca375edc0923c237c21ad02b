@@ -1,0 +1,2 @@
+Fixes: [46949] DDraw games using older windowed mode wrappers such as DirectX Windower Embedded v2.3/D3D Windower v1.x crash (ddraw_palette_vtbl and ddraw_surface{1,2,3,4,7}_vtbl need to be writable)
+	https://bugs.winehq.org/show_bug.cgi?id=46949
