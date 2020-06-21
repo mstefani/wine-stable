@@ -1,0 +1,3 @@
+Fixes: [49005] Listview header occasionally fails to redraw when list is scrolled vertically
+	https://bugs.winehq.org/show_bug.cgi?id=49005
+Fixes regression: 5b397df63147ec83a929ba997b395687e6c4c10d
