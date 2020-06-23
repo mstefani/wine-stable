@@ -1,0 +1,3 @@
+Fixes: [49115] Hitman (2016) and Hitman 2 (2018) fail to launch in DX11 mode
+	https://bugs.winehq.org/show_bug.cgi?id=49115
+Fixes regression: 97ef647837dd1d1ca538cd984a823a88d3af4354
