@@ -1,0 +1,3 @@
+Fixes: [30814] Age of Empires II scrolling gets stuck after Alt-Tab away and back
+	https://bugs.winehq.org/show_bug.cgi?id=30814
+Fixes regression: 36c76dcc24c1f66ccbfeb55495da4794c74dc868
