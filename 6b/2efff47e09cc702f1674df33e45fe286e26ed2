@@ -1,0 +1,2 @@
+Fixes: [49175] Duplicated checking canonicalized inside kernelbase/path.c
+	https://bugs.winehq.org/show_bug.cgi?id=49175
