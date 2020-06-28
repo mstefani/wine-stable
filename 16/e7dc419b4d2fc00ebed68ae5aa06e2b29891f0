@@ -1,0 +1,3 @@
+Fixes: [49173] widl generates invalid code for Gecko's ISimpleDOM.idl
+	https://bugs.winehq.org/show_bug.cgi?id=49173
+Depends on: 4fd8190ef1ba37c22904ccb499aea32cc6c0c0a3
