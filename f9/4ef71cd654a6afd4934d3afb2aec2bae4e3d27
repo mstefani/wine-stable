@@ -1,0 +1,4 @@
+Fixes: [49198] Denuvo Anti-Cheat 'denuvo-anti-cheat.sys' crashes in entry point (incorrect page protection restored during relocation processing)
+	https://bugs.winehq.org/show_bug.cgi?id=49198
+Fixes regression: 22dfb0df10b44d1c21b3d04b59312670c2318431
+Depends on: 22dfb0df10b44d1c21b3d04b59312670c2318431
