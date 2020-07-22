@@ -1,0 +1,2 @@
+Fixes: [48471] Mismatching behavior of GetEnvironmentVariableW for empty / long values
+	https://bugs.winehq.org/show_bug.cgi?id=48471

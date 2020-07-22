@@ -1,0 +1,3 @@
+Fixes: [49146] Hearts of Iron IV needs api-ms-win-crt-private-l1-1-0.dll._o_sin
+	https://bugs.winehq.org/show_bug.cgi?id=49146
+Depends on: 89ca556ac54606879b788880e522f9da65196f63

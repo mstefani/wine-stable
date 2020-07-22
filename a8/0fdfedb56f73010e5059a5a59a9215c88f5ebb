@@ -1,0 +1,2 @@
+Fixes: [48186] every wine process shows a definite leak in dlls/ntdll/env.c
+	https://bugs.winehq.org/show_bug.cgi?id=48186
