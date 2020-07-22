@@ -1,0 +1,4 @@
+Fixes: [47083] MySQL 8.0.x community installer (.NET 4.5.x app) fails to configure mysql, needs support for WS_AF_INET6 in 'iphlpapi.GetExtendedTcpTable'
+	https://bugs.winehq.org/show_bug.cgi?id=47083
+Depends on: 87875e12bcdca659e578849fa62585b1b5316a50
+Depends on: 69649476618b4c064d3a5e204cc0e45858020fb7
