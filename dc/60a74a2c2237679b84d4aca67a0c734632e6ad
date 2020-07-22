@@ -1,0 +1,2 @@
+Fixes: [47999] Gif pictures stored in PE files are not loaded into HTML web pages via Res protocol
+	https://bugs.winehq.org/show_bug.cgi?id=47999
