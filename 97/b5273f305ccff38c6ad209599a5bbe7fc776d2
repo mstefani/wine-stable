@@ -1,0 +1,2 @@
+Fixes: [39534] Bad Mojo Redux crashes on start (ddraw1_vtbl and ddraw_surface1_vtbl need to be writable)
+	https://bugs.winehq.org/show_bug.cgi?id=39534

@@ -1,0 +1,2 @@
+Fixes: [49142] Horizontal mouse scroll events (X11 buttons 6 and 7) should not be translated to back/forward events
+	https://bugs.winehq.org/show_bug.cgi?id=49142

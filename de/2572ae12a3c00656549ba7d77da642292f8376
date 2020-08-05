@@ -1,0 +1,2 @@
+Fixes: [48731] Just Cause crashes while loading level with builtin d3dx9_26
+	https://bugs.winehq.org/show_bug.cgi?id=48731

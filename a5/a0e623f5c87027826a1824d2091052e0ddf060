@@ -1,0 +1,2 @@
+Fixes: [48960] NtQueryDirectoryFile incorrectly returns STATUS_NO_MORE_FILES when it encounters an ignored entry
+	https://bugs.winehq.org/show_bug.cgi?id=48960

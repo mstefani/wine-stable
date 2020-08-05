@@ -1,0 +1,2 @@
+Fixes: [48803] FITietokanta crashes every time after ADD-button is pressed
+	https://bugs.winehq.org/show_bug.cgi?id=48803

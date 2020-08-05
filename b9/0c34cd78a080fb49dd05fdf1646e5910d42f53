@@ -1,0 +1,4 @@
+Fixes: [48490] Restored minimized windows have wrong height
+	https://bugs.winehq.org/show_bug.cgi?id=48490
+Fixes regression: 118f333ac233c69399a01424a6218d130983d644
+Depends on: df0d8ac5be7c8e22175674d6554b53156bfe9a91

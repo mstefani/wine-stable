@@ -1,0 +1,2 @@
+Fixes: [48816] The explorer doesn't support '/cd' option
+	https://bugs.winehq.org/show_bug.cgi?id=48816

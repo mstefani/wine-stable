@@ -1,0 +1,2 @@
+Fixes: [19239] Multiple applications crash with division by zero on edit control with zero line height (eBay Turbo Lister, Clarin TX control wrapper)
+	https://bugs.winehq.org/show_bug.cgi?id=19239

@@ -1,0 +1,3 @@
+Fixes: [47621] Command link buttons in task dialog are displayed in wrong style
+	https://bugs.winehq.org/show_bug.cgi?id=47621
+Depends on: 01fbe206174c0113f947ba24129e88365de7d643

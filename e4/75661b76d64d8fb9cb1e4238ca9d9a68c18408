@@ -1,0 +1,3 @@
+Fixes: [48932] Wine does not display any windows unless `xrandr --auto` has been run
+	https://bugs.winehq.org/show_bug.cgi?id=48932
+Fixes regression: be54adcffc249a44cb52c24320a7ad3db758ba54

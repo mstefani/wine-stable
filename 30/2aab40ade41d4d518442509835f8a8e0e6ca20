@@ -1,0 +1,2 @@
+Fixes: [29806] Hype The Time Quest: DirectX Media (DXM) v6.0 runtime installer fails (advpack.ExecuteCab should extract the INF from CAB before running the install part)
+	https://bugs.winehq.org/show_bug.cgi?id=29806
