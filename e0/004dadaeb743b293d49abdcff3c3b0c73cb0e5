@@ -1,0 +1,2 @@
+Fixes: [45536] Total Commander 9.x crashes on unimplemented function usp10.dll.ScriptGetFontAlternateGlyphs when Wine is not detected via named export 'ntdll.wine_get_version'
+	https://bugs.winehq.org/show_bug.cgi?id=45536
