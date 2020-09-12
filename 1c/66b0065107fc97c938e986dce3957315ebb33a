@@ -1,0 +1,2 @@
+Fixes: [7102] Microsoft Word 6.0 for Windows: copy/paste causes crash on unimplemented function ole2.dll16.OLEISCURRENTCLIPBOARD
+	https://bugs.winehq.org/show_bug.cgi?id=7102
