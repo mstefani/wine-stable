@@ -1,0 +1,2 @@
+Fixes: [49178] Spitfire Audio 3.x crashes on start due to 'WTSQuerySessionInformationA' stub not initializing out parameters
+	https://bugs.winehq.org/show_bug.cgi?id=49178
