@@ -1,0 +1,2 @@
+Fixes: [44925] Multiple kernel drivers require 'ntoskrnl.exe.ExCreateCallback' stub to return STATUS_SUCCESS (StarForce v3, TrackMania Nations ESWC. Denuvo Anti-Cheat)
+	https://bugs.winehq.org/show_bug.cgi?id=44925
