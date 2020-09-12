@@ -1,0 +1,2 @@
+Fixes: [38020] Foxit Reader 6.12 crashes on unimplemented function msasn1.dll.ASN1_CreateModule during validation of digital signatures
+	https://bugs.winehq.org/show_bug.cgi?id=38020
