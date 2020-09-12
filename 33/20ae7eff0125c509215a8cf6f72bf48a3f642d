@@ -1,0 +1,2 @@
+Fixes: [26171] BVRP classic phone tools installer reports error 'Insufficient buffer' when trying to install print processor (AddPrintProcessorA stub should be symmetric to AddPrintProcessorW)
+	https://bugs.winehq.org/show_bug.cgi?id=26171
