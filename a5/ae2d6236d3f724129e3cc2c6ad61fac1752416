@@ -1,0 +1,3 @@
+Fixes: [49264] MultiSync installation crashes (needs _Command::get/put_CommandText)
+	https://bugs.winehq.org/show_bug.cgi?id=49264
+Depends on: 6255b031af691988f96c4e648c4f0975575f0487
