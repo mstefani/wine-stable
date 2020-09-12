@@ -1,0 +1,2 @@
+Fixes: [49179] winetest.exe fails to run on windows arm (surface rt / armv7): procedure entry point NtCurrentTeb could not be located in the dynamic link library C:\Users\User\Desktop\winetest.exe
+	https://bugs.winehq.org/show_bug.cgi?id=49179
