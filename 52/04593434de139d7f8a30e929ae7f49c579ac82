@@ -1,0 +1,2 @@
+Fixes: [49221] Denuvo Anti-Cheat 'denuvo-anti-cheat.sys' crashes due to unhandled emulation of MSR register reads related to CPU / virtualization features (returning zero value is sufficient)
+	https://bugs.winehq.org/show_bug.cgi?id=49221
