@@ -1,0 +1,2 @@
+Fixes: [49379] Altium Designer 20 crashes on missing d2d1.dll.D2D1CreateDevice
+	https://bugs.winehq.org/show_bug.cgi?id=49379
