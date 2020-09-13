@@ -1,0 +1,2 @@
+Fixes: [48405] Battle.Net Launcher Beta crashes with Windows version set to 10
+	https://bugs.winehq.org/show_bug.cgi?id=48405
