@@ -1,0 +1,2 @@
+Fixes: [48779] Secret Files 3 crashes at launch (needs d3dx9_skin_info_Clone)
+	https://bugs.winehq.org/show_bug.cgi?id=48779
