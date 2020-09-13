@@ -1,0 +1,3 @@
+Fixes: [49272] MultiSync installation crashes (msado15.dll needs {b196b284-bab4-101a-b69c-00aa00341d07} IConnectionPointContainer)
+	https://bugs.winehq.org/show_bug.cgi?id=49272
+Depends on: 765fc5cb319b199d1bd9fe145111ea5951c86696
