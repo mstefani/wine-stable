@@ -1,0 +1,5 @@
+Fixes: [28850] Airstrike (Eagles of WWII): choppy music playback
+	https://bugs.winehq.org/show_bug.cgi?id=28850
+Fixes: [48570] Multiple games (Fable: The Lost Chapters, Oddworld - Munch odissey) does not play WMV cutscenes
+	https://bugs.winehq.org/show_bug.cgi?id=48570
+Fixes regression: f5a1e2bd87754a2822f2eb0e84291d787936d115
