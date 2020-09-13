@@ -1,0 +1,2 @@
+Fixes: [48716] Logos Bible Software - Printer is recognized but will not print (PTOpenProviderEx is a stub)
+	https://bugs.winehq.org/show_bug.cgi?id=48716
