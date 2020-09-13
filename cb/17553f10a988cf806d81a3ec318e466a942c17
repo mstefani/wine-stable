@@ -1,0 +1,2 @@
+Fixes: [49281] FinanceExplorer crashes inside msado15.dll
+	https://bugs.winehq.org/show_bug.cgi?id=49281
