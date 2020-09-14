@@ -1,0 +1,2 @@
+Fixes: [46726] Dirt Rally 2.0 does not use embedded CA cert
+	https://bugs.winehq.org/show_bug.cgi?id=46726
