@@ -1,0 +1,2 @@
+Fixes: [49488] uninitialized bytes in server call from ntdll/server_write_file
+	https://bugs.winehq.org/show_bug.cgi?id=49488
