@@ -1,0 +1,2 @@
+Fixes: [49460] where.exe is missing in wine (affects Waves Central )
+	https://bugs.winehq.org/show_bug.cgi?id=49460
