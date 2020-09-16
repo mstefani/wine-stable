@@ -1,0 +1,2 @@
+Fixes: [48832] Magic The Gathering Online: client does not start due to long file names since 2020-03-25 update
+	https://bugs.winehq.org/show_bug.cgi?id=48832
