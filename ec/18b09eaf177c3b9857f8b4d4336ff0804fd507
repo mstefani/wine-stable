@@ -1,0 +1,2 @@
+Fixes: [49666] Red Dead Redemption 2 requires HEAP flags offset to match Windows
+	https://bugs.winehq.org/show_bug.cgi?id=49666
