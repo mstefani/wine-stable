@@ -1,0 +1,3 @@
+Fixes: [48959] S-Gear 2 installer does not recognize wine as Windows 10
+	https://bugs.winehq.org/show_bug.cgi?id=48959
+Fixes regression: 6719bf2e037b95b8338fae9e660c43e8fadafc7a

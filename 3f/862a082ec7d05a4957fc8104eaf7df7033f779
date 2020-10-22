@@ -1,0 +1,2 @@
+Fixes: [49147] Microsoft Teams 1.3.x crashes on unimplemented function setupapi.dll.CM_Get_Device_Interface_AliasW
+	https://bugs.winehq.org/show_bug.cgi?id=49147

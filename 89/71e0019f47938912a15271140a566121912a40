@@ -1,0 +1,3 @@
+Fixes: [44306] Visual Novel "A Clockwork Ley-Line: The Borderline of Dusk" doesn't work with d3d9
+	https://bugs.winehq.org/show_bug.cgi?id=44306
+Depends on: 61ff6c306d23ce3f2af23cda614231ded4539e65

@@ -1,0 +1,2 @@
+Fixes: [49289] Denuvo Anti-Cheat 'denuvo-anti-cheat.sys' crashes on unimplemented function ntoskrnl.exe.ExRegisterCallback
+	https://bugs.winehq.org/show_bug.cgi?id=49289

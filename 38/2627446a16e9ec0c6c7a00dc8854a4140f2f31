@@ -1,0 +1,2 @@
+Fixes: [49487] ListView control custom draw in report view shows blank item if handler clears uItemState CDIS_SELECTED flag
+	https://bugs.winehq.org/show_bug.cgi?id=49487

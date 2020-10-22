@@ -1,0 +1,2 @@
+Fixes: [49257] Avast Free Antivirus 20.3 crashes before installing due to unimplemented function rpcrt4.dll.RpcIfInqId
+	https://bugs.winehq.org/show_bug.cgi?id=49257

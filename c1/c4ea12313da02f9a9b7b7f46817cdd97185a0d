@@ -1,0 +1,2 @@
+Fixes: [46818] PS4 Remote Play 2.x (.NET 4.x app) crashes on Sign-In PlayStation network (mshtml:HTMLDocument_get_cookie should not fail for 'about:blank')
+	https://bugs.winehq.org/show_bug.cgi?id=46818

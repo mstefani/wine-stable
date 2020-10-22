@@ -1,0 +1,2 @@
+Fixes: [49189] Auslogics Registry Cleaner 8.x crashes and shows "OLE error 80004001" (SetCurrentProcessExplicitAppUserModelID stub needs to return S_OK)
+	https://bugs.winehq.org/show_bug.cgi?id=49189

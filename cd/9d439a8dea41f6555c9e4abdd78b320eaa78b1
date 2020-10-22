@@ -1,0 +1,2 @@
+Fixes: [49620] Tableau Desktop fails to install
+	https://bugs.winehq.org/show_bug.cgi?id=49620

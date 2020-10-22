@@ -1,0 +1,2 @@
+Fixes: [49439] Printing and scanning software for Brother L2540DW fails to install (VBScript parser can't handle a "case else" statement with a comment and no statements to execute)
+	https://bugs.winehq.org/show_bug.cgi?id=49439

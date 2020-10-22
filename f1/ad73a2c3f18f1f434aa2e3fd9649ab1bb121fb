@@ -1,0 +1,2 @@
+Fixes: [49656] SAP GUI - Ws2_32.getaddrinfo crashes with non-standard service (/etc/services)
+	https://bugs.winehq.org/show_bug.cgi?id=49656

@@ -1,0 +1,5 @@
+Fixes: [35903] CED1401 USB function driver fails to install (setupapi should use the original INF path as a default source path when copying files)
+	https://bugs.winehq.org/show_bug.cgi?id=35903
+Depends on: 547d62da228a3846cf058bcc71fc8974356a96b8
+Depends on: 007a9c9726e455fc99d7362e3bafaa89bec11ab4
+Depends on: aa76bec2417551952eec9cd8f5d8302dcb72f5bd
