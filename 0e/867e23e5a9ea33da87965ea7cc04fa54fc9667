@@ -1,0 +1,2 @@
+Fixes: [48668] rFactor2 - Physics thread slower on multiplayer mode
+	https://bugs.winehq.org/show_bug.cgi?id=48668

@@ -1,0 +1,4 @@
+Fixes: [49388] MultiSync installation crashes (msado15.dll needs IConnectionPoint::Advise)
+	https://bugs.winehq.org/show_bug.cgi?id=49388
+Depends on: a0aa5b0f46a83e6582e574fcec0233fdd182dd87
+Depends on: a436833c4157fdc2b399f4a87b132753cc08067f

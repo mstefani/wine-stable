@@ -1,0 +1,2 @@
+Fixes: [49685] Gigabyte "EasyTune" service crashes in wbemprox
+	https://bugs.winehq.org/show_bug.cgi?id=49685

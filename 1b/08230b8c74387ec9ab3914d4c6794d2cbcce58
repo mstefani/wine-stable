@@ -1,0 +1,3 @@
+Fixes: [49662] Wine Internet Explorer crashes on https://[2600::]/
+	https://bugs.winehq.org/show_bug.cgi?id=49662
+Depends on: e03d7ca900d9eed1a78504b96bb7a82f69a6ca05

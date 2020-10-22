@@ -1,0 +1,3 @@
+Fixes: [49570] LVM_FINDITEM should do case-insensitive test for item text
+	https://bugs.winehq.org/show_bug.cgi?id=49570
+Depends on: f6802b7a318a749540e00ca4a68772cc2ac280e5

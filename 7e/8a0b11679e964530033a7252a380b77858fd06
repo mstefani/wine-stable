@@ -1,0 +1,2 @@
+Fixes: [49322] cmudpro334 shows error on unimplemented ITaskbarList::SetOverlayIcon()
+	https://bugs.winehq.org/show_bug.cgi?id=49322
