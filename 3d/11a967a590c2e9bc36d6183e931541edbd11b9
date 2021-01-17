@@ -1,0 +1,2 @@
+Fixes: [21150] Memorex exPressit Label Design Studio 4.x crashes when creating a new project (ieframe 'IOleObject::Advise' is a stub)
+	https://bugs.winehq.org/show_bug.cgi?id=21150
