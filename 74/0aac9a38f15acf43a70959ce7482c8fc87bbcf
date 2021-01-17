@@ -1,0 +1,2 @@
+Fixes: [47570] Builtin Split function not implemented (needed by FotoBizX Installer)
+	https://bugs.winehq.org/show_bug.cgi?id=47570
