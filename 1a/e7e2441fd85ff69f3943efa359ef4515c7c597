@@ -1,0 +1,2 @@
+Fixes: [49728] Appear (a 4K rendering demo) crashes on unimplemented function user32.dll.SetWindowFullScreenState
+	https://bugs.winehq.org/show_bug.cgi?id=49728
