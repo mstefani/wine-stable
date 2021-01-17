@@ -1,0 +1,2 @@
+Fixes: [49805] Pyxel Edit crashes when clicking the "File" dropdown option.
+	https://bugs.winehq.org/show_bug.cgi?id=49805
