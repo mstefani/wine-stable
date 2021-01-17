@@ -1,0 +1,2 @@
+Fixes: [49719] The Bat! v9.2.2.3: The 32bit version and the 64bit version crashed after startup
+	https://bugs.winehq.org/show_bug.cgi?id=49719
