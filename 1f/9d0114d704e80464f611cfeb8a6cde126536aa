@@ -1,0 +1,2 @@
+Fixes: [35782] Tic Tac Toe Game (vbscript) cannot be played (colon used in for loop for placing multiple statements on the same line)
+	https://bugs.winehq.org/show_bug.cgi?id=35782
