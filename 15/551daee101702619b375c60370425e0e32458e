@@ -1,3 +1,4 @@
 Fixes: [49591] Multiple GOG installers display the error message "Out of Global Vars range"
 	https://bugs.winehq.org/show_bug.cgi?id=49591
 Depends on: 1c26b3dc759e7784bf98a2484e4fb5959259e52b
+Depends on: 6d66efa3fee7f529bba6c478e71d54e0d66995f5
