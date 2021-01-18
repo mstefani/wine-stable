@@ -1,0 +1,2 @@
+Fixes: [49820] VBScript fails to parse decimal literals between -1 and 1 without 0 in front
+	https://bugs.winehq.org/show_bug.cgi?id=49820
