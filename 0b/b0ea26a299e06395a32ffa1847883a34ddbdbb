@@ -1,0 +1,3 @@
+Fixes: [49335] Dolphin EasyReader for Windows 6.04 (TTS app) crashes after completing startup wizard (needs IMarkupServices::CreateMarkupPointer method implementation)
+	https://bugs.winehq.org/show_bug.cgi?id=49335
+Depends on: ffbee79c88545a1ff308bc9d9783f4a2d662c718
