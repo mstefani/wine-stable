@@ -1,0 +1,2 @@
+Fixes: [48397] 'cmd.exe /c move file1 file2' doesn't overwrite existing destination file in non-interactive mode
+	https://bugs.winehq.org/show_bug.cgi?id=48397
