@@ -1,0 +1,3 @@
+Fixes: [18670] QIP Infium 2.0 build 9030 crashes on exit (needs a proper implementation of WSACleanup)
+	https://bugs.winehq.org/show_bug.cgi?id=18670
+Depends on: 23dbfaadbb93eea84601d763d303273ab9872f66
