@@ -1,0 +1,2 @@
+Fixes: [49738] "warning: implicit declaration of function ‘strtoumax’" when compiling PuTTY with Winelib
+	https://bugs.winehq.org/show_bug.cgi?id=49738
