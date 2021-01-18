@@ -1,0 +1,3 @@
+Fixes: [49774] macDriver no longer functions within macOS VM
+	https://bugs.winehq.org/show_bug.cgi?id=49774
+Fixes regression: 792521f33b2786cb100cb202dcb4181a579ef3b3
