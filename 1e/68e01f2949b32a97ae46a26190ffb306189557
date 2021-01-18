@@ -1,0 +1,2 @@
+Fixes: [49806] WIDL doesn't tolerate attribute [hidden] within enums.
+	https://bugs.winehq.org/show_bug.cgi?id=49806
