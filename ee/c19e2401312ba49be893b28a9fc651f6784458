@@ -1,0 +1,2 @@
+Fixes: [49643] Calling ClipCursor too frequently can cause stack overflow in foreground window thread.
+	https://bugs.winehq.org/show_bug.cgi?id=49643
