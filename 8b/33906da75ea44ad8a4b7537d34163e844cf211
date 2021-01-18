@@ -1,0 +1,2 @@
+Fixes: [38964] widl: inconsistent null pointer checks in typelib writer
+	https://bugs.winehq.org/show_bug.cgi?id=38964
