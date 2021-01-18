@@ -1,0 +1,3 @@
+Fixes: [22749] Hard link creation from a Finddupe-generated batch file fails ('fsutil.exe' needs to support 'hardlink create' command)
+	https://bugs.winehq.org/show_bug.cgi?id=22749
+Depends on: dd6b64b246731046236982a54b9124af92e7ec24
