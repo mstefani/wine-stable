@@ -1,0 +1,2 @@
+Fixes: [49172] Always true condition `code > 0xffff` in vbscript/global.c
+	https://bugs.winehq.org/show_bug.cgi?id=49172
