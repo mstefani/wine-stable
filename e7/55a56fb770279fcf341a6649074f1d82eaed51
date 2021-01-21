@@ -1,0 +1,2 @@
+Fixes: [50101] Ghostrunner has no sound after intro movies when prefix is set to Win10
+	https://bugs.winehq.org/show_bug.cgi?id=50101
