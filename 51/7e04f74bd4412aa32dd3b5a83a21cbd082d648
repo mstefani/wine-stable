@@ -1,0 +1,2 @@
+Fixes: [32613] Tom Clancy's Rainbow Six: Lockdown crashes after the intro videos (needs DxDiag_SoundDevices device child nodes present)
+	https://bugs.winehq.org/show_bug.cgi?id=32613
