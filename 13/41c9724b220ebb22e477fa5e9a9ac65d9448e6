@@ -1,0 +1,3 @@
+Fixes: [38014] CCCP Insurgent v2007-01-01 crashes when querying system information via DxDiag
+	https://bugs.winehq.org/show_bug.cgi?id=38014
+Depends on: 521f954d3cf1be2dd41e6cc2eeb4e11c510c10b7
