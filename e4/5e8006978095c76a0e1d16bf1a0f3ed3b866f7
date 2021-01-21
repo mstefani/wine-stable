@@ -1,0 +1,2 @@
+Fixes: [50038] IWbemClassObject::Get method with wszName = NULL crashes inside wbemprox
+	https://bugs.winehq.org/show_bug.cgi?id=50038
