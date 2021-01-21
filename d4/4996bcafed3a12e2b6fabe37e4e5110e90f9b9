@@ -1,0 +1,2 @@
+Fixes: [50016] PS Remote Play can't install: "To use PS Remote Play, update your PC's OS to the latest version, and then install the Media Feature Pack from Microsoft."
+	https://bugs.winehq.org/show_bug.cgi?id=50016
