@@ -1,0 +1,2 @@
+Fixes: [50116] ODBC applications fail to create/configure system DSNs with builtin 'odbccp32' (SQLConfigDataSource must remap ODBC_xxx_SYS_DSN values for ConfigDSN)
+	https://bugs.winehq.org/show_bug.cgi?id=50116
