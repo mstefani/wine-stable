@@ -1,0 +1,3 @@
+Fixes: [49575] Delphi applications no longer show their main window in the WM's taskbar
+	https://bugs.winehq.org/show_bug.cgi?id=49575
+Fixes regression: 3ad40bf64732cbef4ba199a45eefa12f4b491419
