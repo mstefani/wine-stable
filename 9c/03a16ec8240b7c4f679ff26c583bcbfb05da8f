@@ -1,0 +1,2 @@
+Fixes: [50160] VstHost crashes on unimplemented function avrt.dll.AvSetMmMaxThreadCharacteristicsA
+	https://bugs.winehq.org/show_bug.cgi?id=50160
