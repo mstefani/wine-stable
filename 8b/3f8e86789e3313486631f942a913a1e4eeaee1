@@ -1,0 +1,2 @@
+Fixes: [44367] Multiple applications need d2d FillEllipse/DrawEllipse implementation (OP-X PRO II VST)
+	https://bugs.winehq.org/show_bug.cgi?id=44367
