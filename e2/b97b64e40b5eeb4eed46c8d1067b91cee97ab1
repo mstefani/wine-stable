@@ -1,3 +1,4 @@
 Fixes: [50179] Future Pinball: parse_hex_literal invalid literal
 	https://bugs.winehq.org/show_bug.cgi?id=50179
 Depends on: 8def4dfa0ee9c2d70fd4c98daa50447b6a15ad3c
+Depends on: cd1918948f28b7fb874790d3f3d223c4e8471b5c
