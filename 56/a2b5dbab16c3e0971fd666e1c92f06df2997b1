@@ -1,0 +1,3 @@
+Fixes: [48441] mouse coordinates cannot exceed initial desktop size during startup of wineserver
+	https://bugs.winehq.org/show_bug.cgi?id=48441
+Depends on: 2538b0100fbbe1223e7c18a52bade5cfe5f8d3e3
