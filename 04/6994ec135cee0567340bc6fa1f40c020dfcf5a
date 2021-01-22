@@ -1,0 +1,3 @@
+Fixes: [10325] Avencast: Rise of the Mage crash on attempt to play startup video
+	https://bugs.winehq.org/show_bug.cgi?id=10325
+Depends on: 99207332d4ebc83ac230a2001a859c6404e495e7
