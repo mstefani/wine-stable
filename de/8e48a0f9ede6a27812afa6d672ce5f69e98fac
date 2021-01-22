@@ -1,0 +1,2 @@
+Fixes: [49900] Go programs built using go-winio crash on unimplemented function ntdll.dll.RtlDefaultNpAcl
+	https://bugs.winehq.org/show_bug.cgi?id=49900
