@@ -1,3 +1,5 @@
 Fixes: [33996] Multiple installers fail in VBScript custom actions due to missing support of Properties with Parameters (IncrediMail, LabChart Reader 8, Toad for MySQL Freeware 7.x)
 	https://bugs.winehq.org/show_bug.cgi?id=33996
 Depends on: a839ac952a8d5673b0aff6307cc7ecc0eabb3d99
+Depends on: 04b43c721a9f006c4c7d2a097eec7116958db8a3
+Depends on: 72977a75a4e281dff69f150b608f50a73bb5c81f
