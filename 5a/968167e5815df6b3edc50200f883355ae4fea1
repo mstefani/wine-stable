@@ -1,0 +1,2 @@
+Fixes: [34770] Some WMI applications fail when incorrectly passing WBEM_MASK_CONDITION_ORIGIN to IWbemClassObject::GetNames method
+	https://bugs.winehq.org/show_bug.cgi?id=34770
