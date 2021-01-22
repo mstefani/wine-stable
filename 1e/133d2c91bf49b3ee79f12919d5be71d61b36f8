@@ -1,0 +1,2 @@
+Fixes: [48545] SDL GameControllerAddMapping registry keys do not work
+	https://bugs.winehq.org/show_bug.cgi?id=48545
