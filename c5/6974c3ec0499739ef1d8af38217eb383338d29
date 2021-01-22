@@ -1,0 +1,3 @@
+Fixes: [50031] The Foundation Game crashes with bundled ucrtbase
+	https://bugs.winehq.org/show_bug.cgi?id=50031
+Depends on: 00a024725e86f3dd3f8bb52849fd2597bbf58d40
