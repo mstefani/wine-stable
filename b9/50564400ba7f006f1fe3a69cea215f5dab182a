@@ -1,0 +1,2 @@
+Fixes: [44502] Epic Games Launcher (Fortnight 7.x) reports 'Error: Initialization failed while advising the language notification sink to the TSF source.  (0x80004001)' (unsupported ITfActiveLanguageProfileNotifySink)
+	https://bugs.winehq.org/show_bug.cgi?id=44502
