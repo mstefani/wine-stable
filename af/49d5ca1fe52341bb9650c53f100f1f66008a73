@@ -1,0 +1,4 @@
+Fixes: [48860] RegiStax 6: mouse does not work in open file dialog
+	https://bugs.winehq.org/show_bug.cgi?id=48860
+Fixes regression: b4fea4f2f0df40976f50d396e9e4046929697879
+Depends on: c75e06528830fb882f2664d42c1d1802707bc766
