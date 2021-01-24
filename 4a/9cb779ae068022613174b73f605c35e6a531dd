@@ -1,0 +1,2 @@
+Fixes: [49143] RTF Editor does not support cyrillic letters using MS Sans Serif Font
+	https://bugs.winehq.org/show_bug.cgi?id=49143
