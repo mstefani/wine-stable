@@ -1,0 +1,2 @@
+Fixes: [49314] Wine segfaults with too many command-line arguments
+	https://bugs.winehq.org/show_bug.cgi?id=49314
