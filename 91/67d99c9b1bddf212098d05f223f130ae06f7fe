@@ -1,0 +1,3 @@
+Fixes: [28332] Wazzal 1.2 (2002 release) crashes after clicking 'Play'
+	https://bugs.winehq.org/show_bug.cgi?id=28332
+Depends on: 68d03ba8bbeb07116e15373938e511d693346f4a

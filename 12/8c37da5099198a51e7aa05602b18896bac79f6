@@ -1,0 +1,2 @@
+Fixes: [45797] NVIDIA GeForce Experience 3.x installer fails due to 'mshtml.OleObject_{Get,Set}Extent' stubs
+	https://bugs.winehq.org/show_bug.cgi?id=45797

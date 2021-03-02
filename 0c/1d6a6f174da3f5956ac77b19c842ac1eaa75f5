@@ -1,0 +1,2 @@
+Fixes: [49450] Adobe Shockwave Player 11.x plugin installer fails with jscript:cc_parser_parse '&&' expression not implemented
+	https://bugs.winehq.org/show_bug.cgi?id=49450

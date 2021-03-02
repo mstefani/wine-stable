@@ -1,0 +1,2 @@
+Fixes: [48396] 'cmd.exe /c move file1 file2' doesn't respect non-interactive mode, causing prompt for overwrite if destination file exists
+	https://bugs.winehq.org/show_bug.cgi?id=48396

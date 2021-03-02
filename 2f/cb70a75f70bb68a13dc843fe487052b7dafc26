@@ -1,0 +1,4 @@
+Fixes: [22616] Multiple applications need msvcirt.dll.??0ifstream@@QAE@PBDHH@Z (Merriam-Webster Dictionary, Power Tab Editor, gmax 1.2, GradeBook for Windows, Microsoft Reader)
+	https://bugs.winehq.org/show_bug.cgi?id=22616
+Fixes: [30014] Multiple programs require msvcirt.dll.??0ifstream@@QAE@XZ (Wouxun KG-UV2D, Charon, Cricket 2002, Mastercook 15, GraphCalc)
+	https://bugs.winehq.org/show_bug.cgi?id=30014

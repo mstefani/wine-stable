@@ -1,0 +1,3 @@
+Fixes: [35744] LabChart Reader 8 installer ends prematurely (VBScript support for class default sub missing)
+	https://bugs.winehq.org/show_bug.cgi?id=35744
+Depends on: 54740a5cb8dfb8ccedad988aaf46125893cebd15

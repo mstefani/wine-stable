@@ -1,0 +1,2 @@
+Fixes: [40430] Multiple NVIDIA installers abort due to failure to process xml config (PhysX 9.x, GeForce Now, GeForce Experience 3.x, RTX Voice)
+	https://bugs.winehq.org/show_bug.cgi?id=40430

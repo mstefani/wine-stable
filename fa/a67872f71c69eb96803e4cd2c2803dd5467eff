@@ -1,0 +1,2 @@
+Fixes: [49449] Terraria Mobile Server (.NET 4.x) crashes with System.NotImplementedException NATUPNPLib.IUPnPNAT.get_StaticPortMappingCollection()
+	https://bugs.winehq.org/show_bug.cgi?id=49449

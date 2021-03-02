@@ -1,0 +1,3 @@
+Fixes: [50373] Touhou Shinpiroku trial terminates immediately
+	https://bugs.winehq.org/show_bug.cgi?id=50373
+Fixes regression:

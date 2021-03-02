@@ -1,0 +1,2 @@
+Fixes: [49909] Win Toolkit v.1.4.37.20 (.NET 3.5 app) crashes with wine-mono
+	https://bugs.winehq.org/show_bug.cgi?id=49909

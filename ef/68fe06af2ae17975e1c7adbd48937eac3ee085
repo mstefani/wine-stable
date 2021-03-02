@@ -1,0 +1,2 @@
+Fixes: [49309] vbscript:run test fails in Japanese locale
+	https://bugs.winehq.org/show_bug.cgi?id=49309

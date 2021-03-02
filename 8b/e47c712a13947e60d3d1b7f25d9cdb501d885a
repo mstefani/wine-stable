@@ -1,0 +1,3 @@
+Fixes: [49808] Stellaris loads very slowly
+	https://bugs.winehq.org/show_bug.cgi?id=49808
+Fixes regression: afad5636cb3a49dff1e40054b47a8407629b3c01

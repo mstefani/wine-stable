@@ -1,0 +1,2 @@
+Fixes: [44061] Destiny 2 crashes on launch (needs non-zero TimeDateStamp field in PE file header)
+	https://bugs.winehq.org/show_bug.cgi?id=44061

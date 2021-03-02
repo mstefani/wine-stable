@@ -1,0 +1,2 @@
+Fixes: [49850] No One Lives Forever crashes due to GetMotif stub in dmstyle
+	https://bugs.winehq.org/show_bug.cgi?id=49850

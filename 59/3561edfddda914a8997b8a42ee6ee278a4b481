@@ -1,0 +1,2 @@
+Fixes: [45400] eden* (VN) some font characters display with the wrong glyph (capitals/spaces)
+	https://bugs.winehq.org/show_bug.cgi?id=45400

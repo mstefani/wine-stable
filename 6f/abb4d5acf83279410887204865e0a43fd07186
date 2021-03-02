@@ -1,0 +1,2 @@
+Fixes: [49811] cmd /c "cd "directory"&&"somecommand.exe"" tries to cd to "directory"&&"somecommand.exe"
+	https://bugs.winehq.org/show_bug.cgi?id=49811

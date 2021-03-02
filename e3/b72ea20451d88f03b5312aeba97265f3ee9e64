@@ -1,0 +1,2 @@
+Fixes: [49857] NCLauncher2: Crypto error on a successful login
+	https://bugs.winehq.org/show_bug.cgi?id=49857
