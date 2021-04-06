@@ -1,0 +1,2 @@
+Fixes: [50357] Star Stable Online crashes with unimplemented function dcomp.dll.DCompositionCreateDevice2
+	https://bugs.winehq.org/show_bug.cgi?id=50357
