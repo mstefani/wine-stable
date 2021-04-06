@@ -1,0 +1,3 @@
+Fixes: [30062] Deer Hunter demo: unable to start a new game (map view unusable)
+	https://bugs.winehq.org/show_bug.cgi?id=30062
+Fixes regression: 926dfc5c49dde8401732a943c1055ba6631bcc5c
