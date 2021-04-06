@@ -1,0 +1,3 @@
+Fixes: [50033] WMI class SystemRestore is missing
+	https://bugs.winehq.org/show_bug.cgi?id=50033
+Depends on: e0cb4d509338f5d1d6db71584722731d38b0d837
