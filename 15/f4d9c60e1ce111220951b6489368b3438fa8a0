@@ -1,0 +1,2 @@
+Fixes: [45046] Skyrim SE: Shadow artifacts (missing handling of 'precise' shader modifier)
+	https://bugs.winehq.org/show_bug.cgi?id=45046
