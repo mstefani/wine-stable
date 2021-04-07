@@ -1,0 +1,2 @@
+Fixes: [50376] Banished crashes when Antialiasing set to 3x MSAA with Vulkan renderer
+	https://bugs.winehq.org/show_bug.cgi?id=50376
