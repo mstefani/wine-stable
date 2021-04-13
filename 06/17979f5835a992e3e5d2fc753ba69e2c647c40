@@ -1,0 +1,2 @@
+Fixes: [50387] Batman: Arkham Origins has broken dynamic shadows with Vulkan renderer
+	https://bugs.winehq.org/show_bug.cgi?id=50387
