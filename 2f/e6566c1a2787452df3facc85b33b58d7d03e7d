@@ -1,0 +1,2 @@
+Fixes: [50459] Studio One 5 crashes on unimplemented function dcomp.dll.DCompositionCreateDevice
+	https://bugs.winehq.org/show_bug.cgi?id=50459
