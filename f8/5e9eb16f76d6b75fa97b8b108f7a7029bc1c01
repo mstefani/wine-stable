@@ -1,0 +1,3 @@
+Fixes: [50485] Still Life 2 crashes when CSMT is disabled
+	https://bugs.winehq.org/show_bug.cgi?id=50485
+Fixes regression: a7c320d184fb9d48239caf0f5529b6992477b82b
