@@ -1,0 +1,2 @@
+Fixes: [50409] Adobe Audition 2020 crashes on startup (msvcrt strftime_impl uses __lc_time_data struct WCHAR members but only ANSI members have been initialized by _Gettnames)
+	https://bugs.winehq.org/show_bug.cgi?id=50409
