@@ -1,0 +1,2 @@
+Fixes: [50599] Game Protect Kit (GPK) 'SDGame32.sys' kernel driver crashes on unimplemented function 'ntoskrnl.exe.KdDisableDebugger' (Dragon Nest)
+	https://bugs.winehq.org/show_bug.cgi?id=50599
