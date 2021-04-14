@@ -1,0 +1,2 @@
+Fixes: [50610] WMI 'Win32_OperatingSystem' OS caption property descriptions for Windows 8 and 8.1 are reversed
+	https://bugs.winehq.org/show_bug.cgi?id=50610
