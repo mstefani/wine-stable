@@ -1,0 +1,2 @@
+Fixes: [50407] Multiple Adobe CC products fail to start, reporting 'err:module:LdrInitializeThunk "CRClient.dll" failed to initialize' ('_Syserror_map' should return non-NULL string for unknown errors)
+	https://bugs.winehq.org/show_bug.cgi?id=50407
