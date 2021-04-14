@@ -1,0 +1,3 @@
+Fixes: [46709] VarFormatCurrency doesn't handle an already formatted string.
+	https://bugs.winehq.org/show_bug.cgi?id=46709
+Depends on: f1abfc6933b689de249deb90737abbed819e1cf6
