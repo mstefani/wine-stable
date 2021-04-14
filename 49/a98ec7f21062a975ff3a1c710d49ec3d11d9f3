@@ -1,0 +1,2 @@
+Fixes: [50562] WRC 5 crashes on launch with Vulkan renderer
+	https://bugs.winehq.org/show_bug.cgi?id=50562
