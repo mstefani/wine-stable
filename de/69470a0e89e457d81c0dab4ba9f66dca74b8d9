@@ -1,0 +1,2 @@
+Fixes: [50441] Steel Series Engine 3 systray icon does not respond to mouse clicks
+	https://bugs.winehq.org/show_bug.cgi?id=50441
