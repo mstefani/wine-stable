@@ -1,0 +1,3 @@
+Fixes: [50581] Far Manager v3.0: cursor position is off by one
+	https://bugs.winehq.org/show_bug.cgi?id=50581
+Fixes regression: 859b526c81a2af841b5b7b28d06f3d782bccdab5
