@@ -1,0 +1,2 @@
+Fixes: [50620] Multiple applications crash due to DHTMLEdit 'IOleObject::GetMiscStatus' stub (Atomic Mail Sender 4.25, RSSeditor 0.9.54, High Impact eMail 5)
+	https://bugs.winehq.org/show_bug.cgi?id=50620
