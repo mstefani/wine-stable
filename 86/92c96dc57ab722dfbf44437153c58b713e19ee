@@ -1,4 +1,4 @@
 Fixes: [50781] cl.exe fails to open program database
 	https://bugs.winehq.org/show_bug.cgi?id=50781
 Fixes regression: b14eee69c7240658252bc96b6302e98948f2c62c
-Acked-by: Roman PiÅ¡l <rpisl@seznam.cz>
+Acked-by: Roman Pišl <rpisl@seznam.cz>
