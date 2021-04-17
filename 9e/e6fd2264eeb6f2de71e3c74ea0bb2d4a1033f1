@@ -1,0 +1,2 @@
+Fixes: [49531] Multiple Qt5 applications spam the console continuously with 'fixme:netprofm:connection_GetAdapterId' ('INetworkConnection::GetAdapter' returns incorrect adapter GUID)(Futubull 10.x, Melodics V2, Topaz Video Enhance AI 1.x)
+	https://bugs.winehq.org/show_bug.cgi?id=49531
