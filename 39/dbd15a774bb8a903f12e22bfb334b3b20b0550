@@ -1,0 +1,3 @@
+Fixes: [50672] .toString() implementation VT_CY behaves as if .toLocaleString() was used
+	https://bugs.winehq.org/show_bug.cgi?id=50672
+Fixes regression: aa4ac3ad6cd6d0324170b0b32d4bd50e239f7762
