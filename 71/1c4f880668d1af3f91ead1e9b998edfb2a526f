@@ -1,0 +1,2 @@
+Fixes: [50701] Multiple 32-bit ARM Thumb-2 applications cause loader to output warnings during relocation processing (Miranda, Notepad2)
+	https://bugs.winehq.org/show_bug.cgi?id=50701
