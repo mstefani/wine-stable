@@ -1,0 +1,2 @@
+Fixes: [16676] RTG Bills 2.x (VB6 app) reports 'ADO error 1BD Object doesn't support this action' on startup (msado15 'connection_GetIDsOfNames' is a stub)
+	https://bugs.winehq.org/show_bug.cgi?id=16676
