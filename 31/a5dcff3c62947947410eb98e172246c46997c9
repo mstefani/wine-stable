@@ -1,0 +1,2 @@
+Fixes: [50642] Wine cmd handles incorrectly if-set when expanding variable with brackets
+	https://bugs.winehq.org/show_bug.cgi?id=50642
