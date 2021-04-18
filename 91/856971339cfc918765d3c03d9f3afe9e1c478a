@@ -1,0 +1,2 @@
+Fixes: [50698] ::wcsrtombs does not NULL "const wchar_t ** _PSource" parameter in Wine.
+	https://bugs.winehq.org/show_bug.cgi?id=50698
