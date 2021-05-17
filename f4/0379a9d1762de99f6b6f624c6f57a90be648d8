@@ -1,0 +1,4 @@
+Fixes: [3591] py2exe needs partial imagehlp.BindImageEx implementation
+	https://bugs.winehq.org/show_bug.cgi?id=3591
+Depends on: 670913af218ce8229eea646534261a33a9ff1b1a
+Depends on: 4782b08f31d967243014cff14dd41611edabcea6

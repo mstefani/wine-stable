@@ -1,0 +1,2 @@
+Fixes: [50602] Far Manager redraws incorrectly after console window is resized
+	https://bugs.winehq.org/show_bug.cgi?id=50602

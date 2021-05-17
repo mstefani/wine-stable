@@ -1,0 +1,2 @@
+Fixes: [35637] Seagate Crystal Enterprise 8.0: 'inputfileserver.exe' service needs msvcirt.dll.??0fstream@@QAE@XZ
+	https://bugs.winehq.org/show_bug.cgi?id=35637

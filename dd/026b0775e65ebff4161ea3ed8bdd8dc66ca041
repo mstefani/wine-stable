@@ -1,0 +1,2 @@
+Fixes: [50508] ACAT Phrase, part of Intel Assistive Context-Aware Toolkit (ACAT) v1.00.0 (.NET 4.5 app) crashes on unimplemented function 'uiautomationcore.dll.UiaRegisterProviderCallback'
+	https://bugs.winehq.org/show_bug.cgi?id=50508

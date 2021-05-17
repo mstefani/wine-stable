@@ -1,0 +1,4 @@
+Fixes: [50704] QueueUserAPC() Has Incorrect Error Set When Called On Terminating Thread
+	https://bugs.winehq.org/show_bug.cgi?id=50704
+Fixes regression: 6ca1d1b0812496e670957543294b04abfefe8d78
+Depends on: 816b588e0438f94a3769612739abc9d8d9980537

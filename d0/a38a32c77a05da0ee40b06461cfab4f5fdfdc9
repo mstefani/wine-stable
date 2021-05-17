@@ -1,0 +1,4 @@
+Fixes: [50377] Banished cast shadows are broken with Vulkan renderer
+	https://bugs.winehq.org/show_bug.cgi?id=50377
+Fixes: [50563] The Witcher 3: Wild Hunt has missing sunlight with Vulkan renderer
+	https://bugs.winehq.org/show_bug.cgi?id=50563

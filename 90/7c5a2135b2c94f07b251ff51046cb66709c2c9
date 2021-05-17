@@ -1,0 +1,2 @@
+Fixes: [50641] Wine cmd handles incorrectly if-for on a single line
+	https://bugs.winehq.org/show_bug.cgi?id=50641

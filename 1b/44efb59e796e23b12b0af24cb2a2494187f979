@@ -1,0 +1,2 @@
+Fixes: [28786] Wine File Explorer tree does not expand when clicked on plus '+' signs
+	https://bugs.winehq.org/show_bug.cgi?id=28786

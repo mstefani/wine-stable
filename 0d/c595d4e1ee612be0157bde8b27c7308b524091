@@ -1,0 +1,2 @@
+Fixes: [46962] Macromedia Director Player 4.x based games (16-bit NE) fail to run: "This program requires at least 4MB free memory to run." (The Rock)
+	https://bugs.winehq.org/show_bug.cgi?id=46962

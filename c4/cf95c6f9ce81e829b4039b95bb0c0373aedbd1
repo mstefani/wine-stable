@@ -1,0 +1,2 @@
+Fixes: [50740] The Suffering (Midway Games) crashes due to missing wmvcore 'IWMSyncReader2', CLSID '{faed3d21-1b6b-4af7-8cb6-3e189bbc187b}'
+	https://bugs.winehq.org/show_bug.cgi?id=50740

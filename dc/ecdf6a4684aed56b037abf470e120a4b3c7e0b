@@ -1,0 +1,3 @@
+Fixes: [50401] Multiple Adobe products crash on unimplemented function msvcp{100,110,120,140}.dll._Wcsxfrm (Audition CS6, Audition 2020)
+	https://bugs.winehq.org/show_bug.cgi?id=50401
+Depends on: 2012d7ab6a67f909d3970a8880b5487820f3972d

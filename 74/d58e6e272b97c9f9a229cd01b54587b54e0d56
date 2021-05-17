@@ -1,0 +1,4 @@
+Fixes: [50256] Animate VST plugin activation doesn't work: wbem_services_ExecQuery gets no network adapters
+	https://bugs.winehq.org/show_bug.cgi?id=50256
+Depends on: ebff7de0c986f68b9c065e513c7a6bd125f3f616
+Depends on: e8aa254f3425a140a955f9d250987c88042bb747

@@ -1,0 +1,2 @@
+Fixes: [44038] RPCS3 emulator crashes due to 'kernel32.SetFileInformationByHandle' lacking support of 'FileEndOfFileInfo' info class
+	https://bugs.winehq.org/show_bug.cgi?id=44038

@@ -1,0 +1,3 @@
+Fixes: [48618] Multiple applications show black client area on startup (Wargaming.net Game Center, Electron based apps)('--disable-gpu' command line parameter is a workaround)
+	https://bugs.winehq.org/show_bug.cgi?id=48618
+Fixes regression: 645eb62f709275ac46c2a7ea59bf8bcba34c7edd

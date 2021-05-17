@@ -1,0 +1,3 @@
+Fixes: [50515] SofTalk 1.56 doesn't speak continuously after punctuation marks.
+	https://bugs.winehq.org/show_bug.cgi?id=50515
+Depends on: aa56ee08f6c436cb5d0cbebf6b2213d06570ac8a

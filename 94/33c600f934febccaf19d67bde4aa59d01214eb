@@ -1,0 +1,3 @@
+Fixes: [50967] sc.exe doesn't understand the start command and other parameters
+	https://bugs.winehq.org/show_bug.cgi?id=50967
+Fixes regression: 8e9b9da0f8896f819312ce3c693d2fbc0fe6b19e

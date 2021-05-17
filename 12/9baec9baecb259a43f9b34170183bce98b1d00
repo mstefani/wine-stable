@@ -1,0 +1,4 @@
+Fixes: [50379] The Witcher 3 has broken rendering with Vulkan renderer
+	https://bugs.winehq.org/show_bug.cgi?id=50379
+Fixes: [50528] [Stasis 2]Broken rendering with Vulkan
+	https://bugs.winehq.org/show_bug.cgi?id=50528

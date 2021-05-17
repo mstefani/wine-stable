@@ -1,0 +1,2 @@
+Fixes: [50580] iTunes 12.11.0.26 installer doesn't recognize WinVer 'Windows 10' setting (WMI 'Win32_OperatingSystem' class uses 'GetVersionEx' API to retrieve OS version info, a deprecated API in Windows 10)
+	https://bugs.winehq.org/show_bug.cgi?id=50580

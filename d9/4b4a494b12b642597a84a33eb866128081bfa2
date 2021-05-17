@@ -1,0 +1,2 @@
+Fixes: [50744] continuous spamming of fixme:msctf:InputProcessorProfileMgr_GetActiveProfile in console
+	https://bugs.winehq.org/show_bug.cgi?id=50744
