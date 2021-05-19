@@ -1,3 +1,4 @@
 Fixes: [50632] Neverwinter: Broken graphics (texturing)
 	https://bugs.winehq.org/show_bug.cgi?id=50632
 Fixes regression: 7a54209d4bb5df18ac8fcdf26d8aa73e770403c4
+Acked-by: Henri Verbeet <hverbeet@codeweavers.com>
