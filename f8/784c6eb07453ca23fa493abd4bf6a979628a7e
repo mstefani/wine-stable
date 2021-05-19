@@ -1,0 +1,3 @@
+Fixes: [50086] user32:monitor tests timeout
+	https://bugs.winehq.org/show_bug.cgi?id=50086
+Fixes regression:
