@@ -1,0 +1,3 @@
+Fixes: [50517] Apps with GUI can't work on Apple Silicon Mac
+	https://bugs.winehq.org/show_bug.cgi?id=50517
+Acked-by: Dean M Greer <gcenx83@gmail.com>

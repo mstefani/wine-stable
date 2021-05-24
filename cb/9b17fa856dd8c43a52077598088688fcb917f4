@@ -1,0 +1,3 @@
+Fixes: [50790] No display found when using winemac.drv in a VM
+	https://bugs.winehq.org/show_bug.cgi?id=50790
+Fixes regression: ae319caa3bf97b0ab688b1f44418dfd9d522f115
