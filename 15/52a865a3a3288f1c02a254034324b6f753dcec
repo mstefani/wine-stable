@@ -1,0 +1,2 @@
+Fixes: [50811] gdi32.res fails to compile when freetype pkg-config cflags contain "-pthread"
+	https://bugs.winehq.org/show_bug.cgi?id=50811
