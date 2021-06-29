@@ -1,0 +1,3 @@
+Fixes: [50362] Fl Studio 20.8 crashes on startup
+	https://bugs.winehq.org/show_bug.cgi?id=50362
+Depends on: ed61ff43f499ca75798a040cfdc8e8bf9de7ac32
