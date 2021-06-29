@@ -1,0 +1,3 @@
+Fixes: [50809] Multiple .NET 4.x application installers fail due to 'MsiNetAssemblySupport' property returning incorrect version (IronPython 2.7.5)
+	https://bugs.winehq.org/show_bug.cgi?id=50809
+Fixes regression: 731bb72c3d00b089ee23297efdfe0496733e96a4
