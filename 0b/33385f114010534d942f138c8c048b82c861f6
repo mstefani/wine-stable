@@ -1,0 +1,3 @@
+Fixes: [50168] Error when running notepad.exe: Failed to start RpcSs service
+	https://bugs.winehq.org/show_bug.cgi?id=50168
+Fixes regression: e9090e1c903578b30118ce9559c1824361abc6da
