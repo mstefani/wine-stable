@@ -1,0 +1,4 @@
+Fixes: [50756] "Path is invalid." when using "SVN update" with SVN for Windows, which is used by TortoiseSVN
+	https://bugs.winehq.org/show_bug.cgi?id=50756
+Depends on: 5c86b9f1dc56927d8e69f84d410596b786ed8c46
+Depends on: 0f84d30753f5fa257f47c76a124f6cb9cd75f1db
