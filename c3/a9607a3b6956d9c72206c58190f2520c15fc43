@@ -1,0 +1,4 @@
+Fixes: [47310] Canon TS3100 series full driver and software package refuses to install: "To install the software, you must be logged in to an administrator account."
+	https://bugs.winehq.org/show_bug.cgi?id=47310
+Depends on: 6a822d4708ee229a1982bca8d8b01fc5abf74e2f
+Depends on: e07c658fafc39432694f96a762a4a2f6cef20bf7
