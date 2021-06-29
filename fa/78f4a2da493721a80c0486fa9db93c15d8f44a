@@ -1,0 +1,2 @@
+Fixes: [46817] Steam Big Picture needs d3d11_device_CreateDeviceContextState
+	https://bugs.winehq.org/show_bug.cgi?id=46817
