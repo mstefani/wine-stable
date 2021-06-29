@@ -1,0 +1,2 @@
+Fixes: [50805] Win32_OperatingSystem class is missing 'ProductType' (affects Chocolatey)
+	https://bugs.winehq.org/show_bug.cgi?id=50805
