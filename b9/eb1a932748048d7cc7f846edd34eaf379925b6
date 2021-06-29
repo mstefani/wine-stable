@@ -1,0 +1,2 @@
+Fixes: [50119] Dark Souls II: Scholar of the First Sin shows a white screen with vulkan renderer
+	https://bugs.winehq.org/show_bug.cgi?id=50119
