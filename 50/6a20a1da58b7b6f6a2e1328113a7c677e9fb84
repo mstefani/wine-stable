@@ -1,0 +1,7 @@
+Fixes: [47296] Google drive crashes before login
+	https://bugs.winehq.org/show_bug.cgi?id=47296
+Fixes: [49434] Wine builtin 'iexplore' crashes upon loading Google Account login page
+	https://bugs.winehq.org/show_bug.cgi?id=49434
+Fixes: [50875] HTMLElement_get_offsetParent crashes wine if a NULL offset parent is expected (VbsEdit)
+	https://bugs.winehq.org/show_bug.cgi?id=50875
+Fixes regression: d5a190b052d4f9c33a2236e8482af73fe9ad1eba
