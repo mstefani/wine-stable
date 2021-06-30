@@ -1,0 +1,2 @@
+Fixes: [50725] Nvidia FrameView 1.2 (Win10 app) crashes on unimplemented function tdh.dll.TdhLoadManifestFromBinary
+	https://bugs.winehq.org/show_bug.cgi?id=50725
