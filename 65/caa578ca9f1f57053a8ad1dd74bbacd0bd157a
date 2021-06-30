@@ -1,0 +1,2 @@
+Fixes: [50845] jscript crashes on internal assert(0) in PE build with clang
+	https://bugs.winehq.org/show_bug.cgi?id=50845
