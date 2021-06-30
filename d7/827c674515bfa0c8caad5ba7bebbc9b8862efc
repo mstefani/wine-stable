@@ -1,0 +1,2 @@
+Fixes: [48123] Word 97 crashes after calling stub URLMoniker_ComposeWith
+	https://bugs.winehq.org/show_bug.cgi?id=48123
