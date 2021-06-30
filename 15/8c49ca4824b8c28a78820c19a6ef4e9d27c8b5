@@ -1,0 +1,2 @@
+Fixes: [50492] Amazon Chime 4.x (.NET 4.5 app) reports 'Failed to InjectErrorHandlingScript, Unable to cast COM object of type 'System.__ComObject' to interface type 'mshtml.HTMLHeadElement''
+	https://bugs.winehq.org/show_bug.cgi?id=50492
