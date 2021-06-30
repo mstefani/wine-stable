@@ -1,0 +1,4 @@
+Fixes: [49954] Multiple games and applications need msvcp140_1._Aligned_get_default_resource (EVE Online Launcher, QT Creator 3.x, Kate, Snap Camera 1.11.x, Cppcheck 2.3)
+	https://bugs.winehq.org/show_bug.cgi?id=49954
+Depends on: 6568a8cb628e3c28839a7859c1ed7eb38fc9af92
+Depends on: f3f948a5a39ecff5d83f02e11256a0359624d54b
