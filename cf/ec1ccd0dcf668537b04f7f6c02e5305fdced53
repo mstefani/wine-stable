@@ -1,0 +1,3 @@
+Fixes: [48412] Multiple games have lighting issue and textures blinking (Call of Duty 4: Modern Warfare, Call of Duty: Modern Warfare 2)
+	https://bugs.winehq.org/show_bug.cgi?id=48412
+Fixes regression: 54edd5b220116febe704ecef8b3fb86621793ebe
