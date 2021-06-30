@@ -1,0 +1,2 @@
+Fixes: [50436] Upstream FAudio pkg-config file not found
+	https://bugs.winehq.org/show_bug.cgi?id=50436
