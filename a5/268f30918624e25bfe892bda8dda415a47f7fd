@@ -1,0 +1,2 @@
+Fixes: [50854] Multiple Windows 10 application installers refuse to install, requiring 'advapi32.dll' version >= 6.3.10000.0 (Elgato Stream Deck 4.9.3, Windows Admin Center 2103)
+	https://bugs.winehq.org/show_bug.cgi?id=50854
