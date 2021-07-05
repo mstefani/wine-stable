@@ -1,0 +1,2 @@
+Fixes: [50318] 'HKLM\System\CurrentControlSet\Services\Tcpip\Parameters\DataBasePath' registry entry has non-standard value
+	https://bugs.winehq.org/show_bug.cgi?id=50318
