@@ -1,0 +1,2 @@
+Fixes: [50960] NETCoreCheck from .NET Deployment Tools crashes on unimplemented function api-ms-win-crt-stdio-l1-1-0.dll.__stdio_common_vfwprintf_p
+	https://bugs.winehq.org/show_bug.cgi?id=50960
