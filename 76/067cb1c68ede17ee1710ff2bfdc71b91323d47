@@ -1,0 +1,3 @@
+Fixes: [50925] Error fetching public key in GetRSAKeyFromCert - File not found
+	https://bugs.winehq.org/show_bug.cgi?id=50925
+Depends on: c2c7946680b61bfccd4c4f5788864d4130af9baf
