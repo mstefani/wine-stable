@@ -1,0 +1,3 @@
+Fixes: [50952] Legends of Runeterra crashes at launch
+	https://bugs.winehq.org/show_bug.cgi?id=50952
+Fixes regression: be0eb9c92eb7a4fcd9d0d48568c8ed5e8326ef0b
