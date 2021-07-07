@@ -1,0 +1,2 @@
+Fixes: [39841] IShellFolder.CreateViewObject() doesn't support IID_IContextMenu (Double Commander "Error: invalid parameter" when right-clicking on an empty space)
+	https://bugs.winehq.org/show_bug.cgi?id=39841
