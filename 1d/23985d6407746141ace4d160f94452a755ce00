@@ -1,0 +1,4 @@
+Fixes: [51076] demangle_datatype in ucrtbase crash in vc2019 x86 mode
+	https://bugs.winehq.org/show_bug.cgi?id=51076
+Depends on: d7cc3d6583bade120639d30cbc374692731858d2
+Depends on: d91160835ad7a5aa08b8e2ca7a1715aaef72045b
