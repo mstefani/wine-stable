@@ -1,0 +1,2 @@
+Fixes: [35539] Proteus 8 demo fails to install
+	https://bugs.winehq.org/show_bug.cgi?id=35539
