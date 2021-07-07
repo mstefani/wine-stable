@@ -1,0 +1,2 @@
+Fixes: [51041] Scalable fonts with fsCsb[0] == 0 are not enumerated correctly
+	https://bugs.winehq.org/show_bug.cgi?id=51041
