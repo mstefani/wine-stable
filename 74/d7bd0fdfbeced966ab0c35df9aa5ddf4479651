@@ -1,0 +1,2 @@
+Fixes: [50791] NtQueryObject( ..., ObjectBasicInformation, NULL, 0, &retLen) returns incorrect NTSTATUS error code and no buffer size (EditSection, Google sandbox-attacksurface-analysis-tools v1.1.x)
+	https://bugs.winehq.org/show_bug.cgi?id=50791

@@ -1,0 +1,2 @@
+Fixes: [12457] Multiple apps crash with NotImplementedException at IWebBrowser2.get_LocationName() (SharpDevelop 2.2, Clarion Enterprise Edition 9.0.10376)
+	https://bugs.winehq.org/show_bug.cgi?id=12457

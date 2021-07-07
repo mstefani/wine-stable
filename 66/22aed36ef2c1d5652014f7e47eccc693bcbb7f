@@ -1,0 +1,2 @@
+Fixes: [12076] Multiple applications refuse to install unless '%SystemRoot%\System32\Drivers\Etc\{services,host}' exist (Informix Database apps, Autodesk 3ds Max 9, SAP GUI)
+	https://bugs.winehq.org/show_bug.cgi?id=12076

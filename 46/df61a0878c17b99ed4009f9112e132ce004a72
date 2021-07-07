@@ -1,0 +1,2 @@
+Fixes: [19756] Date/time picker doesn't notify app about checkbox changes (TaskCoach: Cannot add new task with a due date)
+	https://bugs.winehq.org/show_bug.cgi?id=19756
