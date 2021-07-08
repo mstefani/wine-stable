@@ -1,0 +1,2 @@
+Fixes: [32749] Implement atl100.dll.AtlAxDialogBoxW to show error dialogs (Visual Studio 2010 (10.0) Express Edition)
+	https://bugs.winehq.org/show_bug.cgi?id=32749
