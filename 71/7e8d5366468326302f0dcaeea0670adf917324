@@ -1,0 +1,2 @@
+Fixes: [44813] Some applications fail when calling ntdll.NtReadFile on a directory (expect STATUS_INVALID_DEVICE_REQUEST)
+	https://bugs.winehq.org/show_bug.cgi?id=44813
