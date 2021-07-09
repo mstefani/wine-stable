@@ -1,0 +1,2 @@
+Fixes: [50147] Microsoft WebView2 "evergreen bootstrapper"/installer needs IStream::CopyTo()
+	https://bugs.winehq.org/show_bug.cgi?id=50147
