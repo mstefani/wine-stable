@@ -1,0 +1,4 @@
+Fixes: [51324] Imperium Great Battles of Rome can't play videos
+	https://bugs.winehq.org/show_bug.cgi?id=51324
+Fixes regression: bdf860033860973bf2b516a1083d5bea86ad8c14
+Acked-by: Gijs Vermeulen <gijsvrm@gmail.com>
