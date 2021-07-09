@@ -1,0 +1,2 @@
+Fixes: [51117] Silverlight_x64.exe (part of LEGO MINDSTORMS EV3 Home Edition installer) crashes
+	https://bugs.winehq.org/show_bug.cgi?id=51117
