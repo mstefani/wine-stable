@@ -1,0 +1,3 @@
+Fixes: [49663] Performance regression in TrackMania Nations Forever
+	https://bugs.winehq.org/show_bug.cgi?id=49663
+Fixes regression: f02193738c88bea8fefb3f8d2e79c5e9941f6b5a
