@@ -1,0 +1,6 @@
+Fixes: [29903] Multiple games and applications fail to enumerate processes due to 'wtsapi32.WTSEnumerateProcessesW' stub (Visual Studio 2005, .NET 2.0 SDK DbgCLR, Akamai DL Manager, Dekaron)
+	https://bugs.winehq.org/show_bug.cgi?id=29903
+Depends on: 092130e2aa53bce72c2a38cb90906c6c01c4867d
+Depends on: 4ac37c4e24cf980717a982c22076cc4a5adffdd5
+Depends on: 2cdf6f0f303d8fb10b7f004857613cb87d304991
+Depends on: af39a1b0bce0622ed8df0e64f9c794380eb30c45
