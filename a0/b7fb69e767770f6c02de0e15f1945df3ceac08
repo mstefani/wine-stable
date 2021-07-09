@@ -1,0 +1,3 @@
+Fixes: [48507] osu! icons in the setting and music player are not being rendered
+	https://bugs.winehq.org/show_bug.cgi?id=48507
+Depends on: 43e2563f449372a0f7ff72052bda56505f0c4359
