@@ -1,0 +1,4 @@
+Fixes: [36010] Changing font resolution on winecfg changes default main font to Tahoma
+	https://bugs.winehq.org/show_bug.cgi?id=36010
+Acked-by: Alistair Leslie-Hughes <leslie_alistair@hotmail.com>
+Deferred: 6.0.2
